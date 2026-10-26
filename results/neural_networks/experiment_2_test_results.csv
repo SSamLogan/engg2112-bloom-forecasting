@@ -1,0 +1,5 @@
+model,examples,accuracy,precision,recall,F1,correct_warnings,false_alarms,missed_significant,correct_lower_severity
+Always lower severity,31,0.6774193548387096,0.0,0.0,0.0,0,0,10,21
+Always significant,31,0.3225806451612903,0.3225806451612903,1.0,0.4878048780487805,10,21,0,0
+Regularised environmental MLP,31,0.3225806451612903,0.3225806451612903,1.0,0.4878048780487805,10,21,0,0
+Smaller MLP + CNN,31,0.6129032258064516,0.45454545454545453,1.0,0.625,10,12,0,9

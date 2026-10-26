@@ -1,0 +1,33 @@
+# Python environment and temporary files
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local settings and credentials
+.vscode/
+.env
+.env.*
+!.env.example
+
+# Downloaded and processed datasets
+data/
+
+# Satellite images and large arrays
+*.tif
+*.tiff
+*.npy
+*.npz
+
+# Saved model weights
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# Archives
+*.zip
+
+# Operating-system files
+.DS_Store

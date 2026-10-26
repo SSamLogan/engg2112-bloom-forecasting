@@ -1,0 +1,1397 @@
+lake,forecast_start,forecast_end,model,actual,prediction,bloom_score
+Champlain,2023-01-11,2023-01-20,Training majority baseline,0,0,
+Champlain,2023-01-21,2023-01-30,Training majority baseline,0,0,
+Champlain,2023-01-31,2023-02-09,Training majority baseline,0,0,
+Champlain,2023-02-10,2023-02-19,Training majority baseline,0,0,
+Champlain,2023-02-20,2023-03-01,Training majority baseline,0,0,
+Champlain,2023-03-02,2023-03-11,Training majority baseline,0,0,
+Champlain,2023-03-12,2023-03-21,Training majority baseline,0,0,
+Champlain,2023-03-22,2023-03-31,Training majority baseline,0,0,
+Champlain,2023-04-01,2023-04-10,Training majority baseline,0,0,
+Champlain,2023-04-11,2023-04-20,Training majority baseline,0,0,
+Champlain,2023-04-21,2023-04-30,Training majority baseline,0,0,
+Champlain,2023-05-01,2023-05-10,Training majority baseline,0,0,
+Champlain,2023-05-11,2023-05-20,Training majority baseline,0,0,
+Champlain,2023-05-21,2023-05-30,Training majority baseline,0,0,
+Champlain,2023-05-31,2023-06-09,Training majority baseline,0,0,
+Champlain,2023-06-10,2023-06-19,Training majority baseline,1,0,
+Champlain,2023-06-20,2023-06-29,Training majority baseline,1,0,
+Champlain,2023-06-30,2023-07-09,Training majority baseline,1,0,
+Champlain,2023-07-10,2023-07-19,Training majority baseline,1,0,
+Champlain,2023-07-20,2023-07-29,Training majority baseline,1,0,
+Champlain,2023-07-30,2023-08-08,Training majority baseline,1,0,
+Champlain,2023-08-09,2023-08-18,Training majority baseline,1,0,
+Champlain,2023-08-19,2023-08-28,Training majority baseline,1,0,
+Champlain,2023-08-29,2023-09-07,Training majority baseline,1,0,
+Champlain,2023-09-08,2023-09-17,Training majority baseline,1,0,
+Champlain,2023-09-18,2023-09-27,Training majority baseline,1,0,
+Champlain,2023-09-28,2023-10-07,Training majority baseline,0,0,
+Champlain,2023-10-08,2023-10-17,Training majority baseline,0,0,
+Champlain,2023-10-18,2023-10-27,Training majority baseline,0,0,
+Champlain,2023-10-28,2023-11-06,Training majority baseline,0,0,
+Champlain,2023-11-07,2023-11-16,Training majority baseline,0,0,
+Champlain,2023-11-17,2023-11-26,Training majority baseline,0,0,
+Champlain,2023-11-27,2023-12-06,Training majority baseline,0,0,
+Champlain,2023-12-07,2023-12-16,Training majority baseline,0,0,
+Champlain,2023-12-17,2023-12-26,Training majority baseline,0,0,
+Champlain,2024-01-01,2024-01-10,Training majority baseline,0,0,
+Champlain,2024-01-11,2024-01-20,Training majority baseline,0,0,
+Champlain,2024-01-21,2024-01-30,Training majority baseline,0,0,
+Champlain,2024-01-31,2024-02-09,Training majority baseline,0,0,
+Champlain,2024-02-10,2024-02-19,Training majority baseline,0,0,
+Champlain,2024-02-20,2024-02-29,Training majority baseline,0,0,
+Champlain,2024-03-01,2024-03-10,Training majority baseline,0,0,
+Champlain,2024-03-11,2024-03-20,Training majority baseline,0,0,
+Champlain,2024-03-21,2024-03-30,Training majority baseline,0,0,
+Champlain,2024-03-31,2024-04-09,Training majority baseline,0,0,
+Champlain,2024-04-10,2024-04-19,Training majority baseline,0,0,
+Champlain,2024-04-20,2024-04-29,Training majority baseline,0,0,
+Champlain,2024-04-30,2024-05-09,Training majority baseline,0,0,
+Champlain,2024-05-10,2024-05-19,Training majority baseline,0,0,
+Champlain,2024-05-20,2024-05-29,Training majority baseline,0,0,
+Champlain,2024-05-30,2024-06-08,Training majority baseline,0,0,
+Champlain,2024-06-09,2024-06-18,Training majority baseline,0,0,
+Champlain,2024-06-19,2024-06-28,Training majority baseline,0,0,
+Champlain,2024-06-29,2024-07-08,Training majority baseline,1,0,
+Champlain,2024-07-09,2024-07-18,Training majority baseline,1,0,
+Champlain,2024-07-19,2024-07-28,Training majority baseline,1,0,
+Champlain,2024-07-29,2024-08-07,Training majority baseline,1,0,
+Champlain,2024-08-08,2024-08-17,Training majority baseline,1,0,
+Champlain,2024-08-18,2024-08-27,Training majority baseline,1,0,
+Champlain,2024-08-28,2024-09-06,Training majority baseline,1,0,
+Champlain,2024-09-07,2024-09-16,Training majority baseline,1,0,
+Champlain,2024-09-17,2024-09-26,Training majority baseline,1,0,
+Champlain,2024-09-27,2024-10-06,Training majority baseline,1,0,
+Champlain,2024-10-07,2024-10-16,Training majority baseline,1,0,
+Champlain,2024-10-17,2024-10-26,Training majority baseline,1,0,
+Champlain,2024-10-27,2024-11-05,Training majority baseline,0,0,
+Champlain,2024-11-06,2024-11-15,Training majority baseline,0,0,
+Champlain,2024-11-16,2024-11-25,Training majority baseline,0,0,
+Champlain,2024-11-26,2024-12-05,Training majority baseline,0,0,
+Champlain,2024-12-06,2024-12-15,Training majority baseline,0,0,
+Champlain,2024-12-16,2024-12-25,Training majority baseline,0,0,
+Champlain,2023-01-11,2023-01-20,Environmental MLP,0,0,0.19958969950675964
+Champlain,2023-01-21,2023-01-30,Environmental MLP,0,0,0.17583201825618744
+Champlain,2023-01-31,2023-02-09,Environmental MLP,0,0,0.19431261718273163
+Champlain,2023-02-10,2023-02-19,Environmental MLP,0,0,0.17206980288028717
+Champlain,2023-02-20,2023-03-01,Environmental MLP,0,0,0.1641753762960434
+Champlain,2023-03-02,2023-03-11,Environmental MLP,0,0,0.11629624664783478
+Champlain,2023-03-12,2023-03-21,Environmental MLP,0,0,0.12867407500743866
+Champlain,2023-03-22,2023-03-31,Environmental MLP,0,0,0.11768370866775513
+Champlain,2023-04-01,2023-04-10,Environmental MLP,0,0,0.09981650859117508
+Champlain,2023-04-11,2023-04-20,Environmental MLP,0,0,0.09090826660394669
+Champlain,2023-04-21,2023-04-30,Environmental MLP,0,0,0.07367618381977081
+Champlain,2023-05-01,2023-05-10,Environmental MLP,0,0,0.14900828897953033
+Champlain,2023-05-11,2023-05-20,Environmental MLP,0,0,0.3244563937187195
+Champlain,2023-05-21,2023-05-30,Environmental MLP,0,0,0.43111473321914673
+Champlain,2023-05-31,2023-06-09,Environmental MLP,0,0,0.25810539722442627
+Champlain,2023-06-10,2023-06-19,Environmental MLP,1,0,0.4335172176361084
+Champlain,2023-06-20,2023-06-29,Environmental MLP,1,0,0.18552643060684204
+Champlain,2023-06-30,2023-07-09,Environmental MLP,1,0,0.26014429330825806
+Champlain,2023-07-10,2023-07-19,Environmental MLP,1,0,0.3018542528152466
+Champlain,2023-07-20,2023-07-29,Environmental MLP,1,0,0.04923278093338013
+Champlain,2023-07-30,2023-08-08,Environmental MLP,1,0,0.3601360023021698
+Champlain,2023-08-09,2023-08-18,Environmental MLP,1,0,0.43076780438423157
+Champlain,2023-08-19,2023-08-28,Environmental MLP,1,1,0.5143836736679077
+Champlain,2023-08-29,2023-09-07,Environmental MLP,1,0,0.3338162899017334
+Champlain,2023-09-08,2023-09-17,Environmental MLP,1,0,0.43617597222328186
+Champlain,2023-09-18,2023-09-27,Environmental MLP,1,1,0.6053808331489563
+Champlain,2023-09-28,2023-10-07,Environmental MLP,0,0,0.45271846652030945
+Champlain,2023-10-08,2023-10-17,Environmental MLP,0,0,0.4742836654186249
+Champlain,2023-10-18,2023-10-27,Environmental MLP,0,0,0.3468036651611328
+Champlain,2023-10-28,2023-11-06,Environmental MLP,0,0,0.3300054967403412
+Champlain,2023-11-07,2023-11-16,Environmental MLP,0,0,0.30409330129623413
+Champlain,2023-11-17,2023-11-26,Environmental MLP,0,0,0.24797065556049347
+Champlain,2023-11-27,2023-12-06,Environmental MLP,0,0,0.23802833259105682
+Champlain,2023-12-07,2023-12-16,Environmental MLP,0,0,0.20997752249240875
+Champlain,2023-12-17,2023-12-26,Environmental MLP,0,0,0.2100609689950943
+Champlain,2024-01-01,2024-01-10,Environmental MLP,0,0,0.26779282093048096
+Champlain,2024-01-11,2024-01-20,Environmental MLP,0,0,0.24729932844638824
+Champlain,2024-01-21,2024-01-30,Environmental MLP,0,0,0.2396784871816635
+Champlain,2024-01-31,2024-02-09,Environmental MLP,0,0,0.23847278952598572
+Champlain,2024-02-10,2024-02-19,Environmental MLP,0,0,0.2061176747083664
+Champlain,2024-02-20,2024-02-29,Environmental MLP,0,0,0.22723957896232605
+Champlain,2024-03-01,2024-03-10,Environmental MLP,0,0,0.19651798903942108
+Champlain,2024-03-11,2024-03-20,Environmental MLP,0,0,0.10532519966363907
+Champlain,2024-03-21,2024-03-30,Environmental MLP,0,0,0.09713186323642731
+Champlain,2024-03-31,2024-04-09,Environmental MLP,0,0,0.08981221914291382
+Champlain,2024-04-10,2024-04-19,Environmental MLP,0,0,0.0763634517788887
+Champlain,2024-04-20,2024-04-29,Environmental MLP,0,0,0.0682104304432869
+Champlain,2024-04-30,2024-05-09,Environmental MLP,0,0,0.19380059838294983
+Champlain,2024-05-10,2024-05-19,Environmental MLP,0,0,0.4149388372898102
+Champlain,2024-05-20,2024-05-29,Environmental MLP,0,0,0.3270966708660126
+Champlain,2024-05-30,2024-06-08,Environmental MLP,0,0,0.1974915713071823
+Champlain,2024-06-09,2024-06-18,Environmental MLP,0,0,0.34637969732284546
+Champlain,2024-06-19,2024-06-28,Environmental MLP,0,0,0.22724594175815582
+Champlain,2024-06-29,2024-07-08,Environmental MLP,1,0,0.17973078787326813
+Champlain,2024-07-09,2024-07-18,Environmental MLP,1,0,0.24113298952579498
+Champlain,2024-07-19,2024-07-28,Environmental MLP,1,0,0.03692687675356865
+Champlain,2024-07-29,2024-08-07,Environmental MLP,1,0,0.28055644035339355
+Champlain,2024-08-08,2024-08-17,Environmental MLP,1,0,0.2501474916934967
+Champlain,2024-08-18,2024-08-27,Environmental MLP,1,0,0.2479521781206131
+Champlain,2024-08-28,2024-09-06,Environmental MLP,1,1,0.524203360080719
+Champlain,2024-09-07,2024-09-16,Environmental MLP,1,1,0.6512657999992371
+Champlain,2024-09-17,2024-09-26,Environmental MLP,1,1,0.6469208598136902
+Champlain,2024-09-27,2024-10-06,Environmental MLP,1,0,0.49272799491882324
+Champlain,2024-10-07,2024-10-16,Environmental MLP,1,1,0.5101305246353149
+Champlain,2024-10-17,2024-10-26,Environmental MLP,1,0,0.41814538836479187
+Champlain,2024-10-27,2024-11-05,Environmental MLP,0,0,0.3539711534976959
+Champlain,2024-11-06,2024-11-15,Environmental MLP,0,0,0.29604148864746094
+Champlain,2024-11-16,2024-11-25,Environmental MLP,0,0,0.293984979391098
+Champlain,2024-11-26,2024-12-05,Environmental MLP,0,0,0.251030296087265
+Champlain,2024-12-06,2024-12-15,Environmental MLP,0,0,0.2121090143918991
+Champlain,2024-12-16,2024-12-25,Environmental MLP,0,0,0.19366304576396942
+Champlain,2023-01-11,2023-01-20,MLP + CNN,0,0,0.290775328874588
+Champlain,2023-01-21,2023-01-30,MLP + CNN,0,0,0.2857968807220459
+Champlain,2023-01-31,2023-02-09,MLP + CNN,0,0,0.28018128871917725
+Champlain,2023-02-10,2023-02-19,MLP + CNN,0,0,0.28435418009757996
+Champlain,2023-02-20,2023-03-01,MLP + CNN,0,0,0.27698537707328796
+Champlain,2023-03-02,2023-03-11,MLP + CNN,0,0,0.26243284344673157
+Champlain,2023-03-12,2023-03-21,MLP + CNN,0,0,0.27078914642333984
+Champlain,2023-03-22,2023-03-31,MLP + CNN,0,0,0.2758353650569916
+Champlain,2023-04-01,2023-04-10,MLP + CNN,0,0,0.27281424403190613
+Champlain,2023-04-11,2023-04-20,MLP + CNN,0,0,0.2758958637714386
+Champlain,2023-04-21,2023-04-30,MLP + CNN,0,0,0.27716952562332153
+Champlain,2023-05-01,2023-05-10,MLP + CNN,0,0,0.30390533804893494
+Champlain,2023-05-11,2023-05-20,MLP + CNN,0,1,0.5313747525215149
+Champlain,2023-05-21,2023-05-30,MLP + CNN,0,1,0.6011833548545837
+Champlain,2023-05-31,2023-06-09,MLP + CNN,0,1,0.5678444504737854
+Champlain,2023-06-10,2023-06-19,MLP + CNN,1,1,0.6857706308364868
+Champlain,2023-06-20,2023-06-29,MLP + CNN,1,1,0.5000173449516296
+Champlain,2023-06-30,2023-07-09,MLP + CNN,1,1,0.6229133605957031
+Champlain,2023-07-10,2023-07-19,MLP + CNN,1,0,0.4049685299396515
+Champlain,2023-07-20,2023-07-29,MLP + CNN,1,0,0.22887520492076874
+Champlain,2023-07-30,2023-08-08,MLP + CNN,1,1,0.5458072423934937
+Champlain,2023-08-09,2023-08-18,MLP + CNN,1,1,0.5239757895469666
+Champlain,2023-08-19,2023-08-28,MLP + CNN,1,1,0.5604429244995117
+Champlain,2023-08-29,2023-09-07,MLP + CNN,1,1,0.501000702381134
+Champlain,2023-09-08,2023-09-17,MLP + CNN,1,1,0.5523374080657959
+Champlain,2023-09-18,2023-09-27,MLP + CNN,1,1,0.6775533556938171
+Champlain,2023-09-28,2023-10-07,MLP + CNN,0,1,0.5583187341690063
+Champlain,2023-10-08,2023-10-17,MLP + CNN,0,1,0.5843786597251892
+Champlain,2023-10-18,2023-10-27,MLP + CNN,0,0,0.46542513370513916
+Champlain,2023-10-28,2023-11-06,MLP + CNN,0,0,0.3801422119140625
+Champlain,2023-11-07,2023-11-16,MLP + CNN,0,0,0.3709469139575958
+Champlain,2023-11-17,2023-11-26,MLP + CNN,0,0,0.3527367413043976
+Champlain,2023-11-27,2023-12-06,MLP + CNN,0,0,0.33774057030677795
+Champlain,2023-12-07,2023-12-16,MLP + CNN,0,0,0.30709871649742126
+Champlain,2023-12-17,2023-12-26,MLP + CNN,0,0,0.30007925629615784
+Champlain,2024-01-01,2024-01-10,MLP + CNN,0,0,0.3263572156429291
+Champlain,2024-01-11,2024-01-20,MLP + CNN,0,0,0.30475667119026184
+Champlain,2024-01-21,2024-01-30,MLP + CNN,0,0,0.29941487312316895
+Champlain,2024-01-31,2024-02-09,MLP + CNN,0,0,0.2941148281097412
+Champlain,2024-02-10,2024-02-19,MLP + CNN,0,0,0.28830042481422424
+Champlain,2024-02-20,2024-02-29,MLP + CNN,0,0,0.2915377616882324
+Champlain,2024-03-01,2024-03-10,MLP + CNN,0,0,0.2885855734348297
+Champlain,2024-03-11,2024-03-20,MLP + CNN,0,0,0.265303373336792
+Champlain,2024-03-21,2024-03-30,MLP + CNN,0,0,0.263161838054657
+Champlain,2024-03-31,2024-04-09,MLP + CNN,0,0,0.2715355157852173
+Champlain,2024-04-10,2024-04-19,MLP + CNN,0,0,0.2667006254196167
+Champlain,2024-04-20,2024-04-29,MLP + CNN,0,0,0.2644259035587311
+Champlain,2024-04-30,2024-05-09,MLP + CNN,0,0,0.3841632008552551
+Champlain,2024-05-10,2024-05-19,MLP + CNN,0,1,0.6444817781448364
+Champlain,2024-05-20,2024-05-29,MLP + CNN,0,1,0.5516669750213623
+Champlain,2024-05-30,2024-06-08,MLP + CNN,0,0,0.4294680058956146
+Champlain,2024-06-09,2024-06-18,MLP + CNN,0,1,0.672380268573761
+Champlain,2024-06-19,2024-06-28,MLP + CNN,0,1,0.5592958331108093
+Champlain,2024-06-29,2024-07-08,MLP + CNN,1,0,0.343721866607666
+Champlain,2024-07-09,2024-07-18,MLP + CNN,1,1,0.5787556171417236
+Champlain,2024-07-19,2024-07-28,MLP + CNN,1,0,0.21603074669837952
+Champlain,2024-07-29,2024-08-07,MLP + CNN,1,1,0.5411584377288818
+Champlain,2024-08-08,2024-08-17,MLP + CNN,1,0,0.35850024223327637
+Champlain,2024-08-18,2024-08-27,MLP + CNN,1,0,0.35948237776756287
+Champlain,2024-08-28,2024-09-06,MLP + CNN,1,1,0.6242616176605225
+Champlain,2024-09-07,2024-09-16,MLP + CNN,1,1,0.6932496428489685
+Champlain,2024-09-17,2024-09-26,MLP + CNN,1,1,0.7125492095947266
+Champlain,2024-09-27,2024-10-06,MLP + CNN,1,1,0.5829076170921326
+Champlain,2024-10-07,2024-10-16,MLP + CNN,1,1,0.6019629240036011
+Champlain,2024-10-17,2024-10-26,MLP + CNN,1,1,0.5369175672531128
+Champlain,2024-10-27,2024-11-05,MLP + CNN,0,0,0.4163292944431305
+Champlain,2024-11-06,2024-11-15,MLP + CNN,0,0,0.3628700375556946
+Champlain,2024-11-16,2024-11-25,MLP + CNN,0,0,0.34819334745407104
+Champlain,2024-11-26,2024-12-05,MLP + CNN,0,0,0.33232739567756653
+Champlain,2024-12-06,2024-12-15,MLP + CNN,0,0,0.31498634815216064
+Champlain,2024-12-16,2024-12-25,MLP + CNN,0,0,0.3014619052410126
+Erie,2002-06-01,2002-06-10,Training majority baseline,0,1,
+Erie,2002-06-11,2002-06-20,Training majority baseline,0,1,
+Erie,2002-06-21,2002-06-30,Training majority baseline,0,1,
+Erie,2002-07-01,2002-07-10,Training majority baseline,0,1,
+Erie,2002-07-11,2002-07-20,Training majority baseline,0,1,
+Erie,2002-07-21,2002-07-30,Training majority baseline,0,1,
+Erie,2002-07-31,2002-08-09,Training majority baseline,0,1,
+Erie,2002-08-10,2002-08-19,Training majority baseline,0,1,
+Erie,2002-08-20,2002-08-29,Training majority baseline,0,1,
+Erie,2002-08-30,2002-09-08,Training majority baseline,0,1,
+Erie,2002-09-09,2002-09-18,Training majority baseline,0,1,
+Erie,2002-09-19,2002-09-28,Training majority baseline,0,1,
+Erie,2002-09-29,2002-10-08,Training majority baseline,0,1,
+Erie,2002-10-09,2002-10-18,Training majority baseline,0,1,
+Erie,2003-06-01,2003-06-10,Training majority baseline,0,1,
+Erie,2003-06-11,2003-06-20,Training majority baseline,0,1,
+Erie,2003-06-21,2003-06-30,Training majority baseline,0,1,
+Erie,2003-07-01,2003-07-10,Training majority baseline,0,1,
+Erie,2003-07-11,2003-07-20,Training majority baseline,0,1,
+Erie,2003-07-21,2003-07-30,Training majority baseline,0,1,
+Erie,2003-07-31,2003-08-09,Training majority baseline,0,1,
+Erie,2003-08-10,2003-08-19,Training majority baseline,0,1,
+Erie,2003-08-20,2003-08-29,Training majority baseline,1,1,
+Erie,2003-08-30,2003-09-08,Training majority baseline,1,1,
+Erie,2003-09-09,2003-09-18,Training majority baseline,1,1,
+Erie,2003-09-19,2003-09-28,Training majority baseline,0,1,
+Erie,2003-09-29,2003-10-08,Training majority baseline,0,1,
+Erie,2003-10-09,2003-10-18,Training majority baseline,0,1,
+Erie,2004-06-01,2004-06-10,Training majority baseline,0,1,
+Erie,2004-06-11,2004-06-20,Training majority baseline,0,1,
+Erie,2004-06-21,2004-06-30,Training majority baseline,0,1,
+Erie,2004-07-01,2004-07-10,Training majority baseline,0,1,
+Erie,2004-07-11,2004-07-20,Training majority baseline,0,1,
+Erie,2004-07-21,2004-07-30,Training majority baseline,0,1,
+Erie,2004-07-31,2004-08-09,Training majority baseline,0,1,
+Erie,2004-08-10,2004-08-19,Training majority baseline,0,1,
+Erie,2004-08-20,2004-08-29,Training majority baseline,0,1,
+Erie,2004-08-30,2004-09-08,Training majority baseline,1,1,
+Erie,2004-09-09,2004-09-18,Training majority baseline,1,1,
+Erie,2004-09-19,2004-09-28,Training majority baseline,0,1,
+Erie,2004-09-29,2004-10-08,Training majority baseline,0,1,
+Erie,2004-10-09,2004-10-18,Training majority baseline,0,1,
+Erie,2005-06-01,2005-06-10,Training majority baseline,0,1,
+Erie,2005-06-11,2005-06-20,Training majority baseline,0,1,
+Erie,2005-06-21,2005-06-30,Training majority baseline,0,1,
+Erie,2005-07-01,2005-07-10,Training majority baseline,0,1,
+Erie,2005-07-11,2005-07-20,Training majority baseline,0,1,
+Erie,2005-07-21,2005-07-30,Training majority baseline,0,1,
+Erie,2005-07-31,2005-08-09,Training majority baseline,0,1,
+Erie,2005-08-10,2005-08-19,Training majority baseline,0,1,
+Erie,2005-08-20,2005-08-29,Training majority baseline,0,1,
+Erie,2005-08-30,2005-09-08,Training majority baseline,0,1,
+Erie,2005-09-09,2005-09-18,Training majority baseline,0,1,
+Erie,2005-09-19,2005-09-28,Training majority baseline,0,1,
+Erie,2005-09-29,2005-10-08,Training majority baseline,0,1,
+Erie,2005-10-09,2005-10-18,Training majority baseline,0,1,
+Erie,2006-06-11,2006-06-20,Training majority baseline,0,1,
+Erie,2006-06-21,2006-06-30,Training majority baseline,0,1,
+Erie,2006-07-01,2006-07-10,Training majority baseline,0,1,
+Erie,2006-07-21,2006-07-30,Training majority baseline,0,1,
+Erie,2006-08-10,2006-08-19,Training majority baseline,0,1,
+Erie,2006-09-09,2006-09-18,Training majority baseline,0,1,
+Erie,2006-09-19,2006-09-28,Training majority baseline,0,1,
+Erie,2006-09-29,2006-10-08,Training majority baseline,0,1,
+Erie,2006-10-09,2006-10-18,Training majority baseline,0,1,
+Erie,2007-06-01,2007-06-10,Training majority baseline,0,1,
+Erie,2007-06-11,2007-06-20,Training majority baseline,0,1,
+Erie,2007-06-21,2007-06-30,Training majority baseline,0,1,
+Erie,2007-07-01,2007-07-10,Training majority baseline,0,1,
+Erie,2007-07-11,2007-07-20,Training majority baseline,0,1,
+Erie,2007-07-21,2007-07-30,Training majority baseline,0,1,
+Erie,2007-07-31,2007-08-09,Training majority baseline,0,1,
+Erie,2007-08-10,2007-08-19,Training majority baseline,0,1,
+Erie,2007-08-20,2007-08-29,Training majority baseline,0,1,
+Erie,2007-08-30,2007-09-08,Training majority baseline,0,1,
+Erie,2007-09-09,2007-09-18,Training majority baseline,0,1,
+Erie,2007-09-19,2007-09-28,Training majority baseline,0,1,
+Erie,2007-09-29,2007-10-08,Training majority baseline,0,1,
+Erie,2007-10-09,2007-10-18,Training majority baseline,0,1,
+Erie,2008-06-01,2008-06-10,Training majority baseline,0,1,
+Erie,2008-06-11,2008-06-20,Training majority baseline,0,1,
+Erie,2008-06-21,2008-06-30,Training majority baseline,0,1,
+Erie,2008-07-01,2008-07-10,Training majority baseline,0,1,
+Erie,2008-07-11,2008-07-20,Training majority baseline,0,1,
+Erie,2008-07-21,2008-07-30,Training majority baseline,0,1,
+Erie,2008-07-31,2008-08-09,Training majority baseline,0,1,
+Erie,2008-08-10,2008-08-19,Training majority baseline,0,1,
+Erie,2008-08-20,2008-08-29,Training majority baseline,1,1,
+Erie,2008-08-30,2008-09-08,Training majority baseline,1,1,
+Erie,2008-09-09,2008-09-18,Training majority baseline,1,1,
+Erie,2008-09-19,2008-09-28,Training majority baseline,1,1,
+Erie,2008-09-29,2008-10-08,Training majority baseline,0,1,
+Erie,2008-10-09,2008-10-18,Training majority baseline,1,1,
+Erie,2009-06-01,2009-06-10,Training majority baseline,0,1,
+Erie,2009-06-11,2009-06-20,Training majority baseline,0,1,
+Erie,2009-06-21,2009-06-30,Training majority baseline,1,1,
+Erie,2009-07-01,2009-07-10,Training majority baseline,0,1,
+Erie,2009-07-11,2009-07-20,Training majority baseline,1,1,
+Erie,2009-07-21,2009-07-30,Training majority baseline,1,1,
+Erie,2009-07-31,2009-08-09,Training majority baseline,1,1,
+Erie,2009-08-10,2009-08-19,Training majority baseline,1,1,
+Erie,2009-08-20,2009-08-29,Training majority baseline,1,1,
+Erie,2009-08-30,2009-09-08,Training majority baseline,1,1,
+Erie,2009-09-09,2009-09-18,Training majority baseline,1,1,
+Erie,2009-09-19,2009-09-28,Training majority baseline,1,1,
+Erie,2009-09-29,2009-10-08,Training majority baseline,0,1,
+Erie,2009-10-09,2009-10-18,Training majority baseline,0,1,
+Erie,2010-06-01,2010-06-10,Training majority baseline,0,1,
+Erie,2010-06-11,2010-06-20,Training majority baseline,0,1,
+Erie,2010-06-21,2010-06-30,Training majority baseline,0,1,
+Erie,2010-07-01,2010-07-10,Training majority baseline,1,1,
+Erie,2010-07-11,2010-07-20,Training majority baseline,0,1,
+Erie,2010-07-21,2010-07-30,Training majority baseline,1,1,
+Erie,2010-07-31,2010-08-09,Training majority baseline,0,1,
+Erie,2010-08-10,2010-08-19,Training majority baseline,0,1,
+Erie,2010-08-20,2010-08-29,Training majority baseline,0,1,
+Erie,2010-08-30,2010-09-08,Training majority baseline,1,1,
+Erie,2010-09-09,2010-09-18,Training majority baseline,1,1,
+Erie,2010-09-19,2010-09-28,Training majority baseline,1,1,
+Erie,2010-09-29,2010-10-08,Training majority baseline,1,1,
+Erie,2010-10-09,2010-10-18,Training majority baseline,0,1,
+Erie,2011-06-01,2011-06-10,Training majority baseline,1,1,
+Erie,2011-06-11,2011-06-20,Training majority baseline,0,1,
+Erie,2011-06-21,2011-06-30,Training majority baseline,0,1,
+Erie,2011-07-01,2011-07-10,Training majority baseline,0,1,
+Erie,2011-07-11,2011-07-20,Training majority baseline,1,1,
+Erie,2011-07-21,2011-07-30,Training majority baseline,1,1,
+Erie,2011-07-31,2011-08-09,Training majority baseline,1,1,
+Erie,2011-08-10,2011-08-19,Training majority baseline,1,1,
+Erie,2011-08-20,2011-08-29,Training majority baseline,1,1,
+Erie,2011-08-30,2011-09-08,Training majority baseline,1,1,
+Erie,2011-09-09,2011-09-18,Training majority baseline,1,1,
+Erie,2011-09-19,2011-09-28,Training majority baseline,1,1,
+Erie,2011-09-29,2011-10-08,Training majority baseline,1,1,
+Erie,2011-10-09,2011-10-18,Training majority baseline,1,1,
+Erie,2012-06-01,2012-06-10,Training majority baseline,0,1,
+Erie,2012-06-11,2012-06-20,Training majority baseline,0,1,
+Erie,2012-06-21,2012-06-30,Training majority baseline,0,1,
+Erie,2012-07-01,2012-07-10,Training majority baseline,0,1,
+Erie,2012-07-11,2012-07-20,Training majority baseline,0,1,
+Erie,2012-07-21,2012-07-30,Training majority baseline,0,1,
+Erie,2012-07-31,2012-08-09,Training majority baseline,0,1,
+Erie,2012-08-10,2012-08-19,Training majority baseline,0,1,
+Erie,2012-08-20,2012-08-29,Training majority baseline,1,1,
+Erie,2012-08-30,2012-09-08,Training majority baseline,0,1,
+Erie,2012-09-09,2012-09-18,Training majority baseline,1,1,
+Erie,2012-09-19,2012-09-28,Training majority baseline,0,1,
+Erie,2012-09-29,2012-10-08,Training majority baseline,0,1,
+Erie,2012-10-09,2012-10-18,Training majority baseline,0,1,
+Erie,2013-06-01,2013-06-10,Training majority baseline,0,1,
+Erie,2013-06-11,2013-06-20,Training majority baseline,0,1,
+Erie,2013-06-21,2013-06-30,Training majority baseline,0,1,
+Erie,2013-07-01,2013-07-10,Training majority baseline,0,1,
+Erie,2013-07-11,2013-07-20,Training majority baseline,0,1,
+Erie,2013-07-21,2013-07-30,Training majority baseline,1,1,
+Erie,2013-07-31,2013-08-09,Training majority baseline,1,1,
+Erie,2013-08-10,2013-08-19,Training majority baseline,1,1,
+Erie,2013-08-20,2013-08-29,Training majority baseline,1,1,
+Erie,2013-08-30,2013-09-08,Training majority baseline,1,1,
+Erie,2013-09-09,2013-09-18,Training majority baseline,1,1,
+Erie,2013-09-19,2013-09-28,Training majority baseline,1,1,
+Erie,2013-09-29,2013-10-08,Training majority baseline,1,1,
+Erie,2013-10-09,2013-10-18,Training majority baseline,1,1,
+Erie,2014-06-01,2014-06-10,Training majority baseline,0,1,
+Erie,2014-06-11,2014-06-20,Training majority baseline,0,1,
+Erie,2014-06-21,2014-06-30,Training majority baseline,0,1,
+Erie,2014-07-01,2014-07-10,Training majority baseline,0,1,
+Erie,2014-07-11,2014-07-20,Training majority baseline,1,1,
+Erie,2014-08-01,2014-08-10,Training majority baseline,1,1,
+Erie,2014-08-11,2014-08-20,Training majority baseline,1,1,
+Erie,2014-09-01,2014-09-10,Training majority baseline,1,1,
+Erie,2014-09-11,2014-09-20,Training majority baseline,1,1,
+Erie,2014-09-21,2014-09-30,Training majority baseline,1,1,
+Erie,2014-10-01,2014-10-10,Training majority baseline,1,1,
+Erie,2014-10-11,2014-10-20,Training majority baseline,0,1,
+Erie,2015-07-11,2015-07-20,Training majority baseline,1,1,
+Erie,2015-07-21,2015-07-30,Training majority baseline,1,1,
+Erie,2015-07-31,2015-08-09,Training majority baseline,1,1,
+Erie,2015-08-10,2015-08-19,Training majority baseline,1,1,
+Erie,2015-08-20,2015-08-29,Training majority baseline,1,1,
+Erie,2015-08-30,2015-09-08,Training majority baseline,1,1,
+Erie,2015-09-09,2015-09-18,Training majority baseline,1,1,
+Erie,2015-09-19,2015-09-28,Training majority baseline,1,1,
+Erie,2015-09-29,2015-10-08,Training majority baseline,1,1,
+Erie,2015-10-09,2015-10-18,Training majority baseline,1,1,
+Erie,2016-07-01,2016-07-10,Training majority baseline,0,1,
+Erie,2016-07-11,2016-07-20,Training majority baseline,1,1,
+Erie,2016-07-21,2016-07-30,Training majority baseline,1,1,
+Erie,2016-07-31,2016-08-09,Training majority baseline,1,1,
+Erie,2016-08-10,2016-08-19,Training majority baseline,1,1,
+Erie,2016-08-20,2016-08-29,Training majority baseline,1,1,
+Erie,2016-08-30,2016-09-08,Training majority baseline,1,1,
+Erie,2016-09-09,2016-09-18,Training majority baseline,1,1,
+Erie,2016-09-19,2016-09-28,Training majority baseline,1,1,
+Erie,2016-09-29,2016-10-08,Training majority baseline,0,1,
+Erie,2016-10-09,2016-10-18,Training majority baseline,0,1,
+Erie,2017-07-01,2017-07-10,Training majority baseline,0,1,
+Erie,2017-07-11,2017-07-20,Training majority baseline,0,1,
+Erie,2017-08-01,2017-08-10,Training majority baseline,1,1,
+Erie,2017-08-11,2017-08-20,Training majority baseline,1,1,
+Erie,2017-09-01,2017-09-10,Training majority baseline,1,1,
+Erie,2017-09-11,2017-09-20,Training majority baseline,1,1,
+Erie,2017-09-21,2017-09-30,Training majority baseline,1,1,
+Erie,2017-10-01,2017-10-10,Training majority baseline,1,1,
+Erie,2017-10-11,2017-10-20,Training majority baseline,1,1,
+Erie,2018-06-11,2018-06-20,Training majority baseline,0,1,
+Erie,2018-06-21,2018-06-30,Training majority baseline,0,1,
+Erie,2018-07-01,2018-07-10,Training majority baseline,0,1,
+Erie,2018-07-11,2018-07-20,Training majority baseline,0,1,
+Erie,2018-08-01,2018-08-10,Training majority baseline,1,1,
+Erie,2018-08-11,2018-08-20,Training majority baseline,1,1,
+Erie,2018-09-01,2018-09-10,Training majority baseline,1,1,
+Erie,2018-09-11,2018-09-20,Training majority baseline,0,1,
+Erie,2018-09-21,2018-09-30,Training majority baseline,0,1,
+Erie,2019-07-01,2019-07-10,Training majority baseline,0,1,
+Erie,2019-07-11,2019-07-20,Training majority baseline,0,1,
+Erie,2019-08-01,2019-08-10,Training majority baseline,1,1,
+Erie,2019-08-11,2019-08-20,Training majority baseline,1,1,
+Erie,2019-09-01,2019-09-10,Training majority baseline,0,1,
+Erie,2019-09-11,2019-09-20,Training majority baseline,0,1,
+Erie,2019-09-21,2019-09-30,Training majority baseline,0,1,
+Erie,2002-06-01,2002-06-10,Environmental MLP,0,0,0.002069194335490465
+Erie,2002-06-11,2002-06-20,Environmental MLP,0,0,0.15639352798461914
+Erie,2002-06-21,2002-06-30,Environmental MLP,0,1,0.9577640295028687
+Erie,2002-07-01,2002-07-10,Environmental MLP,0,1,0.9461437463760376
+Erie,2002-07-11,2002-07-20,Environmental MLP,0,1,0.9346017837524414
+Erie,2002-07-21,2002-07-30,Environmental MLP,0,1,0.9924886226654053
+Erie,2002-07-31,2002-08-09,Environmental MLP,0,1,0.9255509376525879
+Erie,2002-08-10,2002-08-19,Environmental MLP,0,1,0.9547757506370544
+Erie,2002-08-20,2002-08-29,Environmental MLP,0,1,0.963808000087738
+Erie,2002-08-30,2002-09-08,Environmental MLP,0,1,0.9288272857666016
+Erie,2002-09-09,2002-09-18,Environmental MLP,0,1,0.9649999737739563
+Erie,2002-09-19,2002-09-28,Environmental MLP,0,1,0.8663528561592102
+Erie,2002-09-29,2002-10-08,Environmental MLP,0,0,0.46523070335388184
+Erie,2002-10-09,2002-10-18,Environmental MLP,0,1,0.515917956829071
+Erie,2003-06-01,2003-06-10,Environmental MLP,0,0,0.3458458483219147
+Erie,2003-06-11,2003-06-20,Environmental MLP,0,1,0.8504858613014221
+Erie,2003-06-21,2003-06-30,Environmental MLP,0,0,7.410690727738256e-08
+Erie,2003-07-01,2003-07-10,Environmental MLP,0,0,0.20185008645057678
+Erie,2003-07-11,2003-07-20,Environmental MLP,0,0,3.7950150834353824e-12
+Erie,2003-07-21,2003-07-30,Environmental MLP,0,0,2.7731037409960135e-13
+Erie,2003-07-31,2003-08-09,Environmental MLP,0,0,3.9831120375311e-05
+Erie,2003-08-10,2003-08-19,Environmental MLP,0,0,1.835247231962711e-12
+Erie,2003-08-20,2003-08-29,Environmental MLP,1,0,0.18076571822166443
+Erie,2003-08-30,2003-09-08,Environmental MLP,1,1,0.9781613349914551
+Erie,2003-09-09,2003-09-18,Environmental MLP,1,0,1.9290878583433368e-07
+Erie,2003-09-19,2003-09-28,Environmental MLP,0,1,0.5050773620605469
+Erie,2003-09-29,2003-10-08,Environmental MLP,0,0,0.0004901747452095151
+Erie,2003-10-09,2003-10-18,Environmental MLP,0,0,1.7658182116520038e-07
+Erie,2004-06-01,2004-06-10,Environmental MLP,0,0,3.667618238192144e-13
+Erie,2004-06-11,2004-06-20,Environmental MLP,0,0,2.4085998820422283e-11
+Erie,2004-06-21,2004-06-30,Environmental MLP,0,0,1.6851025429368393e-25
+Erie,2004-07-01,2004-07-10,Environmental MLP,0,0,0.11222515255212784
+Erie,2004-07-11,2004-07-20,Environmental MLP,0,1,0.963252067565918
+Erie,2004-07-21,2004-07-30,Environmental MLP,0,1,0.9755696058273315
+Erie,2004-07-31,2004-08-09,Environmental MLP,0,0,0.49090492725372314
+Erie,2004-08-10,2004-08-19,Environmental MLP,0,0,0.22799792885780334
+Erie,2004-08-20,2004-08-29,Environmental MLP,0,1,0.8734753131866455
+Erie,2004-08-30,2004-09-08,Environmental MLP,1,1,0.716288149356842
+Erie,2004-09-09,2004-09-18,Environmental MLP,1,0,3.704885102706612e-06
+Erie,2004-09-19,2004-09-28,Environmental MLP,0,0,0.45542433857917786
+Erie,2004-09-29,2004-10-08,Environmental MLP,0,1,0.8951168060302734
+Erie,2004-10-09,2004-10-18,Environmental MLP,0,1,0.9415647983551025
+Erie,2005-06-01,2005-06-10,Environmental MLP,0,0,0.03356437757611275
+Erie,2005-06-11,2005-06-20,Environmental MLP,0,1,0.6835911870002747
+Erie,2005-06-21,2005-06-30,Environmental MLP,0,1,0.9646570086479187
+Erie,2005-07-01,2005-07-10,Environmental MLP,0,1,0.9600664973258972
+Erie,2005-07-11,2005-07-20,Environmental MLP,0,1,0.9555397629737854
+Erie,2005-07-21,2005-07-30,Environmental MLP,0,1,0.9263792634010315
+Erie,2005-07-31,2005-08-09,Environmental MLP,0,1,0.9309460520744324
+Erie,2005-08-10,2005-08-19,Environmental MLP,0,1,0.982320249080658
+Erie,2005-08-20,2005-08-29,Environmental MLP,0,1,0.9673161506652832
+Erie,2005-08-30,2005-09-08,Environmental MLP,0,1,0.9296426177024841
+Erie,2005-09-09,2005-09-18,Environmental MLP,0,1,0.9610909223556519
+Erie,2005-09-19,2005-09-28,Environmental MLP,0,1,0.8981939554214478
+Erie,2005-09-29,2005-10-08,Environmental MLP,0,0,0.009128336794674397
+Erie,2005-10-09,2005-10-18,Environmental MLP,0,0,0.007357107941061258
+Erie,2006-06-11,2006-06-20,Environmental MLP,0,0,0.012334032915532589
+Erie,2006-06-21,2006-06-30,Environmental MLP,0,1,0.8156483173370361
+Erie,2006-07-01,2006-07-10,Environmental MLP,0,1,0.7082316875457764
+Erie,2006-07-21,2006-07-30,Environmental MLP,0,0,0.0008801176445558667
+Erie,2006-08-10,2006-08-19,Environmental MLP,0,1,0.8964223861694336
+Erie,2006-09-09,2006-09-18,Environmental MLP,0,1,0.9920450448989868
+Erie,2006-09-19,2006-09-28,Environmental MLP,0,1,0.5965405106544495
+Erie,2006-09-29,2006-10-08,Environmental MLP,0,0,0.3921239972114563
+Erie,2006-10-09,2006-10-18,Environmental MLP,0,0,0.07179336249828339
+Erie,2007-06-01,2007-06-10,Environmental MLP,0,1,0.9442840814590454
+Erie,2007-06-11,2007-06-20,Environmental MLP,0,1,0.9389853477478027
+Erie,2007-06-21,2007-06-30,Environmental MLP,0,1,0.9770695567131042
+Erie,2007-07-01,2007-07-10,Environmental MLP,0,1,0.9371466636657715
+Erie,2007-07-11,2007-07-20,Environmental MLP,0,1,0.9924328327178955
+Erie,2007-07-21,2007-07-30,Environmental MLP,0,1,0.9291651248931885
+Erie,2007-07-31,2007-08-09,Environmental MLP,0,1,0.9064854383468628
+Erie,2007-08-10,2007-08-19,Environmental MLP,0,1,0.8100801110267639
+Erie,2007-08-20,2007-08-29,Environmental MLP,0,1,0.8126117587089539
+Erie,2007-08-30,2007-09-08,Environmental MLP,0,0,1.2203197684247928e-28
+Erie,2007-09-09,2007-09-18,Environmental MLP,0,0,0.02917676605284214
+Erie,2007-09-19,2007-09-28,Environmental MLP,0,0,0.002802000381052494
+Erie,2007-09-29,2007-10-08,Environmental MLP,0,1,0.9094792008399963
+Erie,2007-10-09,2007-10-18,Environmental MLP,0,1,0.7990391850471497
+Erie,2008-06-01,2008-06-10,Environmental MLP,0,0,0.3065532147884369
+Erie,2008-06-11,2008-06-20,Environmental MLP,0,0,5.495373898156686e-07
+Erie,2008-06-21,2008-06-30,Environmental MLP,0,0,2.9329488825169392e-05
+Erie,2008-07-01,2008-07-10,Environmental MLP,0,0,0.0017248770454898477
+Erie,2008-07-11,2008-07-20,Environmental MLP,0,0,5.0953789468621835e-05
+Erie,2008-07-21,2008-07-30,Environmental MLP,0,0,0.004885523580014706
+Erie,2008-07-31,2008-08-09,Environmental MLP,0,1,0.9724313616752625
+Erie,2008-08-10,2008-08-19,Environmental MLP,0,1,0.9821743965148926
+Erie,2008-08-20,2008-08-29,Environmental MLP,1,1,0.8674148917198181
+Erie,2008-08-30,2008-09-08,Environmental MLP,1,1,0.9862979650497437
+Erie,2008-09-09,2008-09-18,Environmental MLP,1,1,0.955416202545166
+Erie,2008-09-19,2008-09-28,Environmental MLP,1,0,0.43910425901412964
+Erie,2008-09-29,2008-10-08,Environmental MLP,0,1,0.8560155034065247
+Erie,2008-10-09,2008-10-18,Environmental MLP,1,1,0.9495376944541931
+Erie,2009-06-01,2009-06-10,Environmental MLP,0,0,0.007163623347878456
+Erie,2009-06-11,2009-06-20,Environmental MLP,0,0,0.027591269463300705
+Erie,2009-06-21,2009-06-30,Environmental MLP,1,0,0.03213467448949814
+Erie,2009-07-01,2009-07-10,Environmental MLP,0,0,0.008180312812328339
+Erie,2009-07-11,2009-07-20,Environmental MLP,1,1,0.9724602103233337
+Erie,2009-07-21,2009-07-30,Environmental MLP,1,1,0.9205783009529114
+Erie,2009-07-31,2009-08-09,Environmental MLP,1,1,0.9403242468833923
+Erie,2009-08-10,2009-08-19,Environmental MLP,1,1,0.9830095171928406
+Erie,2009-08-20,2009-08-29,Environmental MLP,1,1,0.7931676506996155
+Erie,2009-08-30,2009-09-08,Environmental MLP,1,1,0.9228006601333618
+Erie,2009-09-09,2009-09-18,Environmental MLP,1,1,0.6278324723243713
+Erie,2009-09-19,2009-09-28,Environmental MLP,1,1,0.9683113694190979
+Erie,2009-09-29,2009-10-08,Environmental MLP,0,1,0.9999415874481201
+Erie,2009-10-09,2009-10-18,Environmental MLP,0,0,0.34450921416282654
+Erie,2010-06-01,2010-06-10,Environmental MLP,0,0,1.496008415616864e-17
+Erie,2010-06-11,2010-06-20,Environmental MLP,0,0,8.024414199780949e-08
+Erie,2010-06-21,2010-06-30,Environmental MLP,0,0,1.4012214721859095e-09
+Erie,2010-07-01,2010-07-10,Environmental MLP,1,0,0.025420252233743668
+Erie,2010-07-11,2010-07-20,Environmental MLP,0,1,0.8838449716567993
+Erie,2010-07-21,2010-07-30,Environmental MLP,1,1,0.9539225697517395
+Erie,2010-07-31,2010-08-09,Environmental MLP,0,1,0.8718293905258179
+Erie,2010-08-10,2010-08-19,Environmental MLP,0,1,0.9799723029136658
+Erie,2010-08-20,2010-08-29,Environmental MLP,0,1,0.9284815788269043
+Erie,2010-08-30,2010-09-08,Environmental MLP,1,1,0.9620617628097534
+Erie,2010-09-09,2010-09-18,Environmental MLP,1,1,0.9922367930412292
+Erie,2010-09-19,2010-09-28,Environmental MLP,1,1,0.7686432600021362
+Erie,2010-09-29,2010-10-08,Environmental MLP,1,1,0.9570645093917847
+Erie,2010-10-09,2010-10-18,Environmental MLP,0,1,0.881464421749115
+Erie,2011-06-01,2011-06-10,Environmental MLP,1,0,1.2782406213886618e-35
+Erie,2011-06-11,2011-06-20,Environmental MLP,0,0,3.622284028281797e-09
+Erie,2011-06-21,2011-06-30,Environmental MLP,0,1,0.5708227157592773
+Erie,2011-07-01,2011-07-10,Environmental MLP,0,1,0.8367784023284912
+Erie,2011-07-11,2011-07-20,Environmental MLP,1,1,0.9803428053855896
+Erie,2011-07-21,2011-07-30,Environmental MLP,1,1,0.9487012624740601
+Erie,2011-07-31,2011-08-09,Environmental MLP,1,1,0.8823381662368774
+Erie,2011-08-10,2011-08-19,Environmental MLP,1,1,0.9594917297363281
+Erie,2011-08-20,2011-08-29,Environmental MLP,1,1,0.906231701374054
+Erie,2011-08-30,2011-09-08,Environmental MLP,1,1,0.800700843334198
+Erie,2011-09-09,2011-09-18,Environmental MLP,1,1,0.8124100565910339
+Erie,2011-09-19,2011-09-28,Environmental MLP,1,0,0.08928180485963821
+Erie,2011-09-29,2011-10-08,Environmental MLP,1,0,0.22114615142345428
+Erie,2011-10-09,2011-10-18,Environmental MLP,1,0,2.934380063379649e-07
+Erie,2012-06-01,2012-06-10,Environmental MLP,0,1,0.916300356388092
+Erie,2012-06-11,2012-06-20,Environmental MLP,0,1,0.9629687070846558
+Erie,2012-06-21,2012-06-30,Environmental MLP,0,1,0.8972001671791077
+Erie,2012-07-01,2012-07-10,Environmental MLP,0,1,0.9759671092033386
+Erie,2012-07-11,2012-07-20,Environmental MLP,0,1,0.9216564297676086
+Erie,2012-07-21,2012-07-30,Environmental MLP,0,1,0.9096725583076477
+Erie,2012-07-31,2012-08-09,Environmental MLP,0,1,0.9638176560401917
+Erie,2012-08-10,2012-08-19,Environmental MLP,0,1,0.8294979929924011
+Erie,2012-08-20,2012-08-29,Environmental MLP,1,1,0.8852537870407104
+Erie,2012-08-30,2012-09-08,Environmental MLP,0,1,0.718773365020752
+Erie,2012-09-09,2012-09-18,Environmental MLP,1,1,0.9478517174720764
+Erie,2012-09-19,2012-09-28,Environmental MLP,0,1,0.9682125449180603
+Erie,2012-09-29,2012-10-08,Environmental MLP,0,1,0.577065646648407
+Erie,2012-10-09,2012-10-18,Environmental MLP,0,0,0.2747088670730591
+Erie,2013-06-01,2013-06-10,Environmental MLP,0,1,0.8847039341926575
+Erie,2013-06-11,2013-06-20,Environmental MLP,0,0,1.3945758325917268e-07
+Erie,2013-06-21,2013-06-30,Environmental MLP,0,0,0.04457332566380501
+Erie,2013-07-01,2013-07-10,Environmental MLP,0,1,0.9127026200294495
+Erie,2013-07-11,2013-07-20,Environmental MLP,0,0,2.1790463051729603e-06
+Erie,2013-07-21,2013-07-30,Environmental MLP,1,0,8.514631417710916e-07
+Erie,2013-07-31,2013-08-09,Environmental MLP,1,1,0.7361087203025818
+Erie,2013-08-10,2013-08-19,Environmental MLP,1,1,0.7519813179969788
+Erie,2013-08-20,2013-08-29,Environmental MLP,1,1,0.9768272042274475
+Erie,2013-08-30,2013-09-08,Environmental MLP,1,1,0.906903088092804
+Erie,2013-09-09,2013-09-18,Environmental MLP,1,1,0.9016080498695374
+Erie,2013-09-19,2013-09-28,Environmental MLP,1,1,0.8424494862556458
+Erie,2013-09-29,2013-10-08,Environmental MLP,1,1,0.5879631042480469
+Erie,2013-10-09,2013-10-18,Environmental MLP,1,0,0.23171401023864746
+Erie,2014-06-01,2014-06-10,Environmental MLP,0,0,0.00012526294449344277
+Erie,2014-06-11,2014-06-20,Environmental MLP,0,0,0.07590766996145248
+Erie,2014-06-21,2014-06-30,Environmental MLP,0,1,0.9130443930625916
+Erie,2014-07-01,2014-07-10,Environmental MLP,0,0,4.451476076638983e-09
+Erie,2014-07-11,2014-07-20,Environmental MLP,1,1,0.7297906279563904
+Erie,2014-08-01,2014-08-10,Environmental MLP,1,1,0.9650192260742188
+Erie,2014-08-11,2014-08-20,Environmental MLP,1,1,0.9361857175827026
+Erie,2014-09-01,2014-09-10,Environmental MLP,1,1,0.82314532995224
+Erie,2014-09-11,2014-09-20,Environmental MLP,1,0,0.41107413172721863
+Erie,2014-09-21,2014-09-30,Environmental MLP,1,0,0.00039064468001015484
+Erie,2014-10-01,2014-10-10,Environmental MLP,1,0,0.11834131181240082
+Erie,2014-10-11,2014-10-20,Environmental MLP,0,0,0.09868874400854111
+Erie,2015-07-11,2015-07-20,Environmental MLP,1,0,6.453647009116777e-18
+Erie,2015-07-21,2015-07-30,Environmental MLP,1,0,8.768686929977967e-25
+Erie,2015-07-31,2015-08-09,Environmental MLP,1,0,9.779436368262395e-05
+Erie,2015-08-10,2015-08-19,Environmental MLP,1,1,0.874660849571228
+Erie,2015-08-20,2015-08-29,Environmental MLP,1,1,0.9289215803146362
+Erie,2015-08-30,2015-09-08,Environmental MLP,1,1,0.7559398412704468
+Erie,2015-09-09,2015-09-18,Environmental MLP,1,1,0.9097844362258911
+Erie,2015-09-19,2015-09-28,Environmental MLP,1,1,0.9004070162773132
+Erie,2015-09-29,2015-10-08,Environmental MLP,1,1,0.5207257270812988
+Erie,2015-10-09,2015-10-18,Environmental MLP,1,1,0.8390604853630066
+Erie,2016-07-01,2016-07-10,Environmental MLP,0,0,0.0003920361923519522
+Erie,2016-07-11,2016-07-20,Environmental MLP,1,1,0.9427294135093689
+Erie,2016-07-21,2016-07-30,Environmental MLP,1,1,0.9390932321548462
+Erie,2016-07-31,2016-08-09,Environmental MLP,1,1,0.9250690937042236
+Erie,2016-08-10,2016-08-19,Environmental MLP,1,1,0.9686466455459595
+Erie,2016-08-20,2016-08-29,Environmental MLP,1,1,0.8039856553077698
+Erie,2016-08-30,2016-09-08,Environmental MLP,1,1,0.6581550240516663
+Erie,2016-09-09,2016-09-18,Environmental MLP,1,1,0.9781525731086731
+Erie,2016-09-19,2016-09-28,Environmental MLP,1,0,0.43612444400787354
+Erie,2016-09-29,2016-10-08,Environmental MLP,0,0,0.42885392904281616
+Erie,2016-10-09,2016-10-18,Environmental MLP,0,1,0.9569073915481567
+Erie,2017-07-01,2017-07-10,Environmental MLP,0,1,0.7500004768371582
+Erie,2017-07-11,2017-07-20,Environmental MLP,0,0,4.536360870277534e-11
+Erie,2017-08-01,2017-08-10,Environmental MLP,1,0,0.0016704885056242347
+Erie,2017-08-11,2017-08-20,Environmental MLP,1,1,0.9556931257247925
+Erie,2017-09-01,2017-09-10,Environmental MLP,1,1,0.8164076209068298
+Erie,2017-09-11,2017-09-20,Environmental MLP,1,1,0.9852151870727539
+Erie,2017-09-21,2017-09-30,Environmental MLP,1,1,0.5357760190963745
+Erie,2017-10-01,2017-10-10,Environmental MLP,1,1,0.7864611148834229
+Erie,2017-10-11,2017-10-20,Environmental MLP,1,0,0.3974587917327881
+Erie,2018-06-11,2018-06-20,Environmental MLP,0,1,0.818769097328186
+Erie,2018-06-21,2018-06-30,Environmental MLP,0,0,9.874893294181675e-07
+Erie,2018-07-01,2018-07-10,Environmental MLP,0,0,5.066768185568726e-12
+Erie,2018-07-11,2018-07-20,Environmental MLP,0,1,0.95228111743927
+Erie,2018-08-01,2018-08-10,Environmental MLP,1,1,0.9512180089950562
+Erie,2018-08-11,2018-08-20,Environmental MLP,1,1,0.8393415808677673
+Erie,2018-09-01,2018-09-10,Environmental MLP,1,0,1.321247395935643e-06
+Erie,2018-09-11,2018-09-20,Environmental MLP,0,1,0.5934677720069885
+Erie,2018-09-21,2018-09-30,Environmental MLP,0,1,0.6711699366569519
+Erie,2019-07-01,2019-07-10,Environmental MLP,0,0,7.530087664520124e-13
+Erie,2019-07-11,2019-07-20,Environmental MLP,0,1,0.5512018799781799
+Erie,2019-08-01,2019-08-10,Environmental MLP,1,0,0.009662264958024025
+Erie,2019-08-11,2019-08-20,Environmental MLP,1,1,0.9721364378929138
+Erie,2019-09-01,2019-09-10,Environmental MLP,0,0,0.04932283237576485
+Erie,2019-09-11,2019-09-20,Environmental MLP,0,1,0.9352542757987976
+Erie,2019-09-21,2019-09-30,Environmental MLP,0,0,0.4647318720817566
+Okeechobee,2019-05-21,2019-05-30,Training majority baseline,0,0,
+Okeechobee,2019-07-10,2019-07-19,Training majority baseline,1,0,
+Okeechobee,2019-07-30,2019-08-08,Training majority baseline,1,0,
+Okeechobee,2019-10-18,2019-10-27,Training majority baseline,1,0,
+Okeechobee,2020-01-11,2020-01-20,Training majority baseline,1,0,
+Okeechobee,2020-01-31,2020-02-09,Training majority baseline,1,0,
+Okeechobee,2020-03-31,2020-04-09,Training majority baseline,1,0,
+Okeechobee,2020-04-10,2020-04-19,Training majority baseline,0,0,
+Okeechobee,2020-04-20,2020-04-29,Training majority baseline,1,0,
+Okeechobee,2020-04-30,2020-05-09,Training majority baseline,1,0,
+Okeechobee,2020-05-10,2020-05-19,Training majority baseline,1,0,
+Okeechobee,2020-05-20,2020-05-29,Training majority baseline,1,0,
+Okeechobee,2020-05-30,2020-06-08,Training majority baseline,1,0,
+Okeechobee,2020-06-09,2020-06-18,Training majority baseline,0,0,
+Okeechobee,2020-06-19,2020-06-28,Training majority baseline,1,0,
+Okeechobee,2020-06-29,2020-07-08,Training majority baseline,1,0,
+Okeechobee,2020-07-09,2020-07-18,Training majority baseline,1,0,
+Okeechobee,2020-07-19,2020-07-28,Training majority baseline,1,0,
+Okeechobee,2020-07-29,2020-08-07,Training majority baseline,1,0,
+Okeechobee,2020-08-08,2020-08-17,Training majority baseline,1,0,
+Okeechobee,2020-08-18,2020-08-27,Training majority baseline,1,0,
+Okeechobee,2020-09-07,2020-09-16,Training majority baseline,1,0,
+Okeechobee,2020-09-17,2020-09-26,Training majority baseline,1,0,
+Okeechobee,2020-09-27,2020-10-06,Training majority baseline,1,0,
+Okeechobee,2020-10-07,2020-10-16,Training majority baseline,1,0,
+Okeechobee,2020-10-17,2020-10-26,Training majority baseline,1,0,
+Okeechobee,2020-10-27,2020-11-05,Training majority baseline,0,0,
+Okeechobee,2020-11-06,2020-11-15,Training majority baseline,0,0,
+Okeechobee,2020-11-16,2020-11-25,Training majority baseline,0,0,
+Okeechobee,2020-12-06,2020-12-15,Training majority baseline,1,0,
+Okeechobee,2020-12-16,2020-12-25,Training majority baseline,1,0,
+Okeechobee,2021-01-01,2021-01-10,Training majority baseline,0,0,
+Okeechobee,2021-01-11,2021-01-20,Training majority baseline,0,0,
+Okeechobee,2021-01-31,2021-02-09,Training majority baseline,1,0,
+Okeechobee,2021-02-10,2021-02-19,Training majority baseline,1,0,
+Okeechobee,2021-03-02,2021-03-11,Training majority baseline,0,0,
+Okeechobee,2021-04-01,2021-04-10,Training majority baseline,1,0,
+Okeechobee,2021-04-11,2021-04-20,Training majority baseline,1,0,
+Okeechobee,2021-04-21,2021-04-30,Training majority baseline,1,0,
+Okeechobee,2021-05-01,2021-05-10,Training majority baseline,1,0,
+Okeechobee,2021-05-11,2021-05-20,Training majority baseline,1,0,
+Okeechobee,2021-05-21,2021-05-30,Training majority baseline,1,0,
+Okeechobee,2021-05-31,2021-06-09,Training majority baseline,1,0,
+Okeechobee,2021-06-10,2021-06-19,Training majority baseline,1,0,
+Okeechobee,2021-06-20,2021-06-29,Training majority baseline,1,0,
+Okeechobee,2021-06-30,2021-07-09,Training majority baseline,1,0,
+Okeechobee,2021-07-10,2021-07-19,Training majority baseline,1,0,
+Okeechobee,2021-07-20,2021-07-29,Training majority baseline,1,0,
+Okeechobee,2021-07-30,2021-08-08,Training majority baseline,1,0,
+Okeechobee,2021-08-09,2021-08-18,Training majority baseline,0,0,
+Okeechobee,2021-08-19,2021-08-28,Training majority baseline,1,0,
+Okeechobee,2021-08-29,2021-09-07,Training majority baseline,1,0,
+Okeechobee,2021-09-08,2021-09-17,Training majority baseline,1,0,
+Okeechobee,2021-09-18,2021-09-27,Training majority baseline,1,0,
+Okeechobee,2021-09-28,2021-10-07,Training majority baseline,1,0,
+Okeechobee,2021-10-08,2021-10-17,Training majority baseline,0,0,
+Okeechobee,2021-10-18,2021-10-27,Training majority baseline,1,0,
+Okeechobee,2021-10-28,2021-11-06,Training majority baseline,1,0,
+Okeechobee,2021-11-07,2021-11-16,Training majority baseline,0,0,
+Okeechobee,2021-11-27,2021-12-06,Training majority baseline,1,0,
+Okeechobee,2021-12-07,2021-12-16,Training majority baseline,1,0,
+Okeechobee,2022-01-01,2022-01-10,Training majority baseline,1,0,
+Okeechobee,2022-01-21,2022-01-30,Training majority baseline,0,0,
+Okeechobee,2022-01-31,2022-02-09,Training majority baseline,0,0,
+Okeechobee,2022-03-02,2022-03-11,Training majority baseline,0,0,
+Okeechobee,2022-03-12,2022-03-21,Training majority baseline,0,0,
+Okeechobee,2022-03-22,2022-03-31,Training majority baseline,1,0,
+Okeechobee,2022-04-01,2022-04-10,Training majority baseline,0,0,
+Okeechobee,2022-04-11,2022-04-20,Training majority baseline,0,0,
+Okeechobee,2022-05-01,2022-05-10,Training majority baseline,1,0,
+Okeechobee,2022-05-11,2022-05-20,Training majority baseline,1,0,
+Okeechobee,2022-05-21,2022-05-30,Training majority baseline,1,0,
+Okeechobee,2022-05-31,2022-06-09,Training majority baseline,1,0,
+Okeechobee,2022-06-10,2022-06-19,Training majority baseline,1,0,
+Okeechobee,2022-06-20,2022-06-29,Training majority baseline,1,0,
+Okeechobee,2022-06-30,2022-07-09,Training majority baseline,1,0,
+Okeechobee,2022-07-10,2022-07-19,Training majority baseline,1,0,
+Okeechobee,2022-07-20,2022-07-29,Training majority baseline,0,0,
+Okeechobee,2022-07-30,2022-08-08,Training majority baseline,1,0,
+Okeechobee,2022-08-09,2022-08-18,Training majority baseline,1,0,
+Okeechobee,2022-08-19,2022-08-28,Training majority baseline,0,0,
+Okeechobee,2022-08-29,2022-09-07,Training majority baseline,0,0,
+Okeechobee,2022-09-18,2022-09-27,Training majority baseline,0,0,
+Okeechobee,2022-09-28,2022-10-07,Training majority baseline,0,0,
+Okeechobee,2022-10-08,2022-10-17,Training majority baseline,0,0,
+Okeechobee,2022-10-18,2022-10-27,Training majority baseline,0,0,
+Okeechobee,2022-11-07,2022-11-16,Training majority baseline,0,0,
+Okeechobee,2022-11-27,2022-12-06,Training majority baseline,0,0,
+Okeechobee,2022-12-07,2022-12-16,Training majority baseline,1,0,
+Okeechobee,2022-12-17,2022-12-26,Training majority baseline,0,0,
+Okeechobee,2023-01-01,2023-01-10,Training majority baseline,0,0,
+Okeechobee,2023-01-11,2023-01-20,Training majority baseline,1,0,
+Okeechobee,2023-01-31,2023-02-09,Training majority baseline,0,0,
+Okeechobee,2023-02-20,2023-03-01,Training majority baseline,1,0,
+Okeechobee,2023-03-02,2023-03-11,Training majority baseline,1,0,
+Okeechobee,2023-03-12,2023-03-21,Training majority baseline,0,0,
+Okeechobee,2023-04-01,2023-04-10,Training majority baseline,0,0,
+Okeechobee,2023-04-11,2023-04-20,Training majority baseline,0,0,
+Okeechobee,2023-05-01,2023-05-10,Training majority baseline,1,0,
+Okeechobee,2023-05-11,2023-05-20,Training majority baseline,1,0,
+Okeechobee,2023-05-21,2023-05-30,Training majority baseline,1,0,
+Okeechobee,2023-05-31,2023-06-09,Training majority baseline,1,0,
+Okeechobee,2023-06-10,2023-06-19,Training majority baseline,1,0,
+Okeechobee,2023-06-20,2023-06-29,Training majority baseline,1,0,
+Okeechobee,2023-06-30,2023-07-09,Training majority baseline,1,0,
+Okeechobee,2023-07-10,2023-07-19,Training majority baseline,1,0,
+Okeechobee,2023-07-20,2023-07-29,Training majority baseline,1,0,
+Okeechobee,2023-07-30,2023-08-08,Training majority baseline,1,0,
+Okeechobee,2023-08-09,2023-08-18,Training majority baseline,1,0,
+Okeechobee,2023-08-19,2023-08-28,Training majority baseline,1,0,
+Okeechobee,2023-08-29,2023-09-07,Training majority baseline,1,0,
+Okeechobee,2023-09-08,2023-09-17,Training majority baseline,1,0,
+Okeechobee,2023-09-18,2023-09-27,Training majority baseline,0,0,
+Okeechobee,2023-09-28,2023-10-07,Training majority baseline,1,0,
+Okeechobee,2023-10-08,2023-10-17,Training majority baseline,0,0,
+Okeechobee,2023-11-07,2023-11-16,Training majority baseline,0,0,
+Okeechobee,2023-12-07,2023-12-16,Training majority baseline,0,0,
+Okeechobee,2024-01-01,2024-01-10,Training majority baseline,0,0,
+Okeechobee,2024-01-11,2024-01-20,Training majority baseline,0,0,
+Okeechobee,2024-01-31,2024-02-09,Training majority baseline,0,0,
+Okeechobee,2024-02-10,2024-02-19,Training majority baseline,0,0,
+Okeechobee,2024-03-01,2024-03-10,Training majority baseline,0,0,
+Okeechobee,2024-03-11,2024-03-20,Training majority baseline,1,0,
+Okeechobee,2024-03-31,2024-04-09,Training majority baseline,1,0,
+Okeechobee,2024-04-10,2024-04-19,Training majority baseline,1,0,
+Okeechobee,2024-04-20,2024-04-29,Training majority baseline,1,0,
+Okeechobee,2024-04-30,2024-05-09,Training majority baseline,1,0,
+Okeechobee,2024-05-10,2024-05-19,Training majority baseline,1,0,
+Okeechobee,2024-05-20,2024-05-29,Training majority baseline,1,0,
+Okeechobee,2024-05-30,2024-06-08,Training majority baseline,1,0,
+Okeechobee,2024-06-09,2024-06-18,Training majority baseline,1,0,
+Okeechobee,2024-06-19,2024-06-28,Training majority baseline,1,0,
+Okeechobee,2024-06-29,2024-07-08,Training majority baseline,1,0,
+Okeechobee,2024-07-09,2024-07-18,Training majority baseline,1,0,
+Okeechobee,2024-07-19,2024-07-28,Training majority baseline,1,0,
+Okeechobee,2024-07-29,2024-08-07,Training majority baseline,1,0,
+Okeechobee,2024-08-08,2024-08-17,Training majority baseline,1,0,
+Okeechobee,2024-08-18,2024-08-27,Training majority baseline,1,0,
+Okeechobee,2024-08-28,2024-09-06,Training majority baseline,0,0,
+Okeechobee,2024-09-07,2024-09-16,Training majority baseline,0,0,
+Okeechobee,2024-09-17,2024-09-26,Training majority baseline,0,0,
+Okeechobee,2024-09-27,2024-10-06,Training majority baseline,1,0,
+Okeechobee,2024-10-07,2024-10-16,Training majority baseline,1,0,
+Okeechobee,2024-10-17,2024-10-26,Training majority baseline,0,0,
+Okeechobee,2024-10-27,2024-11-05,Training majority baseline,0,0,
+Okeechobee,2024-11-06,2024-11-15,Training majority baseline,0,0,
+Okeechobee,2024-11-26,2024-12-05,Training majority baseline,0,0,
+Okeechobee,2024-12-06,2024-12-15,Training majority baseline,0,0,
+Okeechobee,2025-01-01,2025-01-10,Training majority baseline,0,0,
+Okeechobee,2025-01-31,2025-02-09,Training majority baseline,0,0,
+Okeechobee,2025-03-02,2025-03-11,Training majority baseline,0,0,
+Okeechobee,2025-04-11,2025-04-20,Training majority baseline,0,0,
+Okeechobee,2025-05-01,2025-05-10,Training majority baseline,0,0,
+Okeechobee,2025-05-11,2025-05-20,Training majority baseline,0,0,
+Okeechobee,2025-05-21,2025-05-30,Training majority baseline,1,0,
+Okeechobee,2025-05-31,2025-06-09,Training majority baseline,0,0,
+Okeechobee,2025-06-10,2025-06-19,Training majority baseline,1,0,
+Okeechobee,2025-06-20,2025-06-29,Training majority baseline,1,0,
+Okeechobee,2025-06-30,2025-07-09,Training majority baseline,1,0,
+Okeechobee,2025-07-10,2025-07-19,Training majority baseline,1,0,
+Okeechobee,2025-07-20,2025-07-29,Training majority baseline,1,0,
+Okeechobee,2025-07-30,2025-08-08,Training majority baseline,1,0,
+Okeechobee,2025-08-09,2025-08-18,Training majority baseline,1,0,
+Okeechobee,2025-08-19,2025-08-28,Training majority baseline,1,0,
+Okeechobee,2025-08-29,2025-09-07,Training majority baseline,1,0,
+Okeechobee,2025-09-08,2025-09-17,Training majority baseline,1,0,
+Okeechobee,2025-09-18,2025-09-27,Training majority baseline,1,0,
+Okeechobee,2025-09-28,2025-10-07,Training majority baseline,1,0,
+Okeechobee,2025-10-08,2025-10-17,Training majority baseline,1,0,
+Okeechobee,2025-10-18,2025-10-27,Training majority baseline,1,0,
+Okeechobee,2025-10-28,2025-11-06,Training majority baseline,0,0,
+Okeechobee,2025-11-07,2025-11-16,Training majority baseline,0,0,
+Okeechobee,2025-11-17,2025-11-26,Training majority baseline,1,0,
+Okeechobee,2025-11-27,2025-12-06,Training majority baseline,0,0,
+Okeechobee,2025-12-07,2025-12-16,Training majority baseline,1,0,
+Okeechobee,2025-12-17,2025-12-26,Training majority baseline,1,0,
+Okeechobee,2019-05-21,2019-05-30,Environmental MLP,0,0,0.06527604907751083
+Okeechobee,2019-07-10,2019-07-19,Environmental MLP,1,0,0.4734315574169159
+Okeechobee,2019-07-30,2019-08-08,Environmental MLP,1,1,0.6696081757545471
+Okeechobee,2019-10-18,2019-10-27,Environmental MLP,1,0,0.2192833423614502
+Okeechobee,2020-01-11,2020-01-20,Environmental MLP,1,0,0.0034565278328955173
+Okeechobee,2020-01-31,2020-02-09,Environmental MLP,1,0,0.002449918072670698
+Okeechobee,2020-03-31,2020-04-09,Environmental MLP,1,0,0.0038624131120741367
+Okeechobee,2020-04-10,2020-04-19,Environmental MLP,0,0,0.006087686866521835
+Okeechobee,2020-04-20,2020-04-29,Environmental MLP,1,0,0.00701047433540225
+Okeechobee,2020-04-30,2020-05-09,Environmental MLP,1,0,0.009926305152475834
+Okeechobee,2020-05-10,2020-05-19,Environmental MLP,1,0,0.042294662445783615
+Okeechobee,2020-05-20,2020-05-29,Environmental MLP,1,0,0.06239631399512291
+Okeechobee,2020-05-30,2020-06-08,Environmental MLP,1,0,0.03441651165485382
+Okeechobee,2020-06-09,2020-06-18,Environmental MLP,0,0,0.06353301554918289
+Okeechobee,2020-06-19,2020-06-28,Environmental MLP,1,0,0.2767501771450043
+Okeechobee,2020-06-29,2020-07-08,Environmental MLP,1,0,0.4248720109462738
+Okeechobee,2020-07-09,2020-07-18,Environmental MLP,1,1,0.548072099685669
+Okeechobee,2020-07-19,2020-07-28,Environmental MLP,1,1,0.5907641649246216
+Okeechobee,2020-07-29,2020-08-07,Environmental MLP,1,1,0.6206526160240173
+Okeechobee,2020-08-08,2020-08-17,Environmental MLP,1,1,0.7914319634437561
+Okeechobee,2020-08-18,2020-08-27,Environmental MLP,1,1,0.8385432362556458
+Okeechobee,2020-09-07,2020-09-16,Environmental MLP,1,1,0.8201586604118347
+Okeechobee,2020-09-17,2020-09-26,Environmental MLP,1,1,0.8314903974533081
+Okeechobee,2020-09-27,2020-10-06,Environmental MLP,1,1,0.672217845916748
+Okeechobee,2020-10-07,2020-10-16,Environmental MLP,1,1,0.6400918960571289
+Okeechobee,2020-10-17,2020-10-26,Environmental MLP,1,0,0.2610512375831604
+Okeechobee,2020-10-27,2020-11-05,Environmental MLP,0,0,0.2117335945367813
+Okeechobee,2020-11-06,2020-11-15,Environmental MLP,0,0,0.07076039910316467
+Okeechobee,2020-11-16,2020-11-25,Environmental MLP,0,0,0.05745205655694008
+Okeechobee,2020-12-06,2020-12-15,Environmental MLP,1,0,0.014339713379740715
+Okeechobee,2020-12-16,2020-12-25,Environmental MLP,1,0,0.009373977780342102
+Okeechobee,2021-01-01,2021-01-10,Environmental MLP,0,0,0.004884875379502773
+Okeechobee,2021-01-11,2021-01-20,Environmental MLP,0,0,0.0035040625371038914
+Okeechobee,2021-01-31,2021-02-09,Environmental MLP,1,0,0.002265733666718006
+Okeechobee,2021-02-10,2021-02-19,Environmental MLP,1,0,0.0022501531057059765
+Okeechobee,2021-03-02,2021-03-11,Environmental MLP,0,0,0.0020359947811812162
+Okeechobee,2021-04-01,2021-04-10,Environmental MLP,1,0,0.00401116581633687
+Okeechobee,2021-04-11,2021-04-20,Environmental MLP,1,0,0.005821846891194582
+Okeechobee,2021-04-21,2021-04-30,Environmental MLP,1,0,0.004450154025107622
+Okeechobee,2021-05-01,2021-05-10,Environmental MLP,1,0,0.017938246950507164
+Okeechobee,2021-05-11,2021-05-20,Environmental MLP,1,0,0.04950032755732536
+Okeechobee,2021-05-21,2021-05-30,Environmental MLP,1,0,0.16317568719387054
+Okeechobee,2021-05-31,2021-06-09,Environmental MLP,1,0,0.2695761024951935
+Okeechobee,2021-06-10,2021-06-19,Environmental MLP,1,0,0.28221261501312256
+Okeechobee,2021-06-20,2021-06-29,Environmental MLP,1,0,0.20620837807655334
+Okeechobee,2021-06-30,2021-07-09,Environmental MLP,1,0,0.31858327984809875
+Okeechobee,2021-07-10,2021-07-19,Environmental MLP,1,0,0.397857666015625
+Okeechobee,2021-07-20,2021-07-29,Environmental MLP,1,1,0.6099929809570312
+Okeechobee,2021-07-30,2021-08-08,Environmental MLP,1,1,0.6695632934570312
+Okeechobee,2021-08-09,2021-08-18,Environmental MLP,0,1,0.7776169180870056
+Okeechobee,2021-08-19,2021-08-28,Environmental MLP,1,1,0.7445859313011169
+Okeechobee,2021-08-29,2021-09-07,Environmental MLP,1,1,0.8273019194602966
+Okeechobee,2021-09-08,2021-09-17,Environmental MLP,1,1,0.7865340113639832
+Okeechobee,2021-09-18,2021-09-27,Environmental MLP,1,1,0.7783879637718201
+Okeechobee,2021-09-28,2021-10-07,Environmental MLP,1,1,0.7415581941604614
+Okeechobee,2021-10-08,2021-10-17,Environmental MLP,0,0,0.36900845170021057
+Okeechobee,2021-10-18,2021-10-27,Environmental MLP,1,0,0.2417568564414978
+Okeechobee,2021-10-28,2021-11-06,Environmental MLP,1,0,0.13145363330841064
+Okeechobee,2021-11-07,2021-11-16,Environmental MLP,0,0,0.06617828458547592
+Okeechobee,2021-11-27,2021-12-06,Environmental MLP,1,0,0.01898457668721676
+Okeechobee,2021-12-07,2021-12-16,Environmental MLP,1,0,0.012515987269580364
+Okeechobee,2022-01-01,2022-01-10,Environmental MLP,1,0,0.004976829048246145
+Okeechobee,2022-01-21,2022-01-30,Environmental MLP,0,0,0.003069915808737278
+Okeechobee,2022-01-31,2022-02-09,Environmental MLP,0,0,0.0031307213939726353
+Okeechobee,2022-03-02,2022-03-11,Environmental MLP,0,0,0.0022602668032050133
+Okeechobee,2022-03-12,2022-03-21,Environmental MLP,0,0,0.0025151283480226994
+Okeechobee,2022-03-22,2022-03-31,Environmental MLP,1,0,0.003147151554003358
+Okeechobee,2022-04-01,2022-04-10,Environmental MLP,0,0,0.0036812294274568558
+Okeechobee,2022-04-11,2022-04-20,Environmental MLP,0,0,0.005348631180822849
+Okeechobee,2022-05-01,2022-05-10,Environmental MLP,1,0,0.019851360470056534
+Okeechobee,2022-05-11,2022-05-20,Environmental MLP,1,0,0.037144698202610016
+Okeechobee,2022-05-21,2022-05-30,Environmental MLP,1,0,0.0731782540678978
+Okeechobee,2022-05-31,2022-06-09,Environmental MLP,1,0,0.15167590975761414
+Okeechobee,2022-06-10,2022-06-19,Environmental MLP,1,0,0.07790429145097733
+Okeechobee,2022-06-20,2022-06-29,Environmental MLP,1,0,0.1537085920572281
+Okeechobee,2022-06-30,2022-07-09,Environmental MLP,1,0,0.4558471739292145
+Okeechobee,2022-07-10,2022-07-19,Environmental MLP,1,1,0.5486217141151428
+Okeechobee,2022-07-20,2022-07-29,Environmental MLP,0,1,0.5936712026596069
+Okeechobee,2022-07-30,2022-08-08,Environmental MLP,1,1,0.760324239730835
+Okeechobee,2022-08-09,2022-08-18,Environmental MLP,1,1,0.7867139577865601
+Okeechobee,2022-08-19,2022-08-28,Environmental MLP,0,1,0.7953938245773315
+Okeechobee,2022-08-29,2022-09-07,Environmental MLP,0,1,0.7794297337532043
+Okeechobee,2022-09-18,2022-09-27,Environmental MLP,0,1,0.8423910737037659
+Okeechobee,2022-09-28,2022-10-07,Environmental MLP,0,1,0.8360733985900879
+Okeechobee,2022-10-08,2022-10-17,Environmental MLP,0,1,0.5544255375862122
+Okeechobee,2022-10-18,2022-10-27,Environmental MLP,0,0,0.341940701007843
+Okeechobee,2022-11-07,2022-11-16,Environmental MLP,0,0,0.049739494919776917
+Okeechobee,2022-11-27,2022-12-06,Environmental MLP,0,0,0.019956346601247787
+Okeechobee,2022-12-07,2022-12-16,Environmental MLP,1,0,0.012053505517542362
+Okeechobee,2022-12-17,2022-12-26,Environmental MLP,0,0,0.008560653775930405
+Okeechobee,2023-01-01,2023-01-10,Environmental MLP,0,0,0.0052337972447276115
+Okeechobee,2023-01-11,2023-01-20,Environmental MLP,1,0,0.003285864368081093
+Okeechobee,2023-01-31,2023-02-09,Environmental MLP,0,0,0.002327237743884325
+Okeechobee,2023-02-20,2023-03-01,Environmental MLP,1,0,0.0022568893618881702
+Okeechobee,2023-03-02,2023-03-11,Environmental MLP,1,0,0.00230021751485765
+Okeechobee,2023-03-12,2023-03-21,Environmental MLP,0,0,0.0027079323772341013
+Okeechobee,2023-04-01,2023-04-10,Environmental MLP,0,0,0.0036975014954805374
+Okeechobee,2023-04-11,2023-04-20,Environmental MLP,0,0,0.005624282639473677
+Okeechobee,2023-05-01,2023-05-10,Environmental MLP,1,0,0.008808127604424953
+Okeechobee,2023-05-11,2023-05-20,Environmental MLP,1,0,0.04465761035680771
+Okeechobee,2023-05-21,2023-05-30,Environmental MLP,1,0,0.1212364062666893
+Okeechobee,2023-05-31,2023-06-09,Environmental MLP,1,0,0.07707417756319046
+Okeechobee,2023-06-10,2023-06-19,Environmental MLP,1,0,0.14409098029136658
+Okeechobee,2023-06-20,2023-06-29,Environmental MLP,1,0,0.22861847281455994
+Okeechobee,2023-06-30,2023-07-09,Environmental MLP,1,0,0.23812313377857208
+Okeechobee,2023-07-10,2023-07-19,Environmental MLP,1,0,0.39611145853996277
+Okeechobee,2023-07-20,2023-07-29,Environmental MLP,1,1,0.6667488813400269
+Okeechobee,2023-07-30,2023-08-08,Environmental MLP,1,1,0.7538306713104248
+Okeechobee,2023-08-09,2023-08-18,Environmental MLP,1,1,0.8082563281059265
+Okeechobee,2023-08-19,2023-08-28,Environmental MLP,1,1,0.8171703219413757
+Okeechobee,2023-08-29,2023-09-07,Environmental MLP,1,1,0.7912807464599609
+Okeechobee,2023-09-08,2023-09-17,Environmental MLP,1,1,0.776924192905426
+Okeechobee,2023-09-18,2023-09-27,Environmental MLP,0,1,0.7397752404212952
+Okeechobee,2023-09-28,2023-10-07,Environmental MLP,1,1,0.6992588043212891
+Okeechobee,2023-10-08,2023-10-17,Environmental MLP,0,1,0.5263218283653259
+Okeechobee,2023-11-07,2023-11-16,Environmental MLP,0,0,0.059451624751091
+Okeechobee,2023-12-07,2023-12-16,Environmental MLP,0,0,0.012689569033682346
+Okeechobee,2024-01-01,2024-01-10,Environmental MLP,0,0,0.004800736438483
+Okeechobee,2024-01-11,2024-01-20,Environmental MLP,0,0,0.0034671020694077015
+Okeechobee,2024-01-31,2024-02-09,Environmental MLP,0,0,0.001969634322449565
+Okeechobee,2024-02-10,2024-02-19,Environmental MLP,0,0,0.002009816002100706
+Okeechobee,2024-03-01,2024-03-10,Environmental MLP,0,0,0.0023702357430011034
+Okeechobee,2024-03-11,2024-03-20,Environmental MLP,1,0,0.002571898978203535
+Okeechobee,2024-03-31,2024-04-09,Environmental MLP,1,0,0.0043860371224582195
+Okeechobee,2024-04-10,2024-04-19,Environmental MLP,1,0,0.005191424395889044
+Okeechobee,2024-04-20,2024-04-29,Environmental MLP,1,0,0.009827953763306141
+Okeechobee,2024-04-30,2024-05-09,Environmental MLP,1,0,0.03196772187948227
+Okeechobee,2024-05-10,2024-05-19,Environmental MLP,1,0,0.05091805011034012
+Okeechobee,2024-05-20,2024-05-29,Environmental MLP,1,0,0.12005791813135147
+Okeechobee,2024-05-30,2024-06-08,Environmental MLP,1,0,0.26497241854667664
+Okeechobee,2024-06-09,2024-06-18,Environmental MLP,1,0,0.3780577778816223
+Okeechobee,2024-06-19,2024-06-28,Environmental MLP,1,0,0.2641753852367401
+Okeechobee,2024-06-29,2024-07-08,Environmental MLP,1,0,0.2802158296108246
+Okeechobee,2024-07-09,2024-07-18,Environmental MLP,1,0,0.4904153645038605
+Okeechobee,2024-07-19,2024-07-28,Environmental MLP,1,1,0.6327496767044067
+Okeechobee,2024-07-29,2024-08-07,Environmental MLP,1,1,0.7575013041496277
+Okeechobee,2024-08-08,2024-08-17,Environmental MLP,1,1,0.6818614602088928
+Okeechobee,2024-08-18,2024-08-27,Environmental MLP,1,1,0.8198632597923279
+Okeechobee,2024-08-28,2024-09-06,Environmental MLP,0,1,0.802897036075592
+Okeechobee,2024-09-07,2024-09-16,Environmental MLP,0,1,0.8184354305267334
+Okeechobee,2024-09-17,2024-09-26,Environmental MLP,0,1,0.8400714993476868
+Okeechobee,2024-09-27,2024-10-06,Environmental MLP,1,1,0.7099846601486206
+Okeechobee,2024-10-07,2024-10-16,Environmental MLP,1,1,0.6620402932167053
+Okeechobee,2024-10-17,2024-10-26,Environmental MLP,0,0,0.33885201811790466
+Okeechobee,2024-10-27,2024-11-05,Environmental MLP,0,0,0.09597957879304886
+Okeechobee,2024-11-06,2024-11-15,Environmental MLP,0,0,0.054319582879543304
+Okeechobee,2024-11-26,2024-12-05,Environmental MLP,0,0,0.021064162254333496
+Okeechobee,2024-12-06,2024-12-15,Environmental MLP,0,0,0.012997464276850224
+Okeechobee,2025-01-01,2025-01-10,Environmental MLP,0,0,0.005545939784497023
+Okeechobee,2025-01-31,2025-02-09,Environmental MLP,0,0,0.0025019110180437565
+Okeechobee,2025-03-02,2025-03-11,Environmental MLP,0,0,0.0021156794391572475
+Okeechobee,2025-04-11,2025-04-20,Environmental MLP,0,0,0.006341150496155024
+Okeechobee,2025-05-01,2025-05-10,Environmental MLP,0,0,0.031170500442385674
+Okeechobee,2025-05-11,2025-05-20,Environmental MLP,0,0,0.0422406904399395
+Okeechobee,2025-05-21,2025-05-30,Environmental MLP,1,0,0.045004505664110184
+Okeechobee,2025-05-31,2025-06-09,Environmental MLP,0,0,0.13188053667545319
+Okeechobee,2025-06-10,2025-06-19,Environmental MLP,1,0,0.12850965559482574
+Okeechobee,2025-06-20,2025-06-29,Environmental MLP,1,0,0.3446187674999237
+Okeechobee,2025-06-30,2025-07-09,Environmental MLP,1,0,0.3682306408882141
+Okeechobee,2025-07-10,2025-07-19,Environmental MLP,1,0,0.39361125230789185
+Okeechobee,2025-07-20,2025-07-29,Environmental MLP,1,1,0.5387977957725525
+Okeechobee,2025-07-30,2025-08-08,Environmental MLP,1,1,0.7569057941436768
+Okeechobee,2025-08-09,2025-08-18,Environmental MLP,1,1,0.8105801343917847
+Okeechobee,2025-08-19,2025-08-28,Environmental MLP,1,1,0.8186429142951965
+Okeechobee,2025-08-29,2025-09-07,Environmental MLP,1,1,0.8258250951766968
+Okeechobee,2025-09-08,2025-09-17,Environmental MLP,1,1,0.8196288347244263
+Okeechobee,2025-09-18,2025-09-27,Environmental MLP,1,1,0.8001794815063477
+Okeechobee,2025-09-28,2025-10-07,Environmental MLP,1,1,0.5878307223320007
+Okeechobee,2025-10-08,2025-10-17,Environmental MLP,1,1,0.5366122126579285
+Okeechobee,2025-10-18,2025-10-27,Environmental MLP,1,0,0.20588523149490356
+Okeechobee,2025-10-28,2025-11-06,Environmental MLP,0,0,0.11605464667081833
+Okeechobee,2025-11-07,2025-11-16,Environmental MLP,0,0,0.05353258177638054
+Okeechobee,2025-11-17,2025-11-26,Environmental MLP,1,0,0.032403528690338135
+Okeechobee,2025-11-27,2025-12-06,Environmental MLP,0,0,0.018719522282481194
+Okeechobee,2025-12-07,2025-12-16,Environmental MLP,1,0,0.012317197397351265
+Okeechobee,2025-12-17,2025-12-26,Environmental MLP,1,0,0.00891755148768425
+Okeechobee,2019-05-21,2019-05-30,MLP + CNN,0,0,0.07850784063339233
+Okeechobee,2019-07-10,2019-07-19,MLP + CNN,1,1,0.5035935044288635
+Okeechobee,2019-07-30,2019-08-08,MLP + CNN,1,1,0.6644344329833984
+Okeechobee,2019-10-18,2019-10-27,MLP + CNN,1,0,0.21392910182476044
+Okeechobee,2020-01-11,2020-01-20,MLP + CNN,1,0,0.005921220872551203
+Okeechobee,2020-01-31,2020-02-09,MLP + CNN,1,0,0.004408537410199642
+Okeechobee,2020-03-31,2020-04-09,MLP + CNN,1,0,0.008262024261057377
+Okeechobee,2020-04-10,2020-04-19,MLP + CNN,0,0,0.012162869796156883
+Okeechobee,2020-04-20,2020-04-29,MLP + CNN,1,0,0.013390304520726204
+Okeechobee,2020-04-30,2020-05-09,MLP + CNN,1,0,0.017025675624608994
+Okeechobee,2020-05-10,2020-05-19,MLP + CNN,1,0,0.07071266323328018
+Okeechobee,2020-05-20,2020-05-29,MLP + CNN,1,0,0.08003377914428711
+Okeechobee,2020-05-30,2020-06-08,MLP + CNN,1,0,0.053256627172231674
+Okeechobee,2020-06-09,2020-06-18,MLP + CNN,0,0,0.09449263662099838
+Okeechobee,2020-06-19,2020-06-28,MLP + CNN,1,0,0.32615453004837036
+Okeechobee,2020-06-29,2020-07-08,MLP + CNN,1,1,0.5256528854370117
+Okeechobee,2020-07-09,2020-07-18,MLP + CNN,1,1,0.6117992997169495
+Okeechobee,2020-07-19,2020-07-28,MLP + CNN,1,1,0.6193817853927612
+Okeechobee,2020-07-29,2020-08-07,MLP + CNN,1,1,0.611024022102356
+Okeechobee,2020-08-08,2020-08-17,MLP + CNN,1,1,0.8116833567619324
+Okeechobee,2020-08-18,2020-08-27,MLP + CNN,1,1,0.8194495439529419
+Okeechobee,2020-09-07,2020-09-16,MLP + CNN,1,1,0.8088402152061462
+Okeechobee,2020-09-17,2020-09-26,MLP + CNN,1,1,0.801703155040741
+Okeechobee,2020-09-27,2020-10-06,MLP + CNN,1,1,0.629314661026001
+Okeechobee,2020-10-07,2020-10-16,MLP + CNN,1,1,0.6001258492469788
+Okeechobee,2020-10-17,2020-10-26,MLP + CNN,1,0,0.23113562166690826
+Okeechobee,2020-10-27,2020-11-05,MLP + CNN,0,0,0.19650806486606598
+Okeechobee,2020-11-06,2020-11-15,MLP + CNN,0,0,0.07777559012174606
+Okeechobee,2020-11-16,2020-11-25,MLP + CNN,0,0,0.05948932096362114
+Okeechobee,2020-12-06,2020-12-15,MLP + CNN,1,0,0.020720751956105232
+Okeechobee,2020-12-16,2020-12-25,MLP + CNN,1,0,0.014003870077431202
+Okeechobee,2021-01-01,2021-01-10,MLP + CNN,0,0,0.007796802092343569
+Okeechobee,2021-01-11,2021-01-20,MLP + CNN,0,0,0.006066252943128347
+Okeechobee,2021-01-31,2021-02-09,MLP + CNN,1,0,0.004361419007182121
+Okeechobee,2021-02-10,2021-02-19,MLP + CNN,1,0,0.003983085043728352
+Okeechobee,2021-03-02,2021-03-11,MLP + CNN,0,0,0.0039067878387868404
+Okeechobee,2021-04-01,2021-04-10,MLP + CNN,1,0,0.00843256339430809
+Okeechobee,2021-04-11,2021-04-20,MLP + CNN,1,0,0.01165053341537714
+Okeechobee,2021-04-21,2021-04-30,MLP + CNN,1,0,0.008042346686124802
+Okeechobee,2021-05-01,2021-05-10,MLP + CNN,1,0,0.03241891786456108
+Okeechobee,2021-05-11,2021-05-20,MLP + CNN,1,0,0.07452980428934097
+Okeechobee,2021-05-21,2021-05-30,MLP + CNN,1,0,0.2223452925682068
+Okeechobee,2021-05-31,2021-06-09,MLP + CNN,1,0,0.35366320610046387
+Okeechobee,2021-06-10,2021-06-19,MLP + CNN,1,0,0.3270190954208374
+Okeechobee,2021-06-20,2021-06-29,MLP + CNN,1,0,0.18578647077083588
+Okeechobee,2021-06-30,2021-07-09,MLP + CNN,1,0,0.3652791380882263
+Okeechobee,2021-07-10,2021-07-19,MLP + CNN,1,0,0.37412089109420776
+Okeechobee,2021-07-20,2021-07-29,MLP + CNN,1,1,0.6536791324615479
+Okeechobee,2021-07-30,2021-08-08,MLP + CNN,1,1,0.6700718402862549
+Okeechobee,2021-08-09,2021-08-18,MLP + CNN,0,1,0.796208381652832
+Okeechobee,2021-08-19,2021-08-28,MLP + CNN,1,1,0.777704119682312
+Okeechobee,2021-08-29,2021-09-07,MLP + CNN,1,1,0.8150442242622375
+Okeechobee,2021-09-08,2021-09-17,MLP + CNN,1,1,0.7858120203018188
+Okeechobee,2021-09-18,2021-09-27,MLP + CNN,1,1,0.7596080303192139
+Okeechobee,2021-09-28,2021-10-07,MLP + CNN,1,1,0.700836718082428
+Okeechobee,2021-10-08,2021-10-17,MLP + CNN,0,0,0.3482223153114319
+Okeechobee,2021-10-18,2021-10-27,MLP + CNN,1,0,0.2069907784461975
+Okeechobee,2021-10-28,2021-11-06,MLP + CNN,1,0,0.13308796286582947
+Okeechobee,2021-11-07,2021-11-16,MLP + CNN,0,0,0.07438171654939651
+Okeechobee,2021-11-27,2021-12-06,MLP + CNN,1,0,0.02622503601014614
+Okeechobee,2021-12-07,2021-12-16,MLP + CNN,1,0,0.01847544126212597
+Okeechobee,2022-01-01,2022-01-10,MLP + CNN,1,0,0.008290893398225307
+Okeechobee,2022-01-21,2022-01-30,MLP + CNN,0,0,0.005311801563948393
+Okeechobee,2022-01-31,2022-02-09,MLP + CNN,0,0,0.005601405631750822
+Okeechobee,2022-03-02,2022-03-11,MLP + CNN,0,0,0.0043148803524672985
+Okeechobee,2022-03-12,2022-03-21,MLP + CNN,0,0,0.004790293052792549
+Okeechobee,2022-03-22,2022-03-31,MLP + CNN,1,0,0.005748049821704626
+Okeechobee,2022-04-01,2022-04-10,MLP + CNN,0,0,0.007952426560223103
+Okeechobee,2022-04-11,2022-04-20,MLP + CNN,0,0,0.009604067541658878
+Okeechobee,2022-05-01,2022-05-10,MLP + CNN,1,0,0.028365714475512505
+Okeechobee,2022-05-11,2022-05-20,MLP + CNN,1,0,0.06102164089679718
+Okeechobee,2022-05-21,2022-05-30,MLP + CNN,1,0,0.09803179651498795
+Okeechobee,2022-05-31,2022-06-09,MLP + CNN,1,0,0.21602143347263336
+Okeechobee,2022-06-10,2022-06-19,MLP + CNN,1,0,0.10023080557584763
+Okeechobee,2022-06-20,2022-06-29,MLP + CNN,1,0,0.17838674783706665
+Okeechobee,2022-06-30,2022-07-09,MLP + CNN,1,0,0.4864633083343506
+Okeechobee,2022-07-10,2022-07-19,MLP + CNN,1,1,0.5683843493461609
+Okeechobee,2022-07-20,2022-07-29,MLP + CNN,0,1,0.6078051328659058
+Okeechobee,2022-07-30,2022-08-08,MLP + CNN,1,1,0.7768656015396118
+Okeechobee,2022-08-09,2022-08-18,MLP + CNN,1,1,0.7755542397499084
+Okeechobee,2022-08-19,2022-08-28,MLP + CNN,0,1,0.7763317227363586
+Okeechobee,2022-08-29,2022-09-07,MLP + CNN,0,1,0.803112804889679
+Okeechobee,2022-09-18,2022-09-27,MLP + CNN,0,1,0.7865140438079834
+Okeechobee,2022-09-28,2022-10-07,MLP + CNN,0,1,0.7883132100105286
+Okeechobee,2022-10-08,2022-10-17,MLP + CNN,0,1,0.5432172417640686
+Okeechobee,2022-10-18,2022-10-27,MLP + CNN,0,0,0.3098437488079071
+Okeechobee,2022-11-07,2022-11-16,MLP + CNN,0,0,0.060758814215660095
+Okeechobee,2022-11-27,2022-12-06,MLP + CNN,0,0,0.028382256627082825
+Okeechobee,2022-12-07,2022-12-16,MLP + CNN,1,0,0.01738925091922283
+Okeechobee,2022-12-17,2022-12-26,MLP + CNN,0,0,0.012724959291517735
+Okeechobee,2023-01-01,2023-01-10,MLP + CNN,0,0,0.008097252808511257
+Okeechobee,2023-01-11,2023-01-20,MLP + CNN,1,0,0.005587184801697731
+Okeechobee,2023-01-31,2023-02-09,MLP + CNN,0,0,0.004306463059037924
+Okeechobee,2023-02-20,2023-03-01,MLP + CNN,1,0,0.004407846834510565
+Okeechobee,2023-03-02,2023-03-11,MLP + CNN,1,0,0.004427968058735132
+Okeechobee,2023-03-12,2023-03-21,MLP + CNN,0,0,0.005345118697732687
+Okeechobee,2023-04-01,2023-04-10,MLP + CNN,0,0,0.007908137515187263
+Okeechobee,2023-04-11,2023-04-20,MLP + CNN,0,0,0.011446394957602024
+Okeechobee,2023-05-01,2023-05-10,MLP + CNN,1,0,0.014414268545806408
+Okeechobee,2023-05-11,2023-05-20,MLP + CNN,1,0,0.07615317404270172
+Okeechobee,2023-05-21,2023-05-30,MLP + CNN,1,0,0.17434711754322052
+Okeechobee,2023-05-31,2023-06-09,MLP + CNN,1,0,0.09316424280405045
+Okeechobee,2023-06-10,2023-06-19,MLP + CNN,1,0,0.17347025871276855
+Okeechobee,2023-06-20,2023-06-29,MLP + CNN,1,0,0.2424509972333908
+Okeechobee,2023-06-30,2023-07-09,MLP + CNN,1,0,0.26269832253456116
+Okeechobee,2023-07-10,2023-07-19,MLP + CNN,1,0,0.4413718283176422
+Okeechobee,2023-07-20,2023-07-29,MLP + CNN,1,1,0.7570421099662781
+Okeechobee,2023-07-30,2023-08-08,MLP + CNN,1,1,0.7967121005058289
+Okeechobee,2023-08-09,2023-08-18,MLP + CNN,1,1,0.8105090856552124
+Okeechobee,2023-08-19,2023-08-28,MLP + CNN,1,1,0.7999057173728943
+Okeechobee,2023-08-29,2023-09-07,MLP + CNN,1,1,0.7732285261154175
+Okeechobee,2023-09-08,2023-09-17,MLP + CNN,1,1,0.7695962190628052
+Okeechobee,2023-09-18,2023-09-27,MLP + CNN,0,1,0.7214530110359192
+Okeechobee,2023-09-28,2023-10-07,MLP + CNN,1,1,0.6650121212005615
+Okeechobee,2023-10-08,2023-10-17,MLP + CNN,0,0,0.48260048031806946
+Okeechobee,2023-11-07,2023-11-16,MLP + CNN,0,0,0.06893844902515411
+Okeechobee,2023-12-07,2023-12-16,MLP + CNN,0,0,0.018808364868164062
+Okeechobee,2024-01-01,2024-01-10,MLP + CNN,0,0,0.007629043888300657
+Okeechobee,2024-01-11,2024-01-20,MLP + CNN,0,0,0.005780528299510479
+Okeechobee,2024-01-31,2024-02-09,MLP + CNN,0,0,0.003662358270958066
+Okeechobee,2024-02-10,2024-02-19,MLP + CNN,0,0,0.003522820770740509
+Okeechobee,2024-03-01,2024-03-10,MLP + CNN,0,0,0.004541979171335697
+Okeechobee,2024-03-11,2024-03-20,MLP + CNN,1,0,0.004773803520947695
+Okeechobee,2024-03-31,2024-04-09,MLP + CNN,1,0,0.007719896733760834
+Okeechobee,2024-04-10,2024-04-19,MLP + CNN,1,0,0.010794767178595066
+Okeechobee,2024-04-20,2024-04-29,MLP + CNN,1,0,0.018298551440238953
+Okeechobee,2024-04-30,2024-05-09,MLP + CNN,1,0,0.05040297284722328
+Okeechobee,2024-05-10,2024-05-19,MLP + CNN,1,0,0.0797717273235321
+Okeechobee,2024-05-20,2024-05-29,MLP + CNN,1,0,0.12484844028949738
+Okeechobee,2024-05-30,2024-06-08,MLP + CNN,1,0,0.3289544880390167
+Okeechobee,2024-06-09,2024-06-18,MLP + CNN,1,0,0.4705079197883606
+Okeechobee,2024-06-19,2024-06-28,MLP + CNN,1,0,0.17862257361412048
+Okeechobee,2024-06-29,2024-07-08,MLP + CNN,1,0,0.27979573607444763
+Okeechobee,2024-07-09,2024-07-18,MLP + CNN,1,1,0.5504508018493652
+Okeechobee,2024-07-19,2024-07-28,MLP + CNN,1,1,0.7044026255607605
+Okeechobee,2024-07-29,2024-08-07,MLP + CNN,1,1,0.7770537734031677
+Okeechobee,2024-08-08,2024-08-17,MLP + CNN,1,1,0.7064225673675537
+Okeechobee,2024-08-18,2024-08-27,MLP + CNN,1,1,0.801774263381958
+Okeechobee,2024-08-28,2024-09-06,MLP + CNN,0,1,0.8136298060417175
+Okeechobee,2024-09-07,2024-09-16,MLP + CNN,0,1,0.8126478791236877
+Okeechobee,2024-09-17,2024-09-26,MLP + CNN,0,1,0.8218349814414978
+Okeechobee,2024-09-27,2024-10-06,MLP + CNN,1,1,0.6682912111282349
+Okeechobee,2024-10-07,2024-10-16,MLP + CNN,1,1,0.6207131147384644
+Okeechobee,2024-10-17,2024-10-26,MLP + CNN,0,0,0.3064255118370056
+Okeechobee,2024-10-27,2024-11-05,MLP + CNN,0,0,0.10334404557943344
+Okeechobee,2024-11-06,2024-11-15,MLP + CNN,0,0,0.06526244431734085
+Okeechobee,2024-11-26,2024-12-05,MLP + CNN,0,0,0.029432594776153564
+Okeechobee,2024-12-06,2024-12-15,MLP + CNN,0,0,0.019407879561185837
+Okeechobee,2025-01-01,2025-01-10,MLP + CNN,0,0,0.0085478900000453
+Okeechobee,2025-01-31,2025-02-09,MLP + CNN,0,0,0.00464223325252533
+Okeechobee,2025-03-02,2025-03-11,MLP + CNN,0,0,0.0038339856546372175
+Okeechobee,2025-04-11,2025-04-20,MLP + CNN,0,0,0.012306065298616886
+Okeechobee,2025-05-01,2025-05-10,MLP + CNN,0,0,0.05104800686240196
+Okeechobee,2025-05-11,2025-05-20,MLP + CNN,0,0,0.06521060317754745
+Okeechobee,2025-05-21,2025-05-30,MLP + CNN,1,0,0.05985056981444359
+Okeechobee,2025-05-31,2025-06-09,MLP + CNN,0,0,0.16731031239032745
+Okeechobee,2025-06-10,2025-06-19,MLP + CNN,1,0,0.14823226630687714
+Okeechobee,2025-06-20,2025-06-29,MLP + CNN,1,0,0.3900345265865326
+Okeechobee,2025-06-30,2025-07-09,MLP + CNN,1,0,0.3706364333629608
+Okeechobee,2025-07-10,2025-07-19,MLP + CNN,1,0,0.4093840420246124
+Okeechobee,2025-07-20,2025-07-29,MLP + CNN,1,1,0.606748640537262
+Okeechobee,2025-07-30,2025-08-08,MLP + CNN,1,1,0.7999340295791626
+Okeechobee,2025-08-09,2025-08-18,MLP + CNN,1,1,0.7962875962257385
+Okeechobee,2025-08-19,2025-08-28,MLP + CNN,1,1,0.7975953221321106
+Okeechobee,2025-08-29,2025-09-07,MLP + CNN,1,1,0.8108087778091431
+Okeechobee,2025-09-08,2025-09-17,MLP + CNN,1,1,0.8098613619804382
+Okeechobee,2025-09-18,2025-09-27,MLP + CNN,1,1,0.7638309001922607
+Okeechobee,2025-09-28,2025-10-07,MLP + CNN,1,1,0.5229160785675049
+Okeechobee,2025-10-08,2025-10-17,MLP + CNN,1,0,0.4990445673465729
+Okeechobee,2025-10-18,2025-10-27,MLP + CNN,1,0,0.1847158670425415
+Okeechobee,2025-10-28,2025-11-06,MLP + CNN,0,0,0.1185748428106308
+Okeechobee,2025-11-07,2025-11-16,MLP + CNN,0,0,0.06437313556671143
+Okeechobee,2025-11-17,2025-11-26,MLP + CNN,1,0,0.04280930012464523
+Okeechobee,2025-11-27,2025-12-06,MLP + CNN,0,0,0.02601158246397972
+Okeechobee,2025-12-07,2025-12-16,MLP + CNN,1,0,0.017827043309807777
+Okeechobee,2025-12-17,2025-12-26,MLP + CNN,1,0,0.013127484358847141
+Upper_Klamath,2023-01-11,2023-01-20,Training majority baseline,0,0,
+Upper_Klamath,2023-01-21,2023-01-30,Training majority baseline,0,0,
+Upper_Klamath,2023-01-31,2023-02-09,Training majority baseline,0,0,
+Upper_Klamath,2023-02-10,2023-02-19,Training majority baseline,0,0,
+Upper_Klamath,2023-02-20,2023-03-01,Training majority baseline,0,0,
+Upper_Klamath,2023-03-02,2023-03-11,Training majority baseline,0,0,
+Upper_Klamath,2023-03-12,2023-03-21,Training majority baseline,0,0,
+Upper_Klamath,2023-03-22,2023-03-31,Training majority baseline,0,0,
+Upper_Klamath,2023-04-01,2023-04-10,Training majority baseline,0,0,
+Upper_Klamath,2023-04-11,2023-04-20,Training majority baseline,0,0,
+Upper_Klamath,2023-04-21,2023-04-30,Training majority baseline,0,0,
+Upper_Klamath,2023-05-01,2023-05-10,Training majority baseline,0,0,
+Upper_Klamath,2023-05-11,2023-05-20,Training majority baseline,0,0,
+Upper_Klamath,2023-05-21,2023-05-30,Training majority baseline,0,0,
+Upper_Klamath,2023-05-31,2023-06-09,Training majority baseline,1,0,
+Upper_Klamath,2023-06-10,2023-06-19,Training majority baseline,1,0,
+Upper_Klamath,2023-06-20,2023-06-29,Training majority baseline,1,0,
+Upper_Klamath,2023-06-30,2023-07-09,Training majority baseline,1,0,
+Upper_Klamath,2023-07-10,2023-07-19,Training majority baseline,1,0,
+Upper_Klamath,2023-07-20,2023-07-29,Training majority baseline,1,0,
+Upper_Klamath,2023-07-30,2023-08-08,Training majority baseline,1,0,
+Upper_Klamath,2023-08-09,2023-08-18,Training majority baseline,1,0,
+Upper_Klamath,2023-08-19,2023-08-28,Training majority baseline,1,0,
+Upper_Klamath,2023-08-29,2023-09-07,Training majority baseline,1,0,
+Upper_Klamath,2023-09-08,2023-09-17,Training majority baseline,1,0,
+Upper_Klamath,2023-09-18,2023-09-27,Training majority baseline,1,0,
+Upper_Klamath,2023-09-28,2023-10-07,Training majority baseline,1,0,
+Upper_Klamath,2023-10-08,2023-10-17,Training majority baseline,1,0,
+Upper_Klamath,2023-10-18,2023-10-27,Training majority baseline,1,0,
+Upper_Klamath,2023-10-28,2023-11-06,Training majority baseline,0,0,
+Upper_Klamath,2023-11-07,2023-11-16,Training majority baseline,0,0,
+Upper_Klamath,2023-11-17,2023-11-26,Training majority baseline,0,0,
+Upper_Klamath,2023-11-27,2023-12-06,Training majority baseline,0,0,
+Upper_Klamath,2023-12-07,2023-12-16,Training majority baseline,0,0,
+Upper_Klamath,2023-12-17,2023-12-26,Training majority baseline,0,0,
+Upper_Klamath,2024-01-01,2024-01-10,Training majority baseline,0,0,
+Upper_Klamath,2024-01-11,2024-01-20,Training majority baseline,0,0,
+Upper_Klamath,2024-01-21,2024-01-30,Training majority baseline,0,0,
+Upper_Klamath,2024-01-31,2024-02-09,Training majority baseline,0,0,
+Upper_Klamath,2024-02-10,2024-02-19,Training majority baseline,0,0,
+Upper_Klamath,2024-02-20,2024-02-29,Training majority baseline,0,0,
+Upper_Klamath,2024-03-01,2024-03-10,Training majority baseline,0,0,
+Upper_Klamath,2024-03-11,2024-03-20,Training majority baseline,0,0,
+Upper_Klamath,2024-03-21,2024-03-30,Training majority baseline,0,0,
+Upper_Klamath,2024-03-31,2024-04-09,Training majority baseline,0,0,
+Upper_Klamath,2024-04-10,2024-04-19,Training majority baseline,0,0,
+Upper_Klamath,2024-04-20,2024-04-29,Training majority baseline,0,0,
+Upper_Klamath,2024-04-30,2024-05-09,Training majority baseline,0,0,
+Upper_Klamath,2024-05-10,2024-05-19,Training majority baseline,0,0,
+Upper_Klamath,2024-05-20,2024-05-29,Training majority baseline,1,0,
+Upper_Klamath,2024-05-30,2024-06-08,Training majority baseline,1,0,
+Upper_Klamath,2024-06-09,2024-06-18,Training majority baseline,1,0,
+Upper_Klamath,2024-06-19,2024-06-28,Training majority baseline,1,0,
+Upper_Klamath,2024-06-29,2024-07-08,Training majority baseline,1,0,
+Upper_Klamath,2024-07-09,2024-07-18,Training majority baseline,1,0,
+Upper_Klamath,2024-07-19,2024-07-28,Training majority baseline,1,0,
+Upper_Klamath,2024-07-29,2024-08-07,Training majority baseline,1,0,
+Upper_Klamath,2024-08-08,2024-08-17,Training majority baseline,1,0,
+Upper_Klamath,2024-08-18,2024-08-27,Training majority baseline,1,0,
+Upper_Klamath,2024-08-28,2024-09-06,Training majority baseline,1,0,
+Upper_Klamath,2024-09-07,2024-09-16,Training majority baseline,1,0,
+Upper_Klamath,2024-09-17,2024-09-26,Training majority baseline,1,0,
+Upper_Klamath,2024-09-27,2024-10-06,Training majority baseline,1,0,
+Upper_Klamath,2024-10-07,2024-10-16,Training majority baseline,1,0,
+Upper_Klamath,2024-10-17,2024-10-26,Training majority baseline,1,0,
+Upper_Klamath,2024-10-27,2024-11-05,Training majority baseline,0,0,
+Upper_Klamath,2024-11-06,2024-11-15,Training majority baseline,0,0,
+Upper_Klamath,2024-11-16,2024-11-25,Training majority baseline,0,0,
+Upper_Klamath,2024-11-26,2024-12-05,Training majority baseline,0,0,
+Upper_Klamath,2024-12-06,2024-12-15,Training majority baseline,0,0,
+Upper_Klamath,2024-12-16,2024-12-25,Training majority baseline,0,0,
+Upper_Klamath,2023-01-11,2023-01-20,Environmental MLP,0,0,0.24915432929992676
+Upper_Klamath,2023-01-21,2023-01-30,Environmental MLP,0,0,0.23654930293560028
+Upper_Klamath,2023-01-31,2023-02-09,Environmental MLP,0,0,0.23862434923648834
+Upper_Klamath,2023-02-10,2023-02-19,Environmental MLP,0,0,0.2522861659526825
+Upper_Klamath,2023-02-20,2023-03-01,Environmental MLP,0,0,0.25385838747024536
+Upper_Klamath,2023-03-02,2023-03-11,Environmental MLP,0,0,0.2666855752468109
+Upper_Klamath,2023-03-12,2023-03-21,Environmental MLP,0,0,0.3379480242729187
+Upper_Klamath,2023-03-22,2023-03-31,Environmental MLP,0,0,0.28696370124816895
+Upper_Klamath,2023-04-01,2023-04-10,Environmental MLP,0,0,0.28464531898498535
+Upper_Klamath,2023-04-11,2023-04-20,Environmental MLP,0,0,0.2649880051612854
+Upper_Klamath,2023-04-21,2023-04-30,Environmental MLP,0,0,0.2612064480781555
+Upper_Klamath,2023-05-01,2023-05-10,Environmental MLP,0,0,0.2472359985113144
+Upper_Klamath,2023-05-11,2023-05-20,Environmental MLP,0,0,0.2518148422241211
+Upper_Klamath,2023-05-21,2023-05-30,Environmental MLP,0,0,0.2868747115135193
+Upper_Klamath,2023-05-31,2023-06-09,Environmental MLP,1,0,0.3431521952152252
+Upper_Klamath,2023-06-10,2023-06-19,Environmental MLP,1,0,0.42939940094947815
+Upper_Klamath,2023-06-20,2023-06-29,Environmental MLP,1,1,0.501045286655426
+Upper_Klamath,2023-06-30,2023-07-09,Environmental MLP,1,1,0.5076232552528381
+Upper_Klamath,2023-07-10,2023-07-19,Environmental MLP,1,1,0.5297178626060486
+Upper_Klamath,2023-07-20,2023-07-29,Environmental MLP,1,1,0.5531975626945496
+Upper_Klamath,2023-07-30,2023-08-08,Environmental MLP,1,1,0.5634175539016724
+Upper_Klamath,2023-08-09,2023-08-18,Environmental MLP,1,1,0.5795792937278748
+Upper_Klamath,2023-08-19,2023-08-28,Environmental MLP,1,1,0.596141517162323
+Upper_Klamath,2023-08-29,2023-09-07,Environmental MLP,1,1,0.6084878444671631
+Upper_Klamath,2023-09-08,2023-09-17,Environmental MLP,1,1,0.5837914347648621
+Upper_Klamath,2023-09-18,2023-09-27,Environmental MLP,1,1,0.522071361541748
+Upper_Klamath,2023-09-28,2023-10-07,Environmental MLP,1,0,0.4656418263912201
+Upper_Klamath,2023-10-08,2023-10-17,Environmental MLP,1,0,0.42519089579582214
+Upper_Klamath,2023-10-18,2023-10-27,Environmental MLP,1,0,0.3705052435398102
+Upper_Klamath,2023-10-28,2023-11-06,Environmental MLP,0,0,0.3176993131637573
+Upper_Klamath,2023-11-07,2023-11-16,Environmental MLP,0,0,0.3011973798274994
+Upper_Klamath,2023-11-17,2023-11-26,Environmental MLP,0,0,0.2955191135406494
+Upper_Klamath,2023-11-27,2023-12-06,Environmental MLP,0,0,0.2755641043186188
+Upper_Klamath,2023-12-07,2023-12-16,Environmental MLP,0,0,0.26606568694114685
+Upper_Klamath,2023-12-17,2023-12-26,Environmental MLP,0,0,0.253182977437973
+Upper_Klamath,2024-01-01,2024-01-10,Environmental MLP,0,0,0.2426660656929016
+Upper_Klamath,2024-01-11,2024-01-20,Environmental MLP,0,0,0.23933984339237213
+Upper_Klamath,2024-01-21,2024-01-30,Environmental MLP,0,0,0.22860880196094513
+Upper_Klamath,2024-01-31,2024-02-09,Environmental MLP,0,0,0.2379589080810547
+Upper_Klamath,2024-02-10,2024-02-19,Environmental MLP,0,0,0.24346347153186798
+Upper_Klamath,2024-02-20,2024-02-29,Environmental MLP,0,0,0.25415244698524475
+Upper_Klamath,2024-03-01,2024-03-10,Environmental MLP,0,0,0.2701614201068878
+Upper_Klamath,2024-03-11,2024-03-20,Environmental MLP,0,0,0.28966018557548523
+Upper_Klamath,2024-03-21,2024-03-30,Environmental MLP,0,0,0.2773825228214264
+Upper_Klamath,2024-03-31,2024-04-09,Environmental MLP,0,0,0.2579195201396942
+Upper_Klamath,2024-04-10,2024-04-19,Environmental MLP,0,0,0.26401978731155396
+Upper_Klamath,2024-04-20,2024-04-29,Environmental MLP,0,0,0.2514878213405609
+Upper_Klamath,2024-04-30,2024-05-09,Environmental MLP,0,0,0.2810477018356323
+Upper_Klamath,2024-05-10,2024-05-19,Environmental MLP,0,0,0.3488878011703491
+Upper_Klamath,2024-05-20,2024-05-29,Environmental MLP,1,0,0.42149895429611206
+Upper_Klamath,2024-05-30,2024-06-08,Environmental MLP,1,0,0.4932045638561249
+Upper_Klamath,2024-06-09,2024-06-18,Environmental MLP,1,1,0.5152819752693176
+Upper_Klamath,2024-06-19,2024-06-28,Environmental MLP,1,1,0.5198899507522583
+Upper_Klamath,2024-06-29,2024-07-08,Environmental MLP,1,1,0.5167677402496338
+Upper_Klamath,2024-07-09,2024-07-18,Environmental MLP,1,1,0.5291748642921448
+Upper_Klamath,2024-07-19,2024-07-28,Environmental MLP,1,1,0.550055205821991
+Upper_Klamath,2024-07-29,2024-08-07,Environmental MLP,1,1,0.5688734650611877
+Upper_Klamath,2024-08-08,2024-08-17,Environmental MLP,1,1,0.5982688069343567
+Upper_Klamath,2024-08-18,2024-08-27,Environmental MLP,1,1,0.6096126437187195
+Upper_Klamath,2024-08-28,2024-09-06,Environmental MLP,1,1,0.5924640893936157
+Upper_Klamath,2024-09-07,2024-09-16,Environmental MLP,1,1,0.5803866386413574
+Upper_Klamath,2024-09-17,2024-09-26,Environmental MLP,1,1,0.5122274160385132
+Upper_Klamath,2024-09-27,2024-10-06,Environmental MLP,1,0,0.4651370346546173
+Upper_Klamath,2024-10-07,2024-10-16,Environmental MLP,1,0,0.41650286316871643
+Upper_Klamath,2024-10-17,2024-10-26,Environmental MLP,1,0,0.376543253660202
+Upper_Klamath,2024-10-27,2024-11-05,Environmental MLP,0,0,0.30764418840408325
+Upper_Klamath,2024-11-06,2024-11-15,Environmental MLP,0,0,0.2974992096424103
+Upper_Klamath,2024-11-16,2024-11-25,Environmental MLP,0,0,0.2757432460784912
+Upper_Klamath,2024-11-26,2024-12-05,Environmental MLP,0,0,0.27005210518836975
+Upper_Klamath,2024-12-06,2024-12-15,Environmental MLP,0,0,0.26530179381370544
+Upper_Klamath,2024-12-16,2024-12-25,Environmental MLP,0,0,0.2532041668891907
+Upper_Klamath,2023-01-11,2023-01-20,MLP + CNN,0,0,0.3396589159965515
+Upper_Klamath,2023-01-21,2023-01-30,MLP + CNN,0,0,0.3409542143344879
+Upper_Klamath,2023-01-31,2023-02-09,MLP + CNN,0,0,0.3344052731990814
+Upper_Klamath,2023-02-10,2023-02-19,MLP + CNN,0,0,0.34355077147483826
+Upper_Klamath,2023-02-20,2023-03-01,MLP + CNN,0,0,0.33936354517936707
+Upper_Klamath,2023-03-02,2023-03-11,MLP + CNN,0,0,0.3445688784122467
+Upper_Klamath,2023-03-12,2023-03-21,MLP + CNN,0,0,0.3543188273906708
+Upper_Klamath,2023-03-22,2023-03-31,MLP + CNN,0,0,0.35085323452949524
+Upper_Klamath,2023-04-01,2023-04-10,MLP + CNN,0,0,0.3585357666015625
+Upper_Klamath,2023-04-11,2023-04-20,MLP + CNN,0,0,0.3589653968811035
+Upper_Klamath,2023-04-21,2023-04-30,MLP + CNN,0,0,0.36262592673301697
+Upper_Klamath,2023-05-01,2023-05-10,MLP + CNN,0,0,0.36194857954978943
+Upper_Klamath,2023-05-11,2023-05-20,MLP + CNN,0,0,0.36815693974494934
+Upper_Klamath,2023-05-21,2023-05-30,MLP + CNN,0,0,0.3847017288208008
+Upper_Klamath,2023-05-31,2023-06-09,MLP + CNN,1,0,0.4676962196826935
+Upper_Klamath,2023-06-10,2023-06-19,MLP + CNN,1,1,0.5583536028862
+Upper_Klamath,2023-06-20,2023-06-29,MLP + CNN,1,1,0.6245996356010437
+Upper_Klamath,2023-06-30,2023-07-09,MLP + CNN,1,1,0.6445215940475464
+Upper_Klamath,2023-07-10,2023-07-19,MLP + CNN,1,1,0.6542400121688843
+Upper_Klamath,2023-07-20,2023-07-29,MLP + CNN,1,1,0.6672635078430176
+Upper_Klamath,2023-07-30,2023-08-08,MLP + CNN,1,1,0.6730183362960815
+Upper_Klamath,2023-08-09,2023-08-18,MLP + CNN,1,1,0.6798353791236877
+Upper_Klamath,2023-08-19,2023-08-28,MLP + CNN,1,1,0.6859140396118164
+Upper_Klamath,2023-08-29,2023-09-07,MLP + CNN,1,1,0.6780080795288086
+Upper_Klamath,2023-09-08,2023-09-17,MLP + CNN,1,1,0.658696711063385
+Upper_Klamath,2023-09-18,2023-09-27,MLP + CNN,1,1,0.5910045504570007
+Upper_Klamath,2023-09-28,2023-10-07,MLP + CNN,1,1,0.5286181569099426
+Upper_Klamath,2023-10-08,2023-10-17,MLP + CNN,1,0,0.48627933859825134
+Upper_Klamath,2023-10-18,2023-10-27,MLP + CNN,1,0,0.4248867332935333
+Upper_Klamath,2023-10-28,2023-11-06,MLP + CNN,0,0,0.3958262503147125
+Upper_Klamath,2023-11-07,2023-11-16,MLP + CNN,0,0,0.38504722714424133
+Upper_Klamath,2023-11-17,2023-11-26,MLP + CNN,0,0,0.37678033113479614
+Upper_Klamath,2023-11-27,2023-12-06,MLP + CNN,0,0,0.36848124861717224
+Upper_Klamath,2023-12-07,2023-12-16,MLP + CNN,0,0,0.3548789620399475
+Upper_Klamath,2023-12-17,2023-12-26,MLP + CNN,0,0,0.34784916043281555
+Upper_Klamath,2024-01-01,2024-01-10,MLP + CNN,0,0,0.34523487091064453
+Upper_Klamath,2024-01-11,2024-01-20,MLP + CNN,0,0,0.33580154180526733
+Upper_Klamath,2024-01-21,2024-01-30,MLP + CNN,0,0,0.3412887156009674
+Upper_Klamath,2024-01-31,2024-02-09,MLP + CNN,0,0,0.33426836133003235
+Upper_Klamath,2024-02-10,2024-02-19,MLP + CNN,0,0,0.33821922540664673
+Upper_Klamath,2024-02-20,2024-02-29,MLP + CNN,0,0,0.33891066908836365
+Upper_Klamath,2024-03-01,2024-03-10,MLP + CNN,0,0,0.34621384739875793
+Upper_Klamath,2024-03-11,2024-03-20,MLP + CNN,0,0,0.3518727123737335
+Upper_Klamath,2024-03-21,2024-03-30,MLP + CNN,0,0,0.35168617963790894
+Upper_Klamath,2024-03-31,2024-04-09,MLP + CNN,0,0,0.35313180088996887
+Upper_Klamath,2024-04-10,2024-04-19,MLP + CNN,0,0,0.35883671045303345
+Upper_Klamath,2024-04-20,2024-04-29,MLP + CNN,0,0,0.36100101470947266
+Upper_Klamath,2024-04-30,2024-05-09,MLP + CNN,0,0,0.3691774606704712
+Upper_Klamath,2024-05-10,2024-05-19,MLP + CNN,0,0,0.4193294644355774
+Upper_Klamath,2024-05-20,2024-05-29,MLP + CNN,1,1,0.5315420031547546
+Upper_Klamath,2024-05-30,2024-06-08,MLP + CNN,1,1,0.607040524482727
+Upper_Klamath,2024-06-09,2024-06-18,MLP + CNN,1,1,0.6354889273643494
+Upper_Klamath,2024-06-19,2024-06-28,MLP + CNN,1,1,0.6473128795623779
+Upper_Klamath,2024-06-29,2024-07-08,MLP + CNN,1,1,0.6539193391799927
+Upper_Klamath,2024-07-09,2024-07-18,MLP + CNN,1,1,0.6531330943107605
+Upper_Klamath,2024-07-19,2024-07-28,MLP + CNN,1,1,0.6636866927146912
+Upper_Klamath,2024-07-29,2024-08-07,MLP + CNN,1,1,0.6753938794136047
+Upper_Klamath,2024-08-08,2024-08-17,MLP + CNN,1,1,0.692607581615448
+Upper_Klamath,2024-08-18,2024-08-27,MLP + CNN,1,1,0.6861245632171631
+Upper_Klamath,2024-08-28,2024-09-06,MLP + CNN,1,1,0.6663500070571899
+Upper_Klamath,2024-09-07,2024-09-16,MLP + CNN,1,1,0.6509305238723755
+Upper_Klamath,2024-09-17,2024-09-26,MLP + CNN,1,1,0.58188396692276
+Upper_Klamath,2024-09-27,2024-10-06,MLP + CNN,1,1,0.528079628944397
+Upper_Klamath,2024-10-07,2024-10-16,MLP + CNN,1,0,0.4732639491558075
+Upper_Klamath,2024-10-17,2024-10-26,MLP + CNN,1,0,0.43235471844673157
+Upper_Klamath,2024-10-27,2024-11-05,MLP + CNN,0,0,0.39520886540412903
+Upper_Klamath,2024-11-06,2024-11-15,MLP + CNN,0,0,0.3829081952571869
+Upper_Klamath,2024-11-16,2024-11-25,MLP + CNN,0,0,0.374246746301651
+Upper_Klamath,2024-11-26,2024-12-05,MLP + CNN,0,0,0.37209945917129517
+Upper_Klamath,2024-12-06,2024-12-15,MLP + CNN,0,0,0.36183422803878784
+Upper_Klamath,2024-12-16,2024-12-25,MLP + CNN,0,0,0.3556451201438904

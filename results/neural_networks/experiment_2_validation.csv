@@ -1,0 +1,3 @@
+model,examples,accuracy,precision,recall,F1,correct_warnings,false_alarms,missed_significant,correct_lower_severity
+Regularised environmental MLP,22,0.5909090909090909,0.5909090909090909,1.0,0.7428571428571429,13,9,0,0
+Smaller MLP + CNN,22,0.6818181818181818,0.7142857142857143,0.7692307692307693,0.7407407407407407,10,4,3,5

@@ -1,0 +1,4 @@
+held_out_lake,model,validation_examples,selected_epoch,accuracy,precision,recall,F1,correct_warnings,false_alarms,missed_blooms,correct_low_conditions
+Champlain,Availability-only control,71,38,0.8309859154929577,0.8529411764705882,0.8055555555555556,0.8285714285714286,29,5,7,30
+Okeechobee,Availability-only control,79,47,0.8607594936708861,0.88,0.7333333333333333,0.8,22,3,8,46
+Upper_Klamath,Availability-only control,71,33,0.7887323943661971,0.8148148148148148,0.6875,0.7457627118644068,22,5,10,34

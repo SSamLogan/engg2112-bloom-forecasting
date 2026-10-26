@@ -1,0 +1,1173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ENGG2112 project findings</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    max-width: 1200px;
+    margin: 35px auto;
+    padding: 0 20px;
+    line-height: 1.5;
+}
+table {
+    border-collapse: collapse;
+    margin-bottom: 30px;
+    font-size: 14px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th { background: #edf2f7; }
+.table-wrapper { overflow-x: auto; }
+</style>
+</head>
+<body>
+<h1>ENGG2112: Cross-lake bloom forecasting</h1>
+<p>
+Goal: assess whether models trained on other lakes can predict
+bloom conditions during an upcoming ten-day period at an unseen lake.
+</p>
+<p>
+Each experiment held out one entire lake for testing.
+Validation used the latest available year from each of the remaining
+lakes; earlier years were used for training.
+</p>
+<p>
+The “held_out_lake” column identifies the experiment.
+In a validation table, the results concern the other training lakes,
+not the held-out lake.
+</p>
+<p>
+Satellite images were available only for Erie.
+For the other three held-out lakes, the combined model used images
+during training but received no images at prediction time.
+</p>
+
+<h2>00 dataset summary</h2><div class="table-wrapper"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>lake</th>
+      <th>examples</th>
+      <th>bloom_conditions</th>
+      <th>low_conditions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Champlain</td>
+      <td>71</td>
+      <td>23</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td>Erie</td>
+      <td>221</td>
+      <td>84</td>
+      <td>137</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>176</td>
+      <td>116</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>71</td>
+      <td>31</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table></div>
+<h2>01 main validation results</h2><div class="table-wrapper"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>held_out_lake</th>
+      <th>model</th>
+      <th>validation_examples</th>
+      <th>selected_epoch</th>
+      <th>accuracy</th>
+      <th>precision</th>
+      <th>recall</th>
+      <th>F1</th>
+      <th>correct_warnings</th>
+      <th>false_alarms</th>
+      <th>missed_blooms</th>
+      <th>correct_low_conditions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Champlain</td>
+      <td>Training majority baseline</td>
+      <td>71</td>
+      <td>NaN</td>
+      <td>0.493</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0</td>
+      <td>0</td>
+      <td>36</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td>Champlain</td>
+      <td>Environmental MLP</td>
+      <td>71</td>
+      <td>38.000</td>
+      <td>0.789</td>
+      <td>0.800</td>
+      <td>0.778</td>
+      <td>0.789</td>
+      <td>28</td>
+      <td>7</td>
+      <td>8</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <td>Champlain</td>
+      <td>MLP + CNN</td>
+      <td>71</td>
+      <td>25.000</td>
+      <td>0.845</td>
+      <td>0.838</td>
+      <td>0.861</td>
+      <td>0.849</td>
+      <td>31</td>
+      <td>6</td>
+      <td>5</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td>Erie</td>
+      <td>Training majority baseline</td>
+      <td>100</td>
+      <td>NaN</td>
+      <td>0.460</td>
+      <td>0.460</td>
+      <td>1.000</td>
+      <td>0.630</td>
+      <td>46</td>
+      <td>54</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Erie</td>
+      <td>Environmental MLP</td>
+      <td>100</td>
+      <td>87.000</td>
+      <td>0.860</td>
+      <td>0.864</td>
+      <td>0.826</td>
+      <td>0.844</td>
+      <td>38</td>
+      <td>6</td>
+      <td>8</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>Training majority baseline</td>
+      <td>79</td>
+      <td>NaN</td>
+      <td>0.620</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0</td>
+      <td>0</td>
+      <td>30</td>
+      <td>49</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>Environmental MLP</td>
+      <td>79</td>
+      <td>65.000</td>
+      <td>0.848</td>
+      <td>0.875</td>
+      <td>0.700</td>
+      <td>0.778</td>
+      <td>21</td>
+      <td>3</td>
+      <td>9</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>MLP + CNN</td>
+      <td>79</td>
+      <td>45.000</td>
+      <td>0.873</td>
+      <td>0.917</td>
+      <td>0.733</td>
+      <td>0.815</td>
+      <td>22</td>
+      <td>2</td>
+      <td>8</td>
+      <td>47</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>Training majority baseline</td>
+      <td>71</td>
+      <td>NaN</td>
+      <td>0.549</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0</td>
+      <td>0</td>
+      <td>32</td>
+      <td>39</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>Environmental MLP</td>
+      <td>71</td>
+      <td>20.000</td>
+      <td>0.761</td>
+      <td>0.778</td>
+      <td>0.656</td>
+      <td>0.712</td>
+      <td>21</td>
+      <td>6</td>
+      <td>11</td>
+      <td>33</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>MLP + CNN</td>
+      <td>71</td>
+      <td>20.000</td>
+      <td>0.789</td>
+      <td>0.774</td>
+      <td>0.750</td>
+      <td>0.762</td>
+      <td>24</td>
+      <td>7</td>
+      <td>8</td>
+      <td>32</td>
+    </tr>
+  </tbody>
+</table></div>
+<h2>02 main test results</h2><div class="table-wrapper"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>held_out_lake</th>
+      <th>model</th>
+      <th>test_examples</th>
+      <th>accuracy</th>
+      <th>precision</th>
+      <th>recall</th>
+      <th>F1</th>
+      <th>correct_warnings</th>
+      <th>false_alarms</th>
+      <th>missed_blooms</th>
+      <th>correct_low_conditions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Champlain</td>
+      <td>Training majority baseline</td>
+      <td>71</td>
+      <td>0.676</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0</td>
+      <td>0</td>
+      <td>23</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td>Champlain</td>
+      <td>Environmental MLP</td>
+      <td>71</td>
+      <td>0.761</td>
+      <td>1.000</td>
+      <td>0.261</td>
+      <td>0.414</td>
+      <td>6</td>
+      <td>0</td>
+      <td>17</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td>Champlain</td>
+      <td>MLP + CNN</td>
+      <td>71</td>
+      <td>0.789</td>
+      <td>0.654</td>
+      <td>0.739</td>
+      <td>0.694</td>
+      <td>17</td>
+      <td>9</td>
+      <td>6</td>
+      <td>39</td>
+    </tr>
+    <tr>
+      <td>Erie</td>
+      <td>Training majority baseline</td>
+      <td>221</td>
+      <td>0.380</td>
+      <td>0.380</td>
+      <td>1.000</td>
+      <td>0.551</td>
+      <td>84</td>
+      <td>137</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Erie</td>
+      <td>Environmental MLP</td>
+      <td>221</td>
+      <td>0.543</td>
+      <td>0.439</td>
+      <td>0.726</td>
+      <td>0.547</td>
+      <td>61</td>
+      <td>78</td>
+      <td>23</td>
+      <td>59</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>Training majority baseline</td>
+      <td>176</td>
+      <td>0.341</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0</td>
+      <td>0</td>
+      <td>116</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>Environmental MLP</td>
+      <td>176</td>
+      <td>0.511</td>
+      <td>0.778</td>
+      <td>0.362</td>
+      <td>0.494</td>
+      <td>42</td>
+      <td>12</td>
+      <td>74</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>MLP + CNN</td>
+      <td>176</td>
+      <td>0.528</td>
+      <td>0.800</td>
+      <td>0.379</td>
+      <td>0.515</td>
+      <td>44</td>
+      <td>11</td>
+      <td>72</td>
+      <td>49</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>Training majority baseline</td>
+      <td>71</td>
+      <td>0.563</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0</td>
+      <td>0</td>
+      <td>31</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>Environmental MLP</td>
+      <td>71</td>
+      <td>0.859</td>
+      <td>1.000</td>
+      <td>0.677</td>
+      <td>0.808</td>
+      <td>21</td>
+      <td>0</td>
+      <td>10</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>MLP + CNN</td>
+      <td>71</td>
+      <td>0.930</td>
+      <td>1.000</td>
+      <td>0.839</td>
+      <td>0.912</td>
+      <td>26</td>
+      <td>0</td>
+      <td>5</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table></div>
+<h2>03 availability control validation</h2><div class="table-wrapper"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>held_out_lake</th>
+      <th>model</th>
+      <th>validation_examples</th>
+      <th>selected_epoch</th>
+      <th>accuracy</th>
+      <th>precision</th>
+      <th>recall</th>
+      <th>F1</th>
+      <th>correct_warnings</th>
+      <th>false_alarms</th>
+      <th>missed_blooms</th>
+      <th>correct_low_conditions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Champlain</td>
+      <td>Availability-only control</td>
+      <td>71</td>
+      <td>38</td>
+      <td>0.831</td>
+      <td>0.853</td>
+      <td>0.806</td>
+      <td>0.829</td>
+      <td>29</td>
+      <td>5</td>
+      <td>7</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>Availability-only control</td>
+      <td>79</td>
+      <td>47</td>
+      <td>0.861</td>
+      <td>0.880</td>
+      <td>0.733</td>
+      <td>0.800</td>
+      <td>22</td>
+      <td>3</td>
+      <td>8</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>Availability-only control</td>
+      <td>71</td>
+      <td>33</td>
+      <td>0.789</td>
+      <td>0.815</td>
+      <td>0.688</td>
+      <td>0.746</td>
+      <td>22</td>
+      <td>5</td>
+      <td>10</td>
+      <td>34</td>
+    </tr>
+  </tbody>
+</table></div>
+<h2>04 availability control test</h2><div class="table-wrapper"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>held_out_lake</th>
+      <th>model</th>
+      <th>test_examples</th>
+      <th>accuracy</th>
+      <th>precision</th>
+      <th>recall</th>
+      <th>F1</th>
+      <th>correct_warnings</th>
+      <th>false_alarms</th>
+      <th>missed_blooms</th>
+      <th>correct_low_conditions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Champlain</td>
+      <td>Availability-only control</td>
+      <td>71</td>
+      <td>0.761</td>
+      <td>0.714</td>
+      <td>0.435</td>
+      <td>0.541</td>
+      <td>10</td>
+      <td>4</td>
+      <td>13</td>
+      <td>44</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>Availability-only control</td>
+      <td>176</td>
+      <td>0.511</td>
+      <td>0.778</td>
+      <td>0.362</td>
+      <td>0.494</td>
+      <td>42</td>
+      <td>12</td>
+      <td>74</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>Availability-only control</td>
+      <td>71</td>
+      <td>0.887</td>
+      <td>1.000</td>
+      <td>0.742</td>
+      <td>0.852</td>
+      <td>23</td>
+      <td>0</td>
+      <td>8</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table></div>
+<h2>05 erie only vs multi lake test</h2><div class="table-wrapper"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>held_out_lake</th>
+      <th>model</th>
+      <th>training_source</th>
+      <th>test_examples</th>
+      <th>accuracy</th>
+      <th>precision</th>
+      <th>recall</th>
+      <th>F1</th>
+      <th>correct_warnings</th>
+      <th>false_alarms</th>
+      <th>missed_blooms</th>
+      <th>correct_low_conditions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Champlain</td>
+      <td>Environmental MLP</td>
+      <td>Erie only</td>
+      <td>71</td>
+      <td>0.789</td>
+      <td>0.833</td>
+      <td>0.435</td>
+      <td>0.571</td>
+      <td>10</td>
+      <td>2</td>
+      <td>13</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>Environmental MLP</td>
+      <td>Erie only</td>
+      <td>176</td>
+      <td>0.466</td>
+      <td>0.750</td>
+      <td>0.284</td>
+      <td>0.412</td>
+      <td>33</td>
+      <td>11</td>
+      <td>83</td>
+      <td>49</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>Environmental MLP</td>
+      <td>Erie only</td>
+      <td>71</td>
+      <td>0.732</td>
+      <td>1.000</td>
+      <td>0.387</td>
+      <td>0.558</td>
+      <td>12</td>
+      <td>0</td>
+      <td>19</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Champlain</td>
+      <td>MLP + CNN</td>
+      <td>Erie only</td>
+      <td>71</td>
+      <td>0.549</td>
+      <td>0.385</td>
+      <td>0.652</td>
+      <td>0.484</td>
+      <td>15</td>
+      <td>24</td>
+      <td>8</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>MLP + CNN</td>
+      <td>Erie only</td>
+      <td>176</td>
+      <td>0.409</td>
+      <td>0.562</td>
+      <td>0.466</td>
+      <td>0.509</td>
+      <td>54</td>
+      <td>42</td>
+      <td>62</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>MLP + CNN</td>
+      <td>Erie only</td>
+      <td>71</td>
+      <td>0.521</td>
+      <td>0.462</td>
+      <td>0.581</td>
+      <td>0.514</td>
+      <td>18</td>
+      <td>21</td>
+      <td>13</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <td>Champlain</td>
+      <td>Environmental MLP</td>
+      <td>Three lakes</td>
+      <td>71</td>
+      <td>0.761</td>
+      <td>1.000</td>
+      <td>0.261</td>
+      <td>0.414</td>
+      <td>6</td>
+      <td>0</td>
+      <td>17</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td>Champlain</td>
+      <td>MLP + CNN</td>
+      <td>Three lakes</td>
+      <td>71</td>
+      <td>0.789</td>
+      <td>0.654</td>
+      <td>0.739</td>
+      <td>0.694</td>
+      <td>17</td>
+      <td>9</td>
+      <td>6</td>
+      <td>39</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>Environmental MLP</td>
+      <td>Three lakes</td>
+      <td>176</td>
+      <td>0.511</td>
+      <td>0.778</td>
+      <td>0.362</td>
+      <td>0.494</td>
+      <td>42</td>
+      <td>12</td>
+      <td>74</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>MLP + CNN</td>
+      <td>Three lakes</td>
+      <td>176</td>
+      <td>0.528</td>
+      <td>0.800</td>
+      <td>0.379</td>
+      <td>0.515</td>
+      <td>44</td>
+      <td>11</td>
+      <td>72</td>
+      <td>49</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>Environmental MLP</td>
+      <td>Three lakes</td>
+      <td>71</td>
+      <td>0.859</td>
+      <td>1.000</td>
+      <td>0.677</td>
+      <td>0.808</td>
+      <td>21</td>
+      <td>0</td>
+      <td>10</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>MLP + CNN</td>
+      <td>Three lakes</td>
+      <td>71</td>
+      <td>0.930</td>
+      <td>1.000</td>
+      <td>0.839</td>
+      <td>0.912</td>
+      <td>26</td>
+      <td>0</td>
+      <td>5</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table></div>
+<h2>06 season only validation</h2><div class="table-wrapper"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>held_out_lake</th>
+      <th>model</th>
+      <th>examples</th>
+      <th>selected_epoch</th>
+      <th>accuracy</th>
+      <th>precision</th>
+      <th>recall</th>
+      <th>F1</th>
+      <th>correct_warnings</th>
+      <th>false_alarms</th>
+      <th>missed_blooms</th>
+      <th>correct_low_conditions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Champlain</td>
+      <td>Season-only MLP</td>
+      <td>71</td>
+      <td>30</td>
+      <td>0.718</td>
+      <td>0.833</td>
+      <td>0.556</td>
+      <td>0.667</td>
+      <td>20</td>
+      <td>4</td>
+      <td>16</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <td>Erie</td>
+      <td>Season-only MLP</td>
+      <td>100</td>
+      <td>31</td>
+      <td>0.800</td>
+      <td>0.771</td>
+      <td>0.804</td>
+      <td>0.787</td>
+      <td>37</td>
+      <td>11</td>
+      <td>9</td>
+      <td>43</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>Season-only MLP</td>
+      <td>79</td>
+      <td>68</td>
+      <td>0.810</td>
+      <td>0.857</td>
+      <td>0.600</td>
+      <td>0.706</td>
+      <td>18</td>
+      <td>3</td>
+      <td>12</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>Season-only MLP</td>
+      <td>71</td>
+      <td>30</td>
+      <td>0.775</td>
+      <td>0.833</td>
+      <td>0.625</td>
+      <td>0.714</td>
+      <td>20</td>
+      <td>4</td>
+      <td>12</td>
+      <td>35</td>
+    </tr>
+  </tbody>
+</table></div>
+<h2>07 season only test</h2><div class="table-wrapper"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>held_out_lake</th>
+      <th>model</th>
+      <th>examples</th>
+      <th>selected_epoch</th>
+      <th>accuracy</th>
+      <th>precision</th>
+      <th>recall</th>
+      <th>F1</th>
+      <th>correct_warnings</th>
+      <th>false_alarms</th>
+      <th>missed_blooms</th>
+      <th>correct_low_conditions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Champlain</td>
+      <td>Season-only MLP</td>
+      <td>71</td>
+      <td>30</td>
+      <td>0.901</td>
+      <td>0.944</td>
+      <td>0.739</td>
+      <td>0.829</td>
+      <td>17</td>
+      <td>1</td>
+      <td>6</td>
+      <td>47</td>
+    </tr>
+    <tr>
+      <td>Erie</td>
+      <td>Season-only MLP</td>
+      <td>221</td>
+      <td>31</td>
+      <td>0.425</td>
+      <td>0.386</td>
+      <td>0.869</td>
+      <td>0.535</td>
+      <td>73</td>
+      <td>116</td>
+      <td>11</td>
+      <td>21</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>Season-only MLP</td>
+      <td>176</td>
+      <td>68</td>
+      <td>0.494</td>
+      <td>0.787</td>
+      <td>0.319</td>
+      <td>0.454</td>
+      <td>37</td>
+      <td>10</td>
+      <td>79</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>Season-only MLP</td>
+      <td>71</td>
+      <td>30</td>
+      <td>0.817</td>
+      <td>1.000</td>
+      <td>0.581</td>
+      <td>0.735</td>
+      <td>18</td>
+      <td>0</td>
+      <td>13</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table></div>
+<h2>08 test comparison with controls</h2><div class="table-wrapper"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>held_out_lake</th>
+      <th>model</th>
+      <th>test_examples</th>
+      <th>accuracy</th>
+      <th>precision</th>
+      <th>recall</th>
+      <th>F1</th>
+      <th>correct_warnings</th>
+      <th>false_alarms</th>
+      <th>missed_blooms</th>
+      <th>correct_low_conditions</th>
+      <th>examples</th>
+      <th>selected_epoch</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Champlain</td>
+      <td>Training majority baseline</td>
+      <td>71.000</td>
+      <td>0.676</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0</td>
+      <td>0</td>
+      <td>23</td>
+      <td>48</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Champlain</td>
+      <td>Environmental MLP</td>
+      <td>71.000</td>
+      <td>0.761</td>
+      <td>1.000</td>
+      <td>0.261</td>
+      <td>0.414</td>
+      <td>6</td>
+      <td>0</td>
+      <td>17</td>
+      <td>48</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Champlain</td>
+      <td>MLP + CNN</td>
+      <td>71.000</td>
+      <td>0.789</td>
+      <td>0.654</td>
+      <td>0.739</td>
+      <td>0.694</td>
+      <td>17</td>
+      <td>9</td>
+      <td>6</td>
+      <td>39</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Erie</td>
+      <td>Training majority baseline</td>
+      <td>221.000</td>
+      <td>0.380</td>
+      <td>0.380</td>
+      <td>1.000</td>
+      <td>0.551</td>
+      <td>84</td>
+      <td>137</td>
+      <td>0</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Erie</td>
+      <td>Environmental MLP</td>
+      <td>221.000</td>
+      <td>0.543</td>
+      <td>0.439</td>
+      <td>0.726</td>
+      <td>0.547</td>
+      <td>61</td>
+      <td>78</td>
+      <td>23</td>
+      <td>59</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>Training majority baseline</td>
+      <td>176.000</td>
+      <td>0.341</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0</td>
+      <td>0</td>
+      <td>116</td>
+      <td>60</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>Environmental MLP</td>
+      <td>176.000</td>
+      <td>0.511</td>
+      <td>0.778</td>
+      <td>0.362</td>
+      <td>0.494</td>
+      <td>42</td>
+      <td>12</td>
+      <td>74</td>
+      <td>48</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>MLP + CNN</td>
+      <td>176.000</td>
+      <td>0.528</td>
+      <td>0.800</td>
+      <td>0.379</td>
+      <td>0.515</td>
+      <td>44</td>
+      <td>11</td>
+      <td>72</td>
+      <td>49</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>Training majority baseline</td>
+      <td>71.000</td>
+      <td>0.563</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0</td>
+      <td>0</td>
+      <td>31</td>
+      <td>40</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>Environmental MLP</td>
+      <td>71.000</td>
+      <td>0.859</td>
+      <td>1.000</td>
+      <td>0.677</td>
+      <td>0.808</td>
+      <td>21</td>
+      <td>0</td>
+      <td>10</td>
+      <td>40</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>MLP + CNN</td>
+      <td>71.000</td>
+      <td>0.930</td>
+      <td>1.000</td>
+      <td>0.839</td>
+      <td>0.912</td>
+      <td>26</td>
+      <td>0</td>
+      <td>5</td>
+      <td>40</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Champlain</td>
+      <td>Availability-only control</td>
+      <td>71.000</td>
+      <td>0.761</td>
+      <td>0.714</td>
+      <td>0.435</td>
+      <td>0.541</td>
+      <td>10</td>
+      <td>4</td>
+      <td>13</td>
+      <td>44</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>Availability-only control</td>
+      <td>176.000</td>
+      <td>0.511</td>
+      <td>0.778</td>
+      <td>0.362</td>
+      <td>0.494</td>
+      <td>42</td>
+      <td>12</td>
+      <td>74</td>
+      <td>48</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>Availability-only control</td>
+      <td>71.000</td>
+      <td>0.887</td>
+      <td>1.000</td>
+      <td>0.742</td>
+      <td>0.852</td>
+      <td>23</td>
+      <td>0</td>
+      <td>8</td>
+      <td>40</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Champlain</td>
+      <td>Season-only MLP</td>
+      <td>NaN</td>
+      <td>0.901</td>
+      <td>0.944</td>
+      <td>0.739</td>
+      <td>0.829</td>
+      <td>17</td>
+      <td>1</td>
+      <td>6</td>
+      <td>47</td>
+      <td>71.000</td>
+      <td>30.000</td>
+    </tr>
+    <tr>
+      <td>Erie</td>
+      <td>Season-only MLP</td>
+      <td>NaN</td>
+      <td>0.425</td>
+      <td>0.386</td>
+      <td>0.869</td>
+      <td>0.535</td>
+      <td>73</td>
+      <td>116</td>
+      <td>11</td>
+      <td>21</td>
+      <td>221.000</td>
+      <td>31.000</td>
+    </tr>
+    <tr>
+      <td>Okeechobee</td>
+      <td>Season-only MLP</td>
+      <td>NaN</td>
+      <td>0.494</td>
+      <td>0.787</td>
+      <td>0.319</td>
+      <td>0.454</td>
+      <td>37</td>
+      <td>10</td>
+      <td>79</td>
+      <td>50</td>
+      <td>176.000</td>
+      <td>68.000</td>
+    </tr>
+    <tr>
+      <td>Upper_Klamath</td>
+      <td>Season-only MLP</td>
+      <td>NaN</td>
+      <td>0.817</td>
+      <td>1.000</td>
+      <td>0.581</td>
+      <td>0.735</td>
+      <td>18</td>
+      <td>0</td>
+      <td>13</td>
+      <td>40</td>
+      <td>71.000</td>
+      <td>30.000</td>
+    </tr>
+  </tbody>
+</table></div>
+</body></html>

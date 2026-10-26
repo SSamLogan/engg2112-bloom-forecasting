@@ -1,0 +1,13 @@
+Exported tables:
+01_main_validation_results.csv
+02_main_test_results.csv
+03_availability_control_validation.csv
+04_availability_control_test.csv
+05_erie_only_vs_multi_lake_test.csv
+06_season_only_validation.csv
+07_season_only_test.csv
+08_test_comparison_with_controls.csv
+00_dataset_summary.csv
+
+Result variables not loaded:
+None

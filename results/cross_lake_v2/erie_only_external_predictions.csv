@@ -1,0 +1,637 @@
+lake,forecast_start,forecast_end,model,actual,prediction
+Champlain,2023-01-11,2023-01-20,Environmental MLP,0,0
+Champlain,2023-01-21,2023-01-30,Environmental MLP,0,0
+Champlain,2023-01-31,2023-02-09,Environmental MLP,0,0
+Champlain,2023-02-10,2023-02-19,Environmental MLP,0,0
+Champlain,2023-02-20,2023-03-01,Environmental MLP,0,0
+Champlain,2023-03-02,2023-03-11,Environmental MLP,0,0
+Champlain,2023-03-12,2023-03-21,Environmental MLP,0,0
+Champlain,2023-03-22,2023-03-31,Environmental MLP,0,0
+Champlain,2023-04-01,2023-04-10,Environmental MLP,0,0
+Champlain,2023-04-11,2023-04-20,Environmental MLP,0,0
+Champlain,2023-04-21,2023-04-30,Environmental MLP,0,0
+Champlain,2023-05-01,2023-05-10,Environmental MLP,0,0
+Champlain,2023-05-11,2023-05-20,Environmental MLP,0,0
+Champlain,2023-05-21,2023-05-30,Environmental MLP,0,0
+Champlain,2023-05-31,2023-06-09,Environmental MLP,0,0
+Champlain,2023-06-10,2023-06-19,Environmental MLP,1,0
+Champlain,2023-06-20,2023-06-29,Environmental MLP,1,0
+Champlain,2023-06-30,2023-07-09,Environmental MLP,1,0
+Champlain,2023-07-10,2023-07-19,Environmental MLP,1,0
+Champlain,2023-07-20,2023-07-29,Environmental MLP,1,0
+Champlain,2023-07-30,2023-08-08,Environmental MLP,1,0
+Champlain,2023-08-09,2023-08-18,Environmental MLP,1,1
+Champlain,2023-08-19,2023-08-28,Environmental MLP,1,1
+Champlain,2023-08-29,2023-09-07,Environmental MLP,1,1
+Champlain,2023-09-08,2023-09-17,Environmental MLP,1,1
+Champlain,2023-09-18,2023-09-27,Environmental MLP,1,1
+Champlain,2023-09-28,2023-10-07,Environmental MLP,0,1
+Champlain,2023-10-08,2023-10-17,Environmental MLP,0,1
+Champlain,2023-10-18,2023-10-27,Environmental MLP,0,0
+Champlain,2023-10-28,2023-11-06,Environmental MLP,0,0
+Champlain,2023-11-07,2023-11-16,Environmental MLP,0,0
+Champlain,2023-11-17,2023-11-26,Environmental MLP,0,0
+Champlain,2023-11-27,2023-12-06,Environmental MLP,0,0
+Champlain,2023-12-07,2023-12-16,Environmental MLP,0,0
+Champlain,2023-12-17,2023-12-26,Environmental MLP,0,0
+Champlain,2024-01-01,2024-01-10,Environmental MLP,0,0
+Champlain,2024-01-11,2024-01-20,Environmental MLP,0,0
+Champlain,2024-01-21,2024-01-30,Environmental MLP,0,0
+Champlain,2024-01-31,2024-02-09,Environmental MLP,0,0
+Champlain,2024-02-10,2024-02-19,Environmental MLP,0,0
+Champlain,2024-02-20,2024-02-29,Environmental MLP,0,0
+Champlain,2024-03-01,2024-03-10,Environmental MLP,0,0
+Champlain,2024-03-11,2024-03-20,Environmental MLP,0,0
+Champlain,2024-03-21,2024-03-30,Environmental MLP,0,0
+Champlain,2024-03-31,2024-04-09,Environmental MLP,0,0
+Champlain,2024-04-10,2024-04-19,Environmental MLP,0,0
+Champlain,2024-04-20,2024-04-29,Environmental MLP,0,0
+Champlain,2024-04-30,2024-05-09,Environmental MLP,0,0
+Champlain,2024-05-10,2024-05-19,Environmental MLP,0,0
+Champlain,2024-05-20,2024-05-29,Environmental MLP,0,0
+Champlain,2024-05-30,2024-06-08,Environmental MLP,0,0
+Champlain,2024-06-09,2024-06-18,Environmental MLP,0,0
+Champlain,2024-06-19,2024-06-28,Environmental MLP,0,0
+Champlain,2024-06-29,2024-07-08,Environmental MLP,1,0
+Champlain,2024-07-09,2024-07-18,Environmental MLP,1,0
+Champlain,2024-07-19,2024-07-28,Environmental MLP,1,0
+Champlain,2024-07-29,2024-08-07,Environmental MLP,1,1
+Champlain,2024-08-08,2024-08-17,Environmental MLP,1,0
+Champlain,2024-08-18,2024-08-27,Environmental MLP,1,0
+Champlain,2024-08-28,2024-09-06,Environmental MLP,1,1
+Champlain,2024-09-07,2024-09-16,Environmental MLP,1,1
+Champlain,2024-09-17,2024-09-26,Environmental MLP,1,1
+Champlain,2024-09-27,2024-10-06,Environmental MLP,1,1
+Champlain,2024-10-07,2024-10-16,Environmental MLP,1,0
+Champlain,2024-10-17,2024-10-26,Environmental MLP,1,0
+Champlain,2024-10-27,2024-11-05,Environmental MLP,0,0
+Champlain,2024-11-06,2024-11-15,Environmental MLP,0,0
+Champlain,2024-11-16,2024-11-25,Environmental MLP,0,0
+Champlain,2024-11-26,2024-12-05,Environmental MLP,0,0
+Champlain,2024-12-06,2024-12-15,Environmental MLP,0,0
+Champlain,2024-12-16,2024-12-25,Environmental MLP,0,0
+Okeechobee,2019-05-21,2019-05-30,Environmental MLP,0,0
+Okeechobee,2019-07-10,2019-07-19,Environmental MLP,1,0
+Okeechobee,2019-07-30,2019-08-08,Environmental MLP,1,0
+Okeechobee,2019-10-18,2019-10-27,Environmental MLP,1,0
+Okeechobee,2020-01-11,2020-01-20,Environmental MLP,1,0
+Okeechobee,2020-01-31,2020-02-09,Environmental MLP,1,0
+Okeechobee,2020-03-31,2020-04-09,Environmental MLP,1,0
+Okeechobee,2020-04-10,2020-04-19,Environmental MLP,0,0
+Okeechobee,2020-04-20,2020-04-29,Environmental MLP,1,0
+Okeechobee,2020-04-30,2020-05-09,Environmental MLP,1,0
+Okeechobee,2020-05-10,2020-05-19,Environmental MLP,1,0
+Okeechobee,2020-05-20,2020-05-29,Environmental MLP,1,0
+Okeechobee,2020-05-30,2020-06-08,Environmental MLP,1,0
+Okeechobee,2020-06-09,2020-06-18,Environmental MLP,0,0
+Okeechobee,2020-06-19,2020-06-28,Environmental MLP,1,0
+Okeechobee,2020-06-29,2020-07-08,Environmental MLP,1,0
+Okeechobee,2020-07-09,2020-07-18,Environmental MLP,1,0
+Okeechobee,2020-07-19,2020-07-28,Environmental MLP,1,0
+Okeechobee,2020-07-29,2020-08-07,Environmental MLP,1,0
+Okeechobee,2020-08-08,2020-08-17,Environmental MLP,1,1
+Okeechobee,2020-08-18,2020-08-27,Environmental MLP,1,1
+Okeechobee,2020-09-07,2020-09-16,Environmental MLP,1,1
+Okeechobee,2020-09-17,2020-09-26,Environmental MLP,1,1
+Okeechobee,2020-09-27,2020-10-06,Environmental MLP,1,1
+Okeechobee,2020-10-07,2020-10-16,Environmental MLP,1,1
+Okeechobee,2020-10-17,2020-10-26,Environmental MLP,1,0
+Okeechobee,2020-10-27,2020-11-05,Environmental MLP,0,0
+Okeechobee,2020-11-06,2020-11-15,Environmental MLP,0,0
+Okeechobee,2020-11-16,2020-11-25,Environmental MLP,0,0
+Okeechobee,2020-12-06,2020-12-15,Environmental MLP,1,0
+Okeechobee,2020-12-16,2020-12-25,Environmental MLP,1,0
+Okeechobee,2021-01-01,2021-01-10,Environmental MLP,0,0
+Okeechobee,2021-01-11,2021-01-20,Environmental MLP,0,0
+Okeechobee,2021-01-31,2021-02-09,Environmental MLP,1,0
+Okeechobee,2021-02-10,2021-02-19,Environmental MLP,1,0
+Okeechobee,2021-03-02,2021-03-11,Environmental MLP,0,0
+Okeechobee,2021-04-01,2021-04-10,Environmental MLP,1,0
+Okeechobee,2021-04-11,2021-04-20,Environmental MLP,1,0
+Okeechobee,2021-04-21,2021-04-30,Environmental MLP,1,0
+Okeechobee,2021-05-01,2021-05-10,Environmental MLP,1,0
+Okeechobee,2021-05-11,2021-05-20,Environmental MLP,1,0
+Okeechobee,2021-05-21,2021-05-30,Environmental MLP,1,0
+Okeechobee,2021-05-31,2021-06-09,Environmental MLP,1,0
+Okeechobee,2021-06-10,2021-06-19,Environmental MLP,1,0
+Okeechobee,2021-06-20,2021-06-29,Environmental MLP,1,0
+Okeechobee,2021-06-30,2021-07-09,Environmental MLP,1,0
+Okeechobee,2021-07-10,2021-07-19,Environmental MLP,1,0
+Okeechobee,2021-07-20,2021-07-29,Environmental MLP,1,0
+Okeechobee,2021-07-30,2021-08-08,Environmental MLP,1,0
+Okeechobee,2021-08-09,2021-08-18,Environmental MLP,0,1
+Okeechobee,2021-08-19,2021-08-28,Environmental MLP,1,1
+Okeechobee,2021-08-29,2021-09-07,Environmental MLP,1,1
+Okeechobee,2021-09-08,2021-09-17,Environmental MLP,1,1
+Okeechobee,2021-09-18,2021-09-27,Environmental MLP,1,1
+Okeechobee,2021-09-28,2021-10-07,Environmental MLP,1,1
+Okeechobee,2021-10-08,2021-10-17,Environmental MLP,0,0
+Okeechobee,2021-10-18,2021-10-27,Environmental MLP,1,0
+Okeechobee,2021-10-28,2021-11-06,Environmental MLP,1,0
+Okeechobee,2021-11-07,2021-11-16,Environmental MLP,0,0
+Okeechobee,2021-11-27,2021-12-06,Environmental MLP,1,0
+Okeechobee,2021-12-07,2021-12-16,Environmental MLP,1,0
+Okeechobee,2022-01-01,2022-01-10,Environmental MLP,1,0
+Okeechobee,2022-01-21,2022-01-30,Environmental MLP,0,0
+Okeechobee,2022-01-31,2022-02-09,Environmental MLP,0,0
+Okeechobee,2022-03-02,2022-03-11,Environmental MLP,0,0
+Okeechobee,2022-03-12,2022-03-21,Environmental MLP,0,0
+Okeechobee,2022-03-22,2022-03-31,Environmental MLP,1,0
+Okeechobee,2022-04-01,2022-04-10,Environmental MLP,0,0
+Okeechobee,2022-04-11,2022-04-20,Environmental MLP,0,0
+Okeechobee,2022-05-01,2022-05-10,Environmental MLP,1,0
+Okeechobee,2022-05-11,2022-05-20,Environmental MLP,1,0
+Okeechobee,2022-05-21,2022-05-30,Environmental MLP,1,0
+Okeechobee,2022-05-31,2022-06-09,Environmental MLP,1,0
+Okeechobee,2022-06-10,2022-06-19,Environmental MLP,1,0
+Okeechobee,2022-06-20,2022-06-29,Environmental MLP,1,0
+Okeechobee,2022-06-30,2022-07-09,Environmental MLP,1,0
+Okeechobee,2022-07-10,2022-07-19,Environmental MLP,1,0
+Okeechobee,2022-07-20,2022-07-29,Environmental MLP,0,0
+Okeechobee,2022-07-30,2022-08-08,Environmental MLP,1,1
+Okeechobee,2022-08-09,2022-08-18,Environmental MLP,1,1
+Okeechobee,2022-08-19,2022-08-28,Environmental MLP,0,1
+Okeechobee,2022-08-29,2022-09-07,Environmental MLP,0,1
+Okeechobee,2022-09-18,2022-09-27,Environmental MLP,0,1
+Okeechobee,2022-09-28,2022-10-07,Environmental MLP,0,1
+Okeechobee,2022-10-08,2022-10-17,Environmental MLP,0,1
+Okeechobee,2022-10-18,2022-10-27,Environmental MLP,0,0
+Okeechobee,2022-11-07,2022-11-16,Environmental MLP,0,0
+Okeechobee,2022-11-27,2022-12-06,Environmental MLP,0,0
+Okeechobee,2022-12-07,2022-12-16,Environmental MLP,1,0
+Okeechobee,2022-12-17,2022-12-26,Environmental MLP,0,0
+Okeechobee,2023-01-01,2023-01-10,Environmental MLP,0,0
+Okeechobee,2023-01-11,2023-01-20,Environmental MLP,1,0
+Okeechobee,2023-01-31,2023-02-09,Environmental MLP,0,0
+Okeechobee,2023-02-20,2023-03-01,Environmental MLP,1,0
+Okeechobee,2023-03-02,2023-03-11,Environmental MLP,1,0
+Okeechobee,2023-03-12,2023-03-21,Environmental MLP,0,0
+Okeechobee,2023-04-01,2023-04-10,Environmental MLP,0,0
+Okeechobee,2023-04-11,2023-04-20,Environmental MLP,0,0
+Okeechobee,2023-05-01,2023-05-10,Environmental MLP,1,0
+Okeechobee,2023-05-11,2023-05-20,Environmental MLP,1,0
+Okeechobee,2023-05-21,2023-05-30,Environmental MLP,1,0
+Okeechobee,2023-05-31,2023-06-09,Environmental MLP,1,0
+Okeechobee,2023-06-10,2023-06-19,Environmental MLP,1,0
+Okeechobee,2023-06-20,2023-06-29,Environmental MLP,1,0
+Okeechobee,2023-06-30,2023-07-09,Environmental MLP,1,0
+Okeechobee,2023-07-10,2023-07-19,Environmental MLP,1,0
+Okeechobee,2023-07-20,2023-07-29,Environmental MLP,1,1
+Okeechobee,2023-07-30,2023-08-08,Environmental MLP,1,1
+Okeechobee,2023-08-09,2023-08-18,Environmental MLP,1,1
+Okeechobee,2023-08-19,2023-08-28,Environmental MLP,1,1
+Okeechobee,2023-08-29,2023-09-07,Environmental MLP,1,1
+Okeechobee,2023-09-08,2023-09-17,Environmental MLP,1,1
+Okeechobee,2023-09-18,2023-09-27,Environmental MLP,0,1
+Okeechobee,2023-09-28,2023-10-07,Environmental MLP,1,1
+Okeechobee,2023-10-08,2023-10-17,Environmental MLP,0,1
+Okeechobee,2023-11-07,2023-11-16,Environmental MLP,0,0
+Okeechobee,2023-12-07,2023-12-16,Environmental MLP,0,0
+Okeechobee,2024-01-01,2024-01-10,Environmental MLP,0,0
+Okeechobee,2024-01-11,2024-01-20,Environmental MLP,0,0
+Okeechobee,2024-01-31,2024-02-09,Environmental MLP,0,0
+Okeechobee,2024-02-10,2024-02-19,Environmental MLP,0,0
+Okeechobee,2024-03-01,2024-03-10,Environmental MLP,0,0
+Okeechobee,2024-03-11,2024-03-20,Environmental MLP,1,0
+Okeechobee,2024-03-31,2024-04-09,Environmental MLP,1,0
+Okeechobee,2024-04-10,2024-04-19,Environmental MLP,1,0
+Okeechobee,2024-04-20,2024-04-29,Environmental MLP,1,0
+Okeechobee,2024-04-30,2024-05-09,Environmental MLP,1,0
+Okeechobee,2024-05-10,2024-05-19,Environmental MLP,1,0
+Okeechobee,2024-05-20,2024-05-29,Environmental MLP,1,0
+Okeechobee,2024-05-30,2024-06-08,Environmental MLP,1,0
+Okeechobee,2024-06-09,2024-06-18,Environmental MLP,1,0
+Okeechobee,2024-06-19,2024-06-28,Environmental MLP,1,0
+Okeechobee,2024-06-29,2024-07-08,Environmental MLP,1,0
+Okeechobee,2024-07-09,2024-07-18,Environmental MLP,1,0
+Okeechobee,2024-07-19,2024-07-28,Environmental MLP,1,0
+Okeechobee,2024-07-29,2024-08-07,Environmental MLP,1,1
+Okeechobee,2024-08-08,2024-08-17,Environmental MLP,1,1
+Okeechobee,2024-08-18,2024-08-27,Environmental MLP,1,1
+Okeechobee,2024-08-28,2024-09-06,Environmental MLP,0,1
+Okeechobee,2024-09-07,2024-09-16,Environmental MLP,0,1
+Okeechobee,2024-09-17,2024-09-26,Environmental MLP,0,1
+Okeechobee,2024-09-27,2024-10-06,Environmental MLP,1,1
+Okeechobee,2024-10-07,2024-10-16,Environmental MLP,1,1
+Okeechobee,2024-10-17,2024-10-26,Environmental MLP,0,0
+Okeechobee,2024-10-27,2024-11-05,Environmental MLP,0,0
+Okeechobee,2024-11-06,2024-11-15,Environmental MLP,0,0
+Okeechobee,2024-11-26,2024-12-05,Environmental MLP,0,0
+Okeechobee,2024-12-06,2024-12-15,Environmental MLP,0,0
+Okeechobee,2025-01-01,2025-01-10,Environmental MLP,0,0
+Okeechobee,2025-01-31,2025-02-09,Environmental MLP,0,0
+Okeechobee,2025-03-02,2025-03-11,Environmental MLP,0,0
+Okeechobee,2025-04-11,2025-04-20,Environmental MLP,0,0
+Okeechobee,2025-05-01,2025-05-10,Environmental MLP,0,0
+Okeechobee,2025-05-11,2025-05-20,Environmental MLP,0,0
+Okeechobee,2025-05-21,2025-05-30,Environmental MLP,1,0
+Okeechobee,2025-05-31,2025-06-09,Environmental MLP,0,0
+Okeechobee,2025-06-10,2025-06-19,Environmental MLP,1,0
+Okeechobee,2025-06-20,2025-06-29,Environmental MLP,1,0
+Okeechobee,2025-06-30,2025-07-09,Environmental MLP,1,0
+Okeechobee,2025-07-10,2025-07-19,Environmental MLP,1,0
+Okeechobee,2025-07-20,2025-07-29,Environmental MLP,1,0
+Okeechobee,2025-07-30,2025-08-08,Environmental MLP,1,1
+Okeechobee,2025-08-09,2025-08-18,Environmental MLP,1,1
+Okeechobee,2025-08-19,2025-08-28,Environmental MLP,1,1
+Okeechobee,2025-08-29,2025-09-07,Environmental MLP,1,1
+Okeechobee,2025-09-08,2025-09-17,Environmental MLP,1,1
+Okeechobee,2025-09-18,2025-09-27,Environmental MLP,1,1
+Okeechobee,2025-09-28,2025-10-07,Environmental MLP,1,1
+Okeechobee,2025-10-08,2025-10-17,Environmental MLP,1,1
+Okeechobee,2025-10-18,2025-10-27,Environmental MLP,1,0
+Okeechobee,2025-10-28,2025-11-06,Environmental MLP,0,0
+Okeechobee,2025-11-07,2025-11-16,Environmental MLP,0,0
+Okeechobee,2025-11-17,2025-11-26,Environmental MLP,1,0
+Okeechobee,2025-11-27,2025-12-06,Environmental MLP,0,0
+Okeechobee,2025-12-07,2025-12-16,Environmental MLP,1,0
+Okeechobee,2025-12-17,2025-12-26,Environmental MLP,1,0
+Upper_Klamath,2023-01-11,2023-01-20,Environmental MLP,0,0
+Upper_Klamath,2023-01-21,2023-01-30,Environmental MLP,0,0
+Upper_Klamath,2023-01-31,2023-02-09,Environmental MLP,0,0
+Upper_Klamath,2023-02-10,2023-02-19,Environmental MLP,0,0
+Upper_Klamath,2023-02-20,2023-03-01,Environmental MLP,0,0
+Upper_Klamath,2023-03-02,2023-03-11,Environmental MLP,0,0
+Upper_Klamath,2023-03-12,2023-03-21,Environmental MLP,0,0
+Upper_Klamath,2023-03-22,2023-03-31,Environmental MLP,0,0
+Upper_Klamath,2023-04-01,2023-04-10,Environmental MLP,0,0
+Upper_Klamath,2023-04-11,2023-04-20,Environmental MLP,0,0
+Upper_Klamath,2023-04-21,2023-04-30,Environmental MLP,0,0
+Upper_Klamath,2023-05-01,2023-05-10,Environmental MLP,0,0
+Upper_Klamath,2023-05-11,2023-05-20,Environmental MLP,0,0
+Upper_Klamath,2023-05-21,2023-05-30,Environmental MLP,0,0
+Upper_Klamath,2023-05-31,2023-06-09,Environmental MLP,1,0
+Upper_Klamath,2023-06-10,2023-06-19,Environmental MLP,1,0
+Upper_Klamath,2023-06-20,2023-06-29,Environmental MLP,1,0
+Upper_Klamath,2023-06-30,2023-07-09,Environmental MLP,1,0
+Upper_Klamath,2023-07-10,2023-07-19,Environmental MLP,1,0
+Upper_Klamath,2023-07-20,2023-07-29,Environmental MLP,1,0
+Upper_Klamath,2023-07-30,2023-08-08,Environmental MLP,1,1
+Upper_Klamath,2023-08-09,2023-08-18,Environmental MLP,1,1
+Upper_Klamath,2023-08-19,2023-08-28,Environmental MLP,1,1
+Upper_Klamath,2023-08-29,2023-09-07,Environmental MLP,1,1
+Upper_Klamath,2023-09-08,2023-09-17,Environmental MLP,1,1
+Upper_Klamath,2023-09-18,2023-09-27,Environmental MLP,1,1
+Upper_Klamath,2023-09-28,2023-10-07,Environmental MLP,1,0
+Upper_Klamath,2023-10-08,2023-10-17,Environmental MLP,1,0
+Upper_Klamath,2023-10-18,2023-10-27,Environmental MLP,1,0
+Upper_Klamath,2023-10-28,2023-11-06,Environmental MLP,0,0
+Upper_Klamath,2023-11-07,2023-11-16,Environmental MLP,0,0
+Upper_Klamath,2023-11-17,2023-11-26,Environmental MLP,0,0
+Upper_Klamath,2023-11-27,2023-12-06,Environmental MLP,0,0
+Upper_Klamath,2023-12-07,2023-12-16,Environmental MLP,0,0
+Upper_Klamath,2023-12-17,2023-12-26,Environmental MLP,0,0
+Upper_Klamath,2024-01-01,2024-01-10,Environmental MLP,0,0
+Upper_Klamath,2024-01-11,2024-01-20,Environmental MLP,0,0
+Upper_Klamath,2024-01-21,2024-01-30,Environmental MLP,0,0
+Upper_Klamath,2024-01-31,2024-02-09,Environmental MLP,0,0
+Upper_Klamath,2024-02-10,2024-02-19,Environmental MLP,0,0
+Upper_Klamath,2024-02-20,2024-02-29,Environmental MLP,0,0
+Upper_Klamath,2024-03-01,2024-03-10,Environmental MLP,0,0
+Upper_Klamath,2024-03-11,2024-03-20,Environmental MLP,0,0
+Upper_Klamath,2024-03-21,2024-03-30,Environmental MLP,0,0
+Upper_Klamath,2024-03-31,2024-04-09,Environmental MLP,0,0
+Upper_Klamath,2024-04-10,2024-04-19,Environmental MLP,0,0
+Upper_Klamath,2024-04-20,2024-04-29,Environmental MLP,0,0
+Upper_Klamath,2024-04-30,2024-05-09,Environmental MLP,0,0
+Upper_Klamath,2024-05-10,2024-05-19,Environmental MLP,0,0
+Upper_Klamath,2024-05-20,2024-05-29,Environmental MLP,1,0
+Upper_Klamath,2024-05-30,2024-06-08,Environmental MLP,1,0
+Upper_Klamath,2024-06-09,2024-06-18,Environmental MLP,1,0
+Upper_Klamath,2024-06-19,2024-06-28,Environmental MLP,1,0
+Upper_Klamath,2024-06-29,2024-07-08,Environmental MLP,1,0
+Upper_Klamath,2024-07-09,2024-07-18,Environmental MLP,1,0
+Upper_Klamath,2024-07-19,2024-07-28,Environmental MLP,1,0
+Upper_Klamath,2024-07-29,2024-08-07,Environmental MLP,1,1
+Upper_Klamath,2024-08-08,2024-08-17,Environmental MLP,1,1
+Upper_Klamath,2024-08-18,2024-08-27,Environmental MLP,1,1
+Upper_Klamath,2024-08-28,2024-09-06,Environmental MLP,1,1
+Upper_Klamath,2024-09-07,2024-09-16,Environmental MLP,1,1
+Upper_Klamath,2024-09-17,2024-09-26,Environmental MLP,1,1
+Upper_Klamath,2024-09-27,2024-10-06,Environmental MLP,1,0
+Upper_Klamath,2024-10-07,2024-10-16,Environmental MLP,1,0
+Upper_Klamath,2024-10-17,2024-10-26,Environmental MLP,1,0
+Upper_Klamath,2024-10-27,2024-11-05,Environmental MLP,0,0
+Upper_Klamath,2024-11-06,2024-11-15,Environmental MLP,0,0
+Upper_Klamath,2024-11-16,2024-11-25,Environmental MLP,0,0
+Upper_Klamath,2024-11-26,2024-12-05,Environmental MLP,0,0
+Upper_Klamath,2024-12-06,2024-12-15,Environmental MLP,0,0
+Upper_Klamath,2024-12-16,2024-12-25,Environmental MLP,0,0
+Champlain,2023-01-11,2023-01-20,MLP + CNN,0,1
+Champlain,2023-01-21,2023-01-30,MLP + CNN,0,1
+Champlain,2023-01-31,2023-02-09,MLP + CNN,0,1
+Champlain,2023-02-10,2023-02-19,MLP + CNN,0,1
+Champlain,2023-02-20,2023-03-01,MLP + CNN,0,0
+Champlain,2023-03-02,2023-03-11,MLP + CNN,0,0
+Champlain,2023-03-12,2023-03-21,MLP + CNN,0,0
+Champlain,2023-03-22,2023-03-31,MLP + CNN,0,0
+Champlain,2023-04-01,2023-04-10,MLP + CNN,0,0
+Champlain,2023-04-11,2023-04-20,MLP + CNN,0,0
+Champlain,2023-04-21,2023-04-30,MLP + CNN,0,0
+Champlain,2023-05-01,2023-05-10,MLP + CNN,0,0
+Champlain,2023-05-11,2023-05-20,MLP + CNN,0,0
+Champlain,2023-05-21,2023-05-30,MLP + CNN,0,0
+Champlain,2023-05-31,2023-06-09,MLP + CNN,0,0
+Champlain,2023-06-10,2023-06-19,MLP + CNN,1,0
+Champlain,2023-06-20,2023-06-29,MLP + CNN,1,0
+Champlain,2023-06-30,2023-07-09,MLP + CNN,1,0
+Champlain,2023-07-10,2023-07-19,MLP + CNN,1,0
+Champlain,2023-07-20,2023-07-29,MLP + CNN,1,0
+Champlain,2023-07-30,2023-08-08,MLP + CNN,1,1
+Champlain,2023-08-09,2023-08-18,MLP + CNN,1,1
+Champlain,2023-08-19,2023-08-28,MLP + CNN,1,1
+Champlain,2023-08-29,2023-09-07,MLP + CNN,1,1
+Champlain,2023-09-08,2023-09-17,MLP + CNN,1,1
+Champlain,2023-09-18,2023-09-27,MLP + CNN,1,1
+Champlain,2023-09-28,2023-10-07,MLP + CNN,0,1
+Champlain,2023-10-08,2023-10-17,MLP + CNN,0,1
+Champlain,2023-10-18,2023-10-27,MLP + CNN,0,1
+Champlain,2023-10-28,2023-11-06,MLP + CNN,0,1
+Champlain,2023-11-07,2023-11-16,MLP + CNN,0,1
+Champlain,2023-11-17,2023-11-26,MLP + CNN,0,1
+Champlain,2023-11-27,2023-12-06,MLP + CNN,0,1
+Champlain,2023-12-07,2023-12-16,MLP + CNN,0,1
+Champlain,2023-12-17,2023-12-26,MLP + CNN,0,1
+Champlain,2024-01-01,2024-01-10,MLP + CNN,0,1
+Champlain,2024-01-11,2024-01-20,MLP + CNN,0,1
+Champlain,2024-01-21,2024-01-30,MLP + CNN,0,1
+Champlain,2024-01-31,2024-02-09,MLP + CNN,0,1
+Champlain,2024-02-10,2024-02-19,MLP + CNN,0,1
+Champlain,2024-02-20,2024-02-29,MLP + CNN,0,0
+Champlain,2024-03-01,2024-03-10,MLP + CNN,0,0
+Champlain,2024-03-11,2024-03-20,MLP + CNN,0,0
+Champlain,2024-03-21,2024-03-30,MLP + CNN,0,0
+Champlain,2024-03-31,2024-04-09,MLP + CNN,0,0
+Champlain,2024-04-10,2024-04-19,MLP + CNN,0,0
+Champlain,2024-04-20,2024-04-29,MLP + CNN,0,0
+Champlain,2024-04-30,2024-05-09,MLP + CNN,0,0
+Champlain,2024-05-10,2024-05-19,MLP + CNN,0,0
+Champlain,2024-05-20,2024-05-29,MLP + CNN,0,0
+Champlain,2024-05-30,2024-06-08,MLP + CNN,0,0
+Champlain,2024-06-09,2024-06-18,MLP + CNN,0,0
+Champlain,2024-06-19,2024-06-28,MLP + CNN,0,0
+Champlain,2024-06-29,2024-07-08,MLP + CNN,1,0
+Champlain,2024-07-09,2024-07-18,MLP + CNN,1,0
+Champlain,2024-07-19,2024-07-28,MLP + CNN,1,0
+Champlain,2024-07-29,2024-08-07,MLP + CNN,1,1
+Champlain,2024-08-08,2024-08-17,MLP + CNN,1,1
+Champlain,2024-08-18,2024-08-27,MLP + CNN,1,1
+Champlain,2024-08-28,2024-09-06,MLP + CNN,1,1
+Champlain,2024-09-07,2024-09-16,MLP + CNN,1,1
+Champlain,2024-09-17,2024-09-26,MLP + CNN,1,1
+Champlain,2024-09-27,2024-10-06,MLP + CNN,1,1
+Champlain,2024-10-07,2024-10-16,MLP + CNN,1,1
+Champlain,2024-10-17,2024-10-26,MLP + CNN,1,1
+Champlain,2024-10-27,2024-11-05,MLP + CNN,0,1
+Champlain,2024-11-06,2024-11-15,MLP + CNN,0,1
+Champlain,2024-11-16,2024-11-25,MLP + CNN,0,1
+Champlain,2024-11-26,2024-12-05,MLP + CNN,0,1
+Champlain,2024-12-06,2024-12-15,MLP + CNN,0,1
+Champlain,2024-12-16,2024-12-25,MLP + CNN,0,1
+Okeechobee,2019-05-21,2019-05-30,MLP + CNN,0,0
+Okeechobee,2019-07-10,2019-07-19,MLP + CNN,1,0
+Okeechobee,2019-07-30,2019-08-08,MLP + CNN,1,1
+Okeechobee,2019-10-18,2019-10-27,MLP + CNN,1,1
+Okeechobee,2020-01-11,2020-01-20,MLP + CNN,1,1
+Okeechobee,2020-01-31,2020-02-09,MLP + CNN,1,1
+Okeechobee,2020-03-31,2020-04-09,MLP + CNN,1,0
+Okeechobee,2020-04-10,2020-04-19,MLP + CNN,0,0
+Okeechobee,2020-04-20,2020-04-29,MLP + CNN,1,0
+Okeechobee,2020-04-30,2020-05-09,MLP + CNN,1,0
+Okeechobee,2020-05-10,2020-05-19,MLP + CNN,1,0
+Okeechobee,2020-05-20,2020-05-29,MLP + CNN,1,0
+Okeechobee,2020-05-30,2020-06-08,MLP + CNN,1,0
+Okeechobee,2020-06-09,2020-06-18,MLP + CNN,0,0
+Okeechobee,2020-06-19,2020-06-28,MLP + CNN,1,0
+Okeechobee,2020-06-29,2020-07-08,MLP + CNN,1,0
+Okeechobee,2020-07-09,2020-07-18,MLP + CNN,1,0
+Okeechobee,2020-07-19,2020-07-28,MLP + CNN,1,0
+Okeechobee,2020-07-29,2020-08-07,MLP + CNN,1,1
+Okeechobee,2020-08-08,2020-08-17,MLP + CNN,1,1
+Okeechobee,2020-08-18,2020-08-27,MLP + CNN,1,1
+Okeechobee,2020-09-07,2020-09-16,MLP + CNN,1,1
+Okeechobee,2020-09-17,2020-09-26,MLP + CNN,1,1
+Okeechobee,2020-09-27,2020-10-06,MLP + CNN,1,1
+Okeechobee,2020-10-07,2020-10-16,MLP + CNN,1,1
+Okeechobee,2020-10-17,2020-10-26,MLP + CNN,1,1
+Okeechobee,2020-10-27,2020-11-05,MLP + CNN,0,1
+Okeechobee,2020-11-06,2020-11-15,MLP + CNN,0,1
+Okeechobee,2020-11-16,2020-11-25,MLP + CNN,0,1
+Okeechobee,2020-12-06,2020-12-15,MLP + CNN,1,1
+Okeechobee,2020-12-16,2020-12-25,MLP + CNN,1,1
+Okeechobee,2021-01-01,2021-01-10,MLP + CNN,0,1
+Okeechobee,2021-01-11,2021-01-20,MLP + CNN,0,1
+Okeechobee,2021-01-31,2021-02-09,MLP + CNN,1,1
+Okeechobee,2021-02-10,2021-02-19,MLP + CNN,1,1
+Okeechobee,2021-03-02,2021-03-11,MLP + CNN,0,0
+Okeechobee,2021-04-01,2021-04-10,MLP + CNN,1,0
+Okeechobee,2021-04-11,2021-04-20,MLP + CNN,1,0
+Okeechobee,2021-04-21,2021-04-30,MLP + CNN,1,0
+Okeechobee,2021-05-01,2021-05-10,MLP + CNN,1,0
+Okeechobee,2021-05-11,2021-05-20,MLP + CNN,1,0
+Okeechobee,2021-05-21,2021-05-30,MLP + CNN,1,0
+Okeechobee,2021-05-31,2021-06-09,MLP + CNN,1,0
+Okeechobee,2021-06-10,2021-06-19,MLP + CNN,1,0
+Okeechobee,2021-06-20,2021-06-29,MLP + CNN,1,0
+Okeechobee,2021-06-30,2021-07-09,MLP + CNN,1,0
+Okeechobee,2021-07-10,2021-07-19,MLP + CNN,1,0
+Okeechobee,2021-07-20,2021-07-29,MLP + CNN,1,0
+Okeechobee,2021-07-30,2021-08-08,MLP + CNN,1,1
+Okeechobee,2021-08-09,2021-08-18,MLP + CNN,0,1
+Okeechobee,2021-08-19,2021-08-28,MLP + CNN,1,1
+Okeechobee,2021-08-29,2021-09-07,MLP + CNN,1,1
+Okeechobee,2021-09-08,2021-09-17,MLP + CNN,1,1
+Okeechobee,2021-09-18,2021-09-27,MLP + CNN,1,1
+Okeechobee,2021-09-28,2021-10-07,MLP + CNN,1,1
+Okeechobee,2021-10-08,2021-10-17,MLP + CNN,0,1
+Okeechobee,2021-10-18,2021-10-27,MLP + CNN,1,1
+Okeechobee,2021-10-28,2021-11-06,MLP + CNN,1,1
+Okeechobee,2021-11-07,2021-11-16,MLP + CNN,0,1
+Okeechobee,2021-11-27,2021-12-06,MLP + CNN,1,1
+Okeechobee,2021-12-07,2021-12-16,MLP + CNN,1,1
+Okeechobee,2022-01-01,2022-01-10,MLP + CNN,1,1
+Okeechobee,2022-01-21,2022-01-30,MLP + CNN,0,1
+Okeechobee,2022-01-31,2022-02-09,MLP + CNN,0,1
+Okeechobee,2022-03-02,2022-03-11,MLP + CNN,0,0
+Okeechobee,2022-03-12,2022-03-21,MLP + CNN,0,0
+Okeechobee,2022-03-22,2022-03-31,MLP + CNN,1,0
+Okeechobee,2022-04-01,2022-04-10,MLP + CNN,0,0
+Okeechobee,2022-04-11,2022-04-20,MLP + CNN,0,0
+Okeechobee,2022-05-01,2022-05-10,MLP + CNN,1,0
+Okeechobee,2022-05-11,2022-05-20,MLP + CNN,1,0
+Okeechobee,2022-05-21,2022-05-30,MLP + CNN,1,0
+Okeechobee,2022-05-31,2022-06-09,MLP + CNN,1,0
+Okeechobee,2022-06-10,2022-06-19,MLP + CNN,1,0
+Okeechobee,2022-06-20,2022-06-29,MLP + CNN,1,0
+Okeechobee,2022-06-30,2022-07-09,MLP + CNN,1,0
+Okeechobee,2022-07-10,2022-07-19,MLP + CNN,1,0
+Okeechobee,2022-07-20,2022-07-29,MLP + CNN,0,0
+Okeechobee,2022-07-30,2022-08-08,MLP + CNN,1,1
+Okeechobee,2022-08-09,2022-08-18,MLP + CNN,1,1
+Okeechobee,2022-08-19,2022-08-28,MLP + CNN,0,1
+Okeechobee,2022-08-29,2022-09-07,MLP + CNN,0,1
+Okeechobee,2022-09-18,2022-09-27,MLP + CNN,0,1
+Okeechobee,2022-09-28,2022-10-07,MLP + CNN,0,1
+Okeechobee,2022-10-08,2022-10-17,MLP + CNN,0,1
+Okeechobee,2022-10-18,2022-10-27,MLP + CNN,0,1
+Okeechobee,2022-11-07,2022-11-16,MLP + CNN,0,1
+Okeechobee,2022-11-27,2022-12-06,MLP + CNN,0,1
+Okeechobee,2022-12-07,2022-12-16,MLP + CNN,1,1
+Okeechobee,2022-12-17,2022-12-26,MLP + CNN,0,1
+Okeechobee,2023-01-01,2023-01-10,MLP + CNN,0,1
+Okeechobee,2023-01-11,2023-01-20,MLP + CNN,1,1
+Okeechobee,2023-01-31,2023-02-09,MLP + CNN,0,1
+Okeechobee,2023-02-20,2023-03-01,MLP + CNN,1,0
+Okeechobee,2023-03-02,2023-03-11,MLP + CNN,1,0
+Okeechobee,2023-03-12,2023-03-21,MLP + CNN,0,0
+Okeechobee,2023-04-01,2023-04-10,MLP + CNN,0,0
+Okeechobee,2023-04-11,2023-04-20,MLP + CNN,0,0
+Okeechobee,2023-05-01,2023-05-10,MLP + CNN,1,0
+Okeechobee,2023-05-11,2023-05-20,MLP + CNN,1,0
+Okeechobee,2023-05-21,2023-05-30,MLP + CNN,1,0
+Okeechobee,2023-05-31,2023-06-09,MLP + CNN,1,0
+Okeechobee,2023-06-10,2023-06-19,MLP + CNN,1,0
+Okeechobee,2023-06-20,2023-06-29,MLP + CNN,1,0
+Okeechobee,2023-06-30,2023-07-09,MLP + CNN,1,0
+Okeechobee,2023-07-10,2023-07-19,MLP + CNN,1,0
+Okeechobee,2023-07-20,2023-07-29,MLP + CNN,1,0
+Okeechobee,2023-07-30,2023-08-08,MLP + CNN,1,1
+Okeechobee,2023-08-09,2023-08-18,MLP + CNN,1,1
+Okeechobee,2023-08-19,2023-08-28,MLP + CNN,1,1
+Okeechobee,2023-08-29,2023-09-07,MLP + CNN,1,1
+Okeechobee,2023-09-08,2023-09-17,MLP + CNN,1,1
+Okeechobee,2023-09-18,2023-09-27,MLP + CNN,0,1
+Okeechobee,2023-09-28,2023-10-07,MLP + CNN,1,1
+Okeechobee,2023-10-08,2023-10-17,MLP + CNN,0,1
+Okeechobee,2023-11-07,2023-11-16,MLP + CNN,0,1
+Okeechobee,2023-12-07,2023-12-16,MLP + CNN,0,1
+Okeechobee,2024-01-01,2024-01-10,MLP + CNN,0,1
+Okeechobee,2024-01-11,2024-01-20,MLP + CNN,0,1
+Okeechobee,2024-01-31,2024-02-09,MLP + CNN,0,1
+Okeechobee,2024-02-10,2024-02-19,MLP + CNN,0,1
+Okeechobee,2024-03-01,2024-03-10,MLP + CNN,0,0
+Okeechobee,2024-03-11,2024-03-20,MLP + CNN,1,0
+Okeechobee,2024-03-31,2024-04-09,MLP + CNN,1,0
+Okeechobee,2024-04-10,2024-04-19,MLP + CNN,1,0
+Okeechobee,2024-04-20,2024-04-29,MLP + CNN,1,0
+Okeechobee,2024-04-30,2024-05-09,MLP + CNN,1,0
+Okeechobee,2024-05-10,2024-05-19,MLP + CNN,1,0
+Okeechobee,2024-05-20,2024-05-29,MLP + CNN,1,0
+Okeechobee,2024-05-30,2024-06-08,MLP + CNN,1,0
+Okeechobee,2024-06-09,2024-06-18,MLP + CNN,1,0
+Okeechobee,2024-06-19,2024-06-28,MLP + CNN,1,0
+Okeechobee,2024-06-29,2024-07-08,MLP + CNN,1,0
+Okeechobee,2024-07-09,2024-07-18,MLP + CNN,1,0
+Okeechobee,2024-07-19,2024-07-28,MLP + CNN,1,0
+Okeechobee,2024-07-29,2024-08-07,MLP + CNN,1,1
+Okeechobee,2024-08-08,2024-08-17,MLP + CNN,1,1
+Okeechobee,2024-08-18,2024-08-27,MLP + CNN,1,1
+Okeechobee,2024-08-28,2024-09-06,MLP + CNN,0,1
+Okeechobee,2024-09-07,2024-09-16,MLP + CNN,0,1
+Okeechobee,2024-09-17,2024-09-26,MLP + CNN,0,1
+Okeechobee,2024-09-27,2024-10-06,MLP + CNN,1,1
+Okeechobee,2024-10-07,2024-10-16,MLP + CNN,1,1
+Okeechobee,2024-10-17,2024-10-26,MLP + CNN,0,1
+Okeechobee,2024-10-27,2024-11-05,MLP + CNN,0,1
+Okeechobee,2024-11-06,2024-11-15,MLP + CNN,0,1
+Okeechobee,2024-11-26,2024-12-05,MLP + CNN,0,1
+Okeechobee,2024-12-06,2024-12-15,MLP + CNN,0,1
+Okeechobee,2025-01-01,2025-01-10,MLP + CNN,0,1
+Okeechobee,2025-01-31,2025-02-09,MLP + CNN,0,1
+Okeechobee,2025-03-02,2025-03-11,MLP + CNN,0,0
+Okeechobee,2025-04-11,2025-04-20,MLP + CNN,0,0
+Okeechobee,2025-05-01,2025-05-10,MLP + CNN,0,0
+Okeechobee,2025-05-11,2025-05-20,MLP + CNN,0,0
+Okeechobee,2025-05-21,2025-05-30,MLP + CNN,1,0
+Okeechobee,2025-05-31,2025-06-09,MLP + CNN,0,0
+Okeechobee,2025-06-10,2025-06-19,MLP + CNN,1,0
+Okeechobee,2025-06-20,2025-06-29,MLP + CNN,1,0
+Okeechobee,2025-06-30,2025-07-09,MLP + CNN,1,0
+Okeechobee,2025-07-10,2025-07-19,MLP + CNN,1,0
+Okeechobee,2025-07-20,2025-07-29,MLP + CNN,1,0
+Okeechobee,2025-07-30,2025-08-08,MLP + CNN,1,1
+Okeechobee,2025-08-09,2025-08-18,MLP + CNN,1,1
+Okeechobee,2025-08-19,2025-08-28,MLP + CNN,1,1
+Okeechobee,2025-08-29,2025-09-07,MLP + CNN,1,1
+Okeechobee,2025-09-08,2025-09-17,MLP + CNN,1,1
+Okeechobee,2025-09-18,2025-09-27,MLP + CNN,1,1
+Okeechobee,2025-09-28,2025-10-07,MLP + CNN,1,1
+Okeechobee,2025-10-08,2025-10-17,MLP + CNN,1,1
+Okeechobee,2025-10-18,2025-10-27,MLP + CNN,1,1
+Okeechobee,2025-10-28,2025-11-06,MLP + CNN,0,1
+Okeechobee,2025-11-07,2025-11-16,MLP + CNN,0,1
+Okeechobee,2025-11-17,2025-11-26,MLP + CNN,1,1
+Okeechobee,2025-11-27,2025-12-06,MLP + CNN,0,1
+Okeechobee,2025-12-07,2025-12-16,MLP + CNN,1,1
+Okeechobee,2025-12-17,2025-12-26,MLP + CNN,1,1
+Upper_Klamath,2023-01-11,2023-01-20,MLP + CNN,0,1
+Upper_Klamath,2023-01-21,2023-01-30,MLP + CNN,0,1
+Upper_Klamath,2023-01-31,2023-02-09,MLP + CNN,0,1
+Upper_Klamath,2023-02-10,2023-02-19,MLP + CNN,0,1
+Upper_Klamath,2023-02-20,2023-03-01,MLP + CNN,0,0
+Upper_Klamath,2023-03-02,2023-03-11,MLP + CNN,0,0
+Upper_Klamath,2023-03-12,2023-03-21,MLP + CNN,0,0
+Upper_Klamath,2023-03-22,2023-03-31,MLP + CNN,0,0
+Upper_Klamath,2023-04-01,2023-04-10,MLP + CNN,0,0
+Upper_Klamath,2023-04-11,2023-04-20,MLP + CNN,0,0
+Upper_Klamath,2023-04-21,2023-04-30,MLP + CNN,0,0
+Upper_Klamath,2023-05-01,2023-05-10,MLP + CNN,0,0
+Upper_Klamath,2023-05-11,2023-05-20,MLP + CNN,0,0
+Upper_Klamath,2023-05-21,2023-05-30,MLP + CNN,0,0
+Upper_Klamath,2023-05-31,2023-06-09,MLP + CNN,1,0
+Upper_Klamath,2023-06-10,2023-06-19,MLP + CNN,1,0
+Upper_Klamath,2023-06-20,2023-06-29,MLP + CNN,1,0
+Upper_Klamath,2023-06-30,2023-07-09,MLP + CNN,1,0
+Upper_Klamath,2023-07-10,2023-07-19,MLP + CNN,1,0
+Upper_Klamath,2023-07-20,2023-07-29,MLP + CNN,1,0
+Upper_Klamath,2023-07-30,2023-08-08,MLP + CNN,1,1
+Upper_Klamath,2023-08-09,2023-08-18,MLP + CNN,1,1
+Upper_Klamath,2023-08-19,2023-08-28,MLP + CNN,1,1
+Upper_Klamath,2023-08-29,2023-09-07,MLP + CNN,1,1
+Upper_Klamath,2023-09-08,2023-09-17,MLP + CNN,1,1
+Upper_Klamath,2023-09-18,2023-09-27,MLP + CNN,1,1
+Upper_Klamath,2023-09-28,2023-10-07,MLP + CNN,1,1
+Upper_Klamath,2023-10-08,2023-10-17,MLP + CNN,1,1
+Upper_Klamath,2023-10-18,2023-10-27,MLP + CNN,1,1
+Upper_Klamath,2023-10-28,2023-11-06,MLP + CNN,0,1
+Upper_Klamath,2023-11-07,2023-11-16,MLP + CNN,0,1
+Upper_Klamath,2023-11-17,2023-11-26,MLP + CNN,0,1
+Upper_Klamath,2023-11-27,2023-12-06,MLP + CNN,0,1
+Upper_Klamath,2023-12-07,2023-12-16,MLP + CNN,0,1
+Upper_Klamath,2023-12-17,2023-12-26,MLP + CNN,0,1
+Upper_Klamath,2024-01-01,2024-01-10,MLP + CNN,0,1
+Upper_Klamath,2024-01-11,2024-01-20,MLP + CNN,0,1
+Upper_Klamath,2024-01-21,2024-01-30,MLP + CNN,0,1
+Upper_Klamath,2024-01-31,2024-02-09,MLP + CNN,0,1
+Upper_Klamath,2024-02-10,2024-02-19,MLP + CNN,0,1
+Upper_Klamath,2024-02-20,2024-02-29,MLP + CNN,0,0
+Upper_Klamath,2024-03-01,2024-03-10,MLP + CNN,0,0
+Upper_Klamath,2024-03-11,2024-03-20,MLP + CNN,0,0
+Upper_Klamath,2024-03-21,2024-03-30,MLP + CNN,0,0
+Upper_Klamath,2024-03-31,2024-04-09,MLP + CNN,0,0
+Upper_Klamath,2024-04-10,2024-04-19,MLP + CNN,0,0
+Upper_Klamath,2024-04-20,2024-04-29,MLP + CNN,0,0
+Upper_Klamath,2024-04-30,2024-05-09,MLP + CNN,0,0
+Upper_Klamath,2024-05-10,2024-05-19,MLP + CNN,0,0
+Upper_Klamath,2024-05-20,2024-05-29,MLP + CNN,1,0
+Upper_Klamath,2024-05-30,2024-06-08,MLP + CNN,1,0
+Upper_Klamath,2024-06-09,2024-06-18,MLP + CNN,1,0
+Upper_Klamath,2024-06-19,2024-06-28,MLP + CNN,1,0
+Upper_Klamath,2024-06-29,2024-07-08,MLP + CNN,1,0
+Upper_Klamath,2024-07-09,2024-07-18,MLP + CNN,1,0
+Upper_Klamath,2024-07-19,2024-07-28,MLP + CNN,1,0
+Upper_Klamath,2024-07-29,2024-08-07,MLP + CNN,1,1
+Upper_Klamath,2024-08-08,2024-08-17,MLP + CNN,1,1
+Upper_Klamath,2024-08-18,2024-08-27,MLP + CNN,1,1
+Upper_Klamath,2024-08-28,2024-09-06,MLP + CNN,1,1
+Upper_Klamath,2024-09-07,2024-09-16,MLP + CNN,1,1
+Upper_Klamath,2024-09-17,2024-09-26,MLP + CNN,1,1
+Upper_Klamath,2024-09-27,2024-10-06,MLP + CNN,1,1
+Upper_Klamath,2024-10-07,2024-10-16,MLP + CNN,1,1
+Upper_Klamath,2024-10-17,2024-10-26,MLP + CNN,1,1
+Upper_Klamath,2024-10-27,2024-11-05,MLP + CNN,0,1
+Upper_Klamath,2024-11-06,2024-11-15,MLP + CNN,0,1
+Upper_Klamath,2024-11-16,2024-11-25,MLP + CNN,0,1
+Upper_Klamath,2024-11-26,2024-12-05,MLP + CNN,0,1
+Upper_Klamath,2024-12-06,2024-12-15,MLP + CNN,0,1
+Upper_Klamath,2024-12-16,2024-12-25,MLP + CNN,0,1
