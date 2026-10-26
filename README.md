@@ -1,3 +1,17 @@
+## Start here
+
+- **Read the findings:** open
+  `results/team_findings/OPEN_ME_results.html` in a browser.
+- **Read the final experiment code:** open
+  `notebooks/04_cross_lake_preparation.ipynb`.
+- **Review satellite preparation:** open
+  `notebooks/03_satellite_inspection.ipynb`.
+- **Inspect detailed results:** see `results/experiments/`.
+- **Earlier exploratory work:** see `archive/`.
+
+The notebooks contain saved outputs, so you can read the results
+without rerunning the models. Data files are shared separately.
+
 # ENGG2112 — Cross-lake bloom forecasting
 
 This project investigates whether models trained on several lakes
